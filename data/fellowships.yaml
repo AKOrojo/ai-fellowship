@@ -727,8 +727,9 @@ fellowships:
   cycles:
   - cycle: 2026 Cohort (closed)
     deadline: '2025-11-30'
-  - cycle: 2027 Cohort (applications reopen Nov 2026)
-    deadline: Closed
+  - cycle: 2027 Cohort (applications open 2026-11-01)
+    deadline: Unknown
+    opens: '2026-11-01'
 - id: sff-2026-s-process-grant-round
   name: SFF-2026 S-Process Grant Round
   organization: Survival and Flourishing Fund
