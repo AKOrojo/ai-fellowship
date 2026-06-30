@@ -114,8 +114,6 @@ fellowships:
   source: community
   last_verified: '2026-06-30'
   cycles:
-  - cycle: 2027 Competition (FY2027) — next cycle
-    deadline: Closed
   - cycle: 2026 Comp — Life Sciences (CLOSED)
     deadline: '2025-11-10'
     opens: '2025-09-26'
@@ -128,26 +126,6 @@ fellowships:
   - cycle: 2026 Comp — Chem/Geo/Math/Physics (CLOSED)
     deadline: '2025-11-14'
     opens: '2025-09-26'
-- id: open-phil-aifellowship
-  name: Coefficient Giving AI Fellowship
-  organization: Coefficient Giving (formerly Open Philanthropy)
-  category: academic-phd
-  url: https://coefficientgiving.org/ai-fellowship/
-  description: 'Fellowship for full-time AI/ML PhD students researching how to reduce catastrophic risk from advanced AI; about $40k stipend, $10k research support, plus tuition. NOTE: the program is currently paused and not accepting new applications until further notice.'
-  location: Remote / various
-  eligibility: Full-time PhD students in AI/ML-related fields.
-  funding: ~$40k stipend + $10k research support + tuition
-  duration: Up to 5 years (PhD duration)
-  tags:
-  - phd
-  - funding
-  - ai-safety
-  - paused
-  source: community
-  last_verified: '2026-06-30'
-  cycles:
-  - cycle: Paused - not accepting applications
-    deadline: Unknown
 - id: horizon-fellowship
   name: Horizon Fellowship
   organization: Horizon Institute for Public Service
@@ -170,8 +148,6 @@ fellowships:
   cycles:
   - cycle: 2026 Cohort
     deadline: '2025-09-02'
-  - cycle: 2027 Cohort (upcoming)
-    deadline: Closed
 - id: rand-tasp
   name: Center on AI, Security, and Technology Fellows Program (formerly TASP)
   organization: RAND Corporation
@@ -275,8 +251,6 @@ fellowships:
   source: community
   last_verified: '2026-06-30'
   cycles:
-  - cycle: 2027 Cohort (next/upcoming)
-    deadline: Closed
   - cycle: 2026 Cohort (closed; runs Jan 12-Aug 29, 2026)
     deadline: '2025-08-29'
 - id: student-researcher-program
@@ -319,8 +293,6 @@ fellowships:
   cycles:
   - cycle: 2026-2027 Academic Year (most recent, now CLOSED)
     deadline: '2025-09-15'
-  - cycle: 2027-2028 Academic Year (next upcoming, not yet announced)
-    deadline: Closed
 - id: pibbss-fellowship
   name: PIBBSS Fellowship
   organization: Principles of Intelligence (PrincInt / PIBBSS)
@@ -428,28 +400,6 @@ fellowships:
   cycles:
   - cycle: 2026 (rolling via monthly Sprints)
     deadline: Rolling
-- id: cooperative-ai-phd-fellowship
-  name: Cooperative AI PhD Fellowship
-  organization: Cooperative AI Foundation
-  category: academic-phd
-  url: https://www.cooperativeai.com/phd-fellowship/2026
-  description: Supports current and prospective PhD students worldwide researching cooperative AI and multi-agent cooperation problems, offering living-stipend top-ups, compute and conference budgets, and access to a research community and closed-door events.
-  location: Global / remote
-  eligibility: Enrolled or about to enroll in a PhD at an accredited university; research focused on cooperative/multi-agent AI; no nationality or location restrictions.
-  funding: Up to $40,000/year living stipend or top-up; plus compute and conference budgets
-  duration: Up to 3 years
-  tags:
-  - phd
-  - cooperative-ai
-  - multi-agent
-  - ai-safety
-  source: community
-  last_verified: '2026-06-30'
-  cycles:
-  - cycle: 2026 Cohort
-    deadline: '2025-11-16'
-  - cycle: 2027 Cohort
-    deadline: Unknown
 - id: meta-research-phd-fellowship
   name: Meta Research PhD Fellowship
   organization: Meta
@@ -492,8 +442,6 @@ fellowships:
   - cycle: Class of 2026
     deadline: '2025-10-31'
     opens: '2025-10-01'
-  - cycle: Class of 2027
-    deadline: Unknown
 - id: vitalik-buterin-phd-fellowship-in-ai-existential-safety
   name: Vitalik Buterin PhD Fellowship in AI Existential Safety
   organization: Future of Life Institute
@@ -514,8 +462,6 @@ fellowships:
   cycles:
   - cycle: 2026 Cohort
     deadline: '2025-11-21'
-  - cycle: 2027 Cohort
-    deadline: Unknown
 - id: congressional-innovation-fellowship
   name: Congressional Innovation Fellowship
   organization: TechCongress
@@ -538,8 +484,6 @@ fellowships:
   cycles:
   - cycle: January 2027 Cohort
     deadline: '2026-06-25'
-  - cycle: January 2028 Cohort (opens summer 2027)
-    deadline: Unknown
 - id: science-technology-policy-fellowships-stpf
   name: Science & Technology Policy Fellowships (STPF)
   organization: American Association for the Advancement of Science (AAAS)
@@ -656,9 +600,6 @@ fellowships:
   - cycle: 2026 Cohort
     deadline: '2026-01-30'
     opens: '2025-11-09'
-  - cycle: 2027 Cohort (nominations open early 2027)
-    deadline: Unknown
-    opens: '2027-01-01'
 - id: african-master-s-in-machine-intelligence-ammi
   name: African Master's in Machine Intelligence (AMMI)
   organization: African Institute for Mathematical Sciences (AIMS)

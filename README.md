@@ -23,8 +23,6 @@ A community-maintained, always-current list of **AI fellowships, residencies, an
 | [NVIDIA Graduate Fellowship Program](https://research.nvidia.com/graduate-fellowships) | NVIDIA | 2026-2027 Academic Year (most recent, now CLOSED) | 2025-09-15 | 🔴 Closed | Worldwide (internship at NVIDIA research office) |
 | [AIML Residency Program](https://machinelearning.apple.com/updates/aiml-residency-program-application-2026) | Apple | 2026 Cohort | 2025-12-15 | 🔴 Closed | United States (on-site) |
 | [Google PhD Fellowship Program](https://research.google/programs-and-events/phd-fellowship/) | Google Research | 2026 Cohort | 2026-04-30 | 🔴 Closed | Global (region-specific) |
-| [Cohere Labs Scholars Program](https://cohere.com/research/scholars-program) | Cohere (Cohere Labs) | 2027 Cohort (next/upcoming) | Closed | 🔴 Closed | Remote-first (global); optional in-person at Cohere offices |
-| [NVIDIA Graduate Fellowship Program](https://research.nvidia.com/graduate-fellowships) | NVIDIA | 2027-2028 Academic Year (next upcoming, not yet announced) | Closed | 🔴 Closed | Worldwide (internship at NVIDIA research office) |
 | [OpenAI Residency](https://openai.com/residency/) | OpenAI | 2026 Cohort | Rolling | 🟡 Rolling | San Francisco, CA (3+ days/week in office) |
 | [OpenAI Residency](https://openai.com/residency/) | OpenAI | Future postings (rolling) | Rolling | 🟡 Rolling | San Francisco, CA (3+ days/week in office) |
 | [Microsoft Research AI Residency Program](https://www.microsoft.com/en-us/research/academic-program/cambridge-residency/) | Microsoft Research | 2026 Cycle | Rolling | 🟡 Rolling | Redmond, WA / Cambridge, UK |
@@ -62,15 +60,9 @@ A community-maintained, always-current list of **AI fellowships, residencies, an
 | [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org) | US National Science Foundation | 2026 Comp — CISE/Materials/Psych/SBE/STEM Ed (CLOSED) | 2025-11-12 | 🔴 Closed | United States |
 | [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org) | US National Science Foundation | 2026 Comp — Engineering (CLOSED) | 2025-11-13 | 🔴 Closed | United States |
 | [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org) | US National Science Foundation | 2026 Comp — Chem/Geo/Math/Physics (CLOSED) | 2025-11-14 | 🔴 Closed | United States |
-| [Cooperative AI PhD Fellowship](https://www.cooperativeai.com/phd-fellowship/2026) | Cooperative AI Foundation | 2026 Cohort | 2025-11-16 | 🔴 Closed | Global / remote |
 | [Vitalik Buterin PhD Fellowship in AI Existential Safety](https://futureoflife.org/grant-program/phd-fellowships/) | Future of Life Institute | 2026 Cohort | 2025-11-21 | 🔴 Closed | Global (US/UK/Canada stipend) |
 | [IndiaAI Fellowship for PhD Students](https://indiaai.gov.in/article/indiaai-fellowship-under-the-indiaai-mission) | IndiaAI Mission, MeitY (Government of India) | 2026 Cycle | 2026-02-28 | 🔴 Closed | India (top 50 NIRF-ranked institutes) |
 | [Meta Research PhD Fellowship](https://metaresearchphdfellowship.smapply.io/) | Meta | 2026 Cycle | 2026-09-20 | 🔵 Upcoming | Global |
-| [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org) | US National Science Foundation | 2027 Competition (FY2027) — next cycle | Closed | 🔴 Closed | United States |
-| [Coefficient Giving AI Fellowship](https://coefficientgiving.org/ai-fellowship/) | Coefficient Giving (formerly Open Philanthropy) | Paused - not accepting applications | Unknown | 🟢 Open | Remote / various |
-| [Cooperative AI PhD Fellowship](https://www.cooperativeai.com/phd-fellowship/2026) | Cooperative AI Foundation | 2027 Cohort | Unknown | 🟢 Open | Global / remote |
-| [ELLIS PhD Program](https://ellis.eu/news/ellis-phd-program-call-for-applications-2025) | ELLIS (European Lab for Learning and Intelligent Systems) | Class of 2027 | Unknown | 🟢 Open | Europe |
-| [Vitalik Buterin PhD Fellowship in AI Existential Safety](https://futureoflife.org/grant-program/phd-fellowships/) | Future of Life Institute | 2027 Cohort | Unknown | 🟢 Open | Global (US/UK/Canada stipend) |
 | [African Master's in Machine Intelligence (AMMI)](https://aimsammi.org/admission-2/) | African Institute for Mathematical Sciences (AIMS) | Next cohort (2026/2026-2027) | Unknown | 🟢 Open | Senegal / Rwanda (AIMS campuses) |
 | [Google DeepMind AI Master's Scholarships](https://www.iie.org/programs/google-deepmind-ai-masters-scholarships/) | Google DeepMind / IIE / Martingale Foundation | 2026 Entry (International, via IIE) | Unknown | 🟢 Open | UK & international partner universities |
 
@@ -94,10 +86,7 @@ A community-maintained, always-current list of **AI fellowships, residencies, an
 | [GovAI Winter Fellowship 2027 (DC & UK Tracks)](https://www.governance.ai/opportunities) | Centre for the Governance of AI (GovAI) | UK Winter Fellowship 2027 (Research Track) | 2026-07-12 | 🟢 Open | Washington, DC / London |
 | [GovAI Winter Fellowship 2027 (DC & UK Tracks)](https://www.governance.ai/opportunities) | Centre for the Governance of AI (GovAI) | UK Winter Fellowship 2027 (Applied Track) | 2026-07-12 | 🟢 Open | Washington, DC / London |
 | [Science & Technology Policy Fellowships (STPF)](https://www.aaas.org/programs/science-technology-policy-fellowships) | American Association for the Advancement of Science (AAAS) | 2027-2028 Fellowship Year | 2026-11-01 | 🔵 Upcoming | Washington, DC (federal placements) |
-| [Horizon Fellowship](https://horizonpublicservice.org/programs/become-a-fellow/) | Horizon Institute for Public Service | 2027 Cohort (upcoming) | Closed | 🔴 Closed | Washington, DC |
 | [Center on AI, Security, and Technology Fellows Program (formerly TASP)](https://www.rand.org/global-and-emerging-risks/centers/ai-security-and-technology/fellows.html) | RAND Corporation | 2026 (Quarterly Rolling Review) | Rolling | 🟡 Rolling | US or UK (remote possible) |
-| [Congressional Innovation Fellowship](https://techcongress.io/congressional-innovation-fellowship) | TechCongress | January 2028 Cohort (opens summer 2027) | Unknown | 🟢 Open | Washington, DC (Capitol Hill) |
-| [Mozilla Fellows Program](https://www.mozillafoundation.org/en/what-we-do/grantmaking/fellowship/) | Mozilla Foundation | 2027 Cohort (nominations open early 2027) | Unknown | 🔵 Upcoming | Global / remote |
 | [EDSAFE Women in AI Fellowship](https://www.edsafeai.org/fellowship) | EDSAFE AI Alliance | 2027 Cohort (applications reopen Nov 2026) | Unknown | 🔵 Upcoming | Remote / global (at least one in-person gathering) |
 | [Long-Term Future Fund](https://funds.effectivealtruism.org/funds/far-future) | Effective Altruism Funds | 2026 Rolling Applications | Rolling | 🟡 Rolling | Global / remote |
 
