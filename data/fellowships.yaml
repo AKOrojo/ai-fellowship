@@ -171,7 +171,7 @@ fellowships:
   - cycle: 2026 Cohort
     deadline: '2025-09-02'
   - cycle: 2027 Cohort (upcoming)
-    deadline: Unknown
+    deadline: Closed
 - id: rand-tasp
   name: Center on AI, Security, and Technology Fellows Program (formerly TASP)
   organization: RAND Corporation
