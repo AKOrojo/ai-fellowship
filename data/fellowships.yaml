@@ -2,7 +2,7 @@
 # One entry per fellowship; each fellowship has one or more cycles (cohorts),
 # each with its own deadline. Validated by scripts/validate.py in CI.
 # Add via Pull Request (or the "New fellowship" issue form). See CONTRIBUTING.md.
-# NOTE: write all dates as quoted strings, e.g. "2026-03-15".
+# NOTE: write all dates as quoted strings, e.g. "2026-03-15"; verify on the official link.
 fellowships:
   - id: anthropic-fellows
     name: Anthropic Fellows Program
@@ -19,5 +19,164 @@ fellowships:
     last_verified: "2026-06-30"
     cycles:
       - cycle: "2026 Cohort"
+        opens: Unknown
+        deadline: Unknown
+  - id: openai-residency
+    name: OpenAI Residency
+    organization: OpenAI
+    category: industry-residency
+    url: https://openai.com/residency
+    description: Six-month paid program to transition into a career in AI research/engineering.
+    location: San Francisco, CA
+    eligibility: Strong technical background; career changers welcome.
+    funding: Paid (salary)
+    duration: 6 months
+    tags: [residency, research]
+    source: community
+    last_verified: "2026-06-30"
+    cycles:
+      - cycle: "2026"
+        opens: Unknown
+        deadline: Unknown
+  - id: mats
+    name: ML Alignment & Theory Scholars (MATS)
+    organization: MATS
+    category: research-safety
+    url: https://www.matsprogram.org
+    description: Independent AI safety research mentorship program with stipend.
+    location: Berkeley, CA
+    eligibility: Aspiring alignment researchers.
+    funding: Stipend provided
+    duration: ~10 weeks
+    tags: [safety, mentorship]
+    source: community
+    last_verified: "2026-06-30"
+    cycles:
+      - cycle: "Summer 2026"
+        opens: Unknown
+        deadline: Unknown
+      - cycle: "Winter 2026"
+        opens: Unknown
+        deadline: Unknown
+  - id: arena
+    name: ARENA (Alignment Research Engineer Accelerator)
+    organization: ARENA
+    category: research-safety
+    url: https://www.arena.education
+    description: In-person ML/alignment engineering bootcamp preparing engineers for safety work.
+    location: London, UK
+    eligibility: Strong Python; ML basics.
+    funding: Stipend / free tuition
+    duration: ~5 weeks
+    tags: [safety, engineering]
+    source: community
+    last_verified: "2026-06-30"
+    cycles:
+      - cycle: "Spring 2026"
+        opens: Unknown
+        deadline: Unknown
+      - cycle: "Autumn 2026"
+        opens: Unknown
+        deadline: Unknown
+  - id: nsf-grfp
+    name: NSF Graduate Research Fellowship Program
+    organization: US National Science Foundation
+    category: academic-phd
+    url: https://www.nsfgrfp.org
+    description: Funds graduate study in STEM including AI/ML for early-stage PhD students.
+    location: United States
+    eligibility: US citizens/nationals/permanent residents in eligible programs.
+    funding: Stipend + tuition
+    duration: 3 years
+    tags: [phd, funding]
+    source: community
+    last_verified: "2026-06-30"
+    cycles:
+      - cycle: "2026-2027"
+        opens: Unknown
+        deadline: Unknown
+  - id: open-phil-aifellowship
+    name: Open Philanthropy AI Fellowship
+    organization: Open Philanthropy
+    category: academic-phd
+    url: https://www.openphilanthropy.org
+    description: Support for PhD students working on potentially high-impact AI research.
+    location: Remote / various
+    eligibility: PhD students in AI-related fields.
+    funding: Stipend + support
+    duration: Multi-year
+    tags: [phd, funding]
+    source: community
+    last_verified: "2026-06-30"
+    cycles:
+      - cycle: "2026"
+        opens: Unknown
+        deadline: Unknown
+  - id: horizon-fellowship
+    name: Horizon Fellowship
+    organization: Horizon Institute for Public Service
+    category: policy-grants
+    url: https://horizonpublicservice.org
+    description: Places technically-skilled fellows in AI policy roles in government and think tanks.
+    location: Washington, DC
+    eligibility: Early/mid-career with technical or policy background.
+    funding: Salary + benefits
+    duration: 1-2 years
+    tags: [policy, governance]
+    source: community
+    last_verified: "2026-06-30"
+    cycles:
+      - cycle: "2026"
+        opens: Unknown
+        deadline: Unknown
+  - id: rand-tasp
+    name: RAND Technology and Security Policy Fellowship
+    organization: RAND Corporation
+    category: policy-grants
+    url: https://www.rand.org
+    description: Fellowship for researchers working on AI and emerging-technology security policy.
+    location: Washington, DC / Santa Monica, CA
+    eligibility: Technical or policy researchers.
+    funding: Salary
+    duration: 1 year
+    tags: [policy, security]
+    source: community
+    last_verified: "2026-06-30"
+    cycles:
+      - cycle: "2026"
+        opens: Unknown
+        deadline: Unknown
+  - id: google-ai-residency
+    name: Google AI Residency
+    organization: Google
+    category: industry-residency
+    url: https://research.google
+    description: Research training role to work alongside Google researchers on ML problems.
+    location: Various
+    eligibility: Strong CS/ML background.
+    funding: Paid (salary)
+    duration: 12+ months
+    tags: [residency, research]
+    source: community
+    last_verified: "2026-06-30"
+    cycles:
+      - cycle: "2026"
+        opens: Unknown
+        deadline: Unknown
+  - id: meta-ai-residency
+    name: Meta AI Residency Program
+    organization: Meta
+    category: industry-residency
+    url: https://ai.meta.com
+    description: One-year program to conduct AI research with Meta scientists and engineers.
+    location: Various (US)
+    eligibility: Bachelors+ with quantitative background.
+    funding: Paid (salary)
+    duration: 12 months
+    tags: [residency, research]
+    source: community
+    last_verified: "2026-06-30"
+    cycles:
+      - cycle: "2026"
         opens: Unknown
         deadline: Unknown

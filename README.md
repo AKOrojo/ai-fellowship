@@ -15,11 +15,37 @@ A community-maintained, always-current list of **AI fellowships, residencies, an
 ## Fellowships
 
 <!-- BEGIN AUTOGEN -->
+### Industry AI Residencies
+
+| Fellowship | Organization | Cycle | Deadline | Status | Location |
+| --- | --- | --- | --- | --- | --- |
+| [OpenAI Residency](https://openai.com/residency) | OpenAI | 2026 | Unknown | 🟢 Open | San Francisco, CA |
+| [Google AI Residency](https://research.google) | Google | 2026 | Unknown | 🟢 Open | Various |
+| [Meta AI Residency Program](https://ai.meta.com) | Meta | 2026 | Unknown | 🟢 Open | Various (US) |
+
 ### Research & Safety Fellowships
 
 | Fellowship | Organization | Cycle | Deadline | Status | Location |
 | --- | --- | --- | --- | --- | --- |
 | [Anthropic Fellows Program](https://www.anthropic.com/fellows) | Anthropic | 2026 Cohort | Unknown | 🟢 Open | Remote / Berkeley, CA |
+| [ML Alignment & Theory Scholars (MATS)](https://www.matsprogram.org) | MATS | Summer 2026 | Unknown | 🟢 Open | Berkeley, CA |
+| [ML Alignment & Theory Scholars (MATS)](https://www.matsprogram.org) | MATS | Winter 2026 | Unknown | 🟢 Open | Berkeley, CA |
+| [ARENA (Alignment Research Engineer Accelerator)](https://www.arena.education) | ARENA | Spring 2026 | Unknown | 🟢 Open | London, UK |
+| [ARENA (Alignment Research Engineer Accelerator)](https://www.arena.education) | ARENA | Autumn 2026 | Unknown | 🟢 Open | London, UK |
+
+### Academic & PhD Fellowships
+
+| Fellowship | Organization | Cycle | Deadline | Status | Location |
+| --- | --- | --- | --- | --- | --- |
+| [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org) | US National Science Foundation | 2026-2027 | Unknown | 🟢 Open | United States |
+| [Open Philanthropy AI Fellowship](https://www.openphilanthropy.org) | Open Philanthropy | 2026 | Unknown | 🟢 Open | Remote / various |
+
+### Policy, Nonprofit & Grants
+
+| Fellowship | Organization | Cycle | Deadline | Status | Location |
+| --- | --- | --- | --- | --- | --- |
+| [Horizon Fellowship](https://horizonpublicservice.org) | Horizon Institute for Public Service | 2026 | Unknown | 🟢 Open | Washington, DC |
+| [RAND Technology and Security Policy Fellowship](https://www.rand.org) | RAND Corporation | 2026 | Unknown | 🟢 Open | Washington, DC / Santa Monica, CA |
 
 <!-- END AUTOGEN -->
 
