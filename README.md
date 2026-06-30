@@ -83,8 +83,8 @@ A community-maintained, always-current list of **AI fellowships, residencies, an
 | [GovAI Winter Fellowship 2027 (DC & UK Tracks)](https://www.governance.ai/opportunities) | Centre for the Governance of AI (GovAI) | UK Winter Fellowship 2027 (Research Track) | 2026-07-12 | 🟢 Open | Washington, DC / London |
 | [GovAI Winter Fellowship 2027 (DC & UK Tracks)](https://www.governance.ai/opportunities) | Centre for the Governance of AI (GovAI) | UK Winter Fellowship 2027 (Applied Track) | 2026-07-12 | 🟢 Open | Washington, DC / London |
 | [Science & Technology Policy Fellowships (STPF)](https://www.aaas.org/programs/science-technology-policy-fellowships) | American Association for the Advancement of Science (AAAS) | 2027-2028 Fellowship Year | 2026-11-01 | 🔵 Upcoming | Washington, DC (federal placements) |
-| [EDSAFE Women in AI Fellowship](https://www.edsafeai.org/fellowship) | EDSAFE AI Alliance | 2027 Cohort (applications reopen Nov 2026) | Closed | 🔴 Closed | Remote / global (at least one in-person gathering) |
 | [Center on AI, Security, and Technology Fellows Program (formerly TASP)](https://www.rand.org/global-and-emerging-risks/centers/ai-security-and-technology/fellows.html) | RAND Corporation | 2026 (Quarterly Rolling Review) | Rolling | 🟡 Rolling | US or UK (remote possible) |
+| [EDSAFE Women in AI Fellowship](https://www.edsafeai.org/fellowship) | EDSAFE AI Alliance | 2027 Cohort (applications open 2026-11-01) | Unknown | 🔵 Upcoming | Remote / global (at least one in-person gathering) |
 | [Long-Term Future Fund](https://funds.effectivealtruism.org/funds/far-future) | Effective Altruism Funds | 2026 Rolling Applications | Rolling | 🟡 Rolling | Global / remote |
 
 <!-- END AUTOGEN -->
