@@ -94,3 +94,50 @@ def render_tables(entries, today):
             )
         lines.append("")
     return "\n".join(lines).rstrip() + "\n"
+
+
+BEGIN_MARK = "<!-- BEGIN AUTOGEN -->"
+END_MARK = "<!-- END AUTOGEN -->"
+
+DEFAULT_README = ROOT / "README.md"
+DEFAULT_DATA_JSON = ROOT / "site" / "data.json"
+
+
+def inject(readme_text, block):
+    if BEGIN_MARK not in readme_text or END_MARK not in readme_text:
+        raise ValueError("README is missing the AUTOGEN markers")
+    pre = readme_text.split(BEGIN_MARK)[0]
+    post = readme_text.split(END_MARK)[1]
+    return f"{pre}{BEGIN_MARK}\n{block}\n{END_MARK}{post}"
+
+
+def generate_all(data_path, readme_path, data_json_path, today):
+    data = validate.load_data(data_path)
+    entries = data["fellowships"]
+
+    table_md = render_tables(entries, today)
+    readme = Path(readme_path).read_text()
+    Path(readme_path).write_text(inject(readme, table_md))
+
+    records = build_site_records(entries, today)
+    out = Path(data_json_path)
+    out.parent.mkdir(parents=True, exist_ok=True)
+    out.write_text(json.dumps(records, indent=2, ensure_ascii=True, sort_keys=True) + "\n")
+
+
+def main(argv=None):
+    argv = sys.argv[1:] if argv is None else argv
+    data_path = argv[0] if argv else str(validate.DEFAULT_DATA_PATH)
+    errors = validate.validate_file(data_path)
+    if errors:
+        print("Refusing to generate — data file is invalid:")
+        for e in errors:
+            print(f"  - {e}")
+        return 1
+    generate_all(data_path, str(DEFAULT_README), str(DEFAULT_DATA_JSON), date.today())
+    print("Generated README table and site/data.json.")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
