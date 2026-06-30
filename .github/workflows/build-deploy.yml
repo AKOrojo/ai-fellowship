@@ -3,6 +3,8 @@ on:
   push:
     branches: [main]
     paths: ["data/**", "scripts/**", "site/**", "README.md"]
+  schedule:
+    - cron: "0 6 * * *"   # daily: recompute derived statuses so cycles auto-close on their deadline
   workflow_dispatch: {}
 permissions:
   contents: read

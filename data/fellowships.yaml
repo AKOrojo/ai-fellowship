@@ -25,7 +25,7 @@ fellowships:
   last_verified: '2026-06-30'
   cycles:
   - cycle: May 2026 Cohort
-    deadline: Closed
+    deadline: '2026-06-30'
   - cycle: July 2026 Cohort
     deadline: '2026-04-26'
   - cycle: Future cohorts (rolling)
@@ -115,7 +115,7 @@ fellowships:
   last_verified: '2026-06-30'
   cycles:
   - cycle: 2027 Competition (FY2027) — next cycle
-    deadline: Unknown
+    deadline: Closed
   - cycle: 2026 Comp — Life Sciences (CLOSED)
     deadline: '2025-11-10'
     opens: '2025-09-26'
@@ -921,8 +921,8 @@ fellowships:
   cycles:
   - cycle: 2025 RFP (closed)
     deadline: '2025-04-15'
-  - cycle: 2026 (between rounds; no open call)
-    deadline: Unknown
+  - cycle: 2026 (closed / invite-only, no open call)
+    deadline: Closed
 - id: long-term-future-fund
   name: Long-Term Future Fund
   organization: Effective Altruism Funds

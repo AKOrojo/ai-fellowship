@@ -30,7 +30,7 @@ def derive_status(opens, deadline, today):
         return "closed"
     if deadline and deadline not in ("Unknown", "Closed"):
         d = date.fromisoformat(deadline)
-        if today > d:
+        if today >= d:  # deadline day or earlier counts as closed
             return "closed"
     if opens and opens not in ("Unknown", None):
         try:

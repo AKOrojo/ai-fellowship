@@ -66,3 +66,9 @@ def test_render_tables_groups_escapes_and_shows_cycle():
 def test_derive_status_closed_literal():
     # A cohort known to be closed but without an exact past date.
     assert generate.derive_status("Unknown", "Closed", date(2026, 6, 30)) == "closed"
+
+
+def test_derive_status_closed_on_deadline_day():
+    # The deadline day itself counts as closed (today >= deadline).
+    assert generate.derive_status("Unknown", "2026-06-30", date(2026, 6, 30)) == "closed"
+    assert generate.derive_status("Unknown", "2026-07-01", date(2026, 6, 30)) == "open"
