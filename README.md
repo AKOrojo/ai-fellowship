@@ -54,7 +54,6 @@ A community-maintained, always-current list of **AI fellowships, residencies, an
 
 | Fellowship | Organization | Cycle | Deadline | Status | Location |
 | --- | --- | --- | --- | --- | --- |
-| [Google DeepMind AI Master's Scholarships](https://www.iie.org/programs/google-deepmind-ai-masters-scholarships/) | Google DeepMind / IIE / Martingale Foundation | 2026 Entry (UK, via Martingale) | 2025-10-24 | 🔴 Closed | UK & international partner universities |
 | [ELLIS PhD Program](https://ellis.eu/news/ellis-phd-program-call-for-applications-2025) | ELLIS (European Lab for Learning and Intelligent Systems) | Class of 2026 | 2025-10-31 | 🔴 Closed | Europe |
 | [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org) | US National Science Foundation | 2026 Comp — Life Sciences (CLOSED) | 2025-11-10 | 🔴 Closed | United States |
 | [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org) | US National Science Foundation | 2026 Comp — CISE/Materials/Psych/SBE/STEM Ed (CLOSED) | 2025-11-12 | 🔴 Closed | United States |
@@ -63,7 +62,6 @@ A community-maintained, always-current list of **AI fellowships, residencies, an
 | [Vitalik Buterin PhD Fellowship in AI Existential Safety](https://futureoflife.org/grant-program/phd-fellowships/) | Future of Life Institute | 2026 Cohort | 2025-11-21 | 🔴 Closed | Global (US/UK/Canada stipend) |
 | [IndiaAI Fellowship for PhD Students](https://indiaai.gov.in/article/indiaai-fellowship-under-the-indiaai-mission) | IndiaAI Mission, MeitY (Government of India) | 2026 Cycle | 2026-02-28 | 🔴 Closed | India (top 50 NIRF-ranked institutes) |
 | [Meta Research PhD Fellowship](https://metaresearchphdfellowship.smapply.io/) | Meta | 2026 Cycle | 2026-09-20 | 🔵 Upcoming | Global |
-| [Google DeepMind AI Master's Scholarships](https://www.iie.org/programs/google-deepmind-ai-masters-scholarships/) | Google DeepMind / IIE / Martingale Foundation | 2026 Entry (International, via IIE) | Unknown | 🟢 Open | UK & international partner universities |
 
 ### Policy, Nonprofit & Grants
 
