@@ -15,7 +15,7 @@
     "entry": {
       "type": "object",
       "additionalProperties": false,
-      "required": ["id", "name", "organization", "category", "url", "description", "location", "deadline", "last_verified"],
+      "required": ["id", "name", "organization", "category", "url", "description", "location", "cycles", "last_verified"],
       "properties": {
         "id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]{0,63}$" },
         "name": { "type": "string", "minLength": 1, "maxLength": 120 },
@@ -26,8 +26,6 @@
         "location": { "type": "string", "minLength": 1, "maxLength": 80 },
         "eligibility": { "type": "string", "maxLength": 200 },
         "funding": { "type": "string", "maxLength": 120 },
-        "opens": { "type": "string", "maxLength": 10 },
-        "deadline": { "type": "string", "maxLength": 10 },
         "duration": { "type": "string", "maxLength": 80 },
         "tags": {
           "type": "array",
@@ -35,7 +33,23 @@
           "items": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]{0,29}$" }
         },
         "source": { "type": "string", "maxLength": 500 },
-        "last_verified": { "type": "string", "maxLength": 10 }
+        "last_verified": { "type": "string", "maxLength": 10 },
+        "cycles": {
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 24,
+          "items": { "$ref": "#/$defs/cycle" }
+        }
+      }
+    },
+    "cycle": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["cycle", "deadline"],
+      "properties": {
+        "cycle": { "type": "string", "minLength": 1, "maxLength": 60 },
+        "opens": { "type": "string", "maxLength": 10 },
+        "deadline": { "type": "string", "maxLength": 10 }
       }
     }
   }
