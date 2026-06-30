@@ -43,14 +43,14 @@ A community-maintained, always-current list of **AI fellowships, residencies, an
 | [Pivotal Research Fellowship](https://www.pivotal-research.org/fellowship) | Pivotal Research | Q3 2026 | 2026-05-03 | 🔴 Closed | London, UK |
 | [Science of Trustworthy AI](https://www.schmidtsciences.org/trustworthy-ai/) | Schmidt Sciences | 2026 Science of Trustworthy AI RFP | 2026-05-17 | 🔴 Closed | Global |
 | [MATS (ML Alignment & Theory Scholars)](https://www.matsprogram.org/program/autumn-2026) | MATS Research | Autumn 2026 | 2026-06-07 | 🔴 Closed | Berkeley, CA & London, UK |
+| [Anthropic Fellows Program](https://alignment.anthropic.com/2025/anthropic-fellows-program-2026/) | Anthropic | May 2026 Cohort | 2026-06-30 | 🔴 Closed | Berkeley CA / London UK / remote (US, UK, Canada) |
 | [Heron AI Security Research Fellowship](https://www.heronsec.ai/researchfellowship) | Heron AI Security | Autumn 2026 | 2026-07-08 | 🟢 Open | Remote; London, Tel Aviv & San Francisco hubs |
 | [ARENA 9.0 (Alignment Research Engineer Accelerator)](https://www.arena.education/) | ARENA | ARENA 9.0 (Autumn 2026) | 2026-07-12 | 🟢 Open | London, UK (LISA) |
 | [PIBBSS Fellowship](https://princint.ai/programs/fellowship/) | Principles of Intelligence (PrincInt / PIBBSS) | 2026 Cohort (Winter 2026-2027) | 2026-07-20 | 🟢 Open | Cape Town, South Africa (in-person; remote for exceptional candidates) |
 | [Scaling AI Safety for a Multi-Agent World](https://schmidtsciences.smapply.io/prog/scaling_ai_safety_for_a_multi_agent_world/) | Schmidt Sciences, Google DeepMind, ARIA & Cooperative AI Foundation | 2026 Funding Call | 2026-08-08 | 🟢 Open | Global / remote |
-| [Anthropic Fellows Program](https://alignment.anthropic.com/2025/anthropic-fellows-program-2026/) | Anthropic | May 2026 Cohort | Closed | 🔴 Closed | Berkeley CA / London UK / remote (US, UK, Canada) |
+| [Technical AI Safety Research RFP](https://coefficientgiving.org/funds/navigating-transformative-ai/request-for-proposals-technical-ai-safety-research/) | Coefficient Giving (formerly Open Philanthropy) | 2026 (closed / invite-only, no open call) | Closed | 🔴 Closed | Global / remote |
 | [Anthropic Fellows Program](https://alignment.anthropic.com/2025/anthropic-fellows-program-2026/) | Anthropic | Future cohorts (rolling) | Rolling | 🟡 Rolling | Berkeley CA / London UK / remote (US, UK, Canada) |
 | [Apart Lab Fellowship](https://apartresearch.com/lab) | Apart Research | 2026 (rolling via monthly Sprints) | Rolling | 🟡 Rolling | Remote (global) |
-| [Technical AI Safety Research RFP](https://coefficientgiving.org/funds/navigating-transformative-ai/request-for-proposals-technical-ai-safety-research/) | Coefficient Giving (formerly Open Philanthropy) | 2026 (between rounds; no open call) | Unknown | 🟢 Open | Global / remote |
 
 ### Academic & PhD Fellowships
 
@@ -66,7 +66,7 @@ A community-maintained, always-current list of **AI fellowships, residencies, an
 | [Vitalik Buterin PhD Fellowship in AI Existential Safety](https://futureoflife.org/grant-program/phd-fellowships/) | Future of Life Institute | 2026 Cohort | 2025-11-21 | 🔴 Closed | Global (US/UK/Canada stipend) |
 | [IndiaAI Fellowship for PhD Students](https://indiaai.gov.in/article/indiaai-fellowship-under-the-indiaai-mission) | IndiaAI Mission, MeitY (Government of India) | 2026 Cycle | 2026-02-28 | 🔴 Closed | India (top 50 NIRF-ranked institutes) |
 | [Meta Research PhD Fellowship](https://metaresearchphdfellowship.smapply.io/) | Meta | 2026 Cycle | 2026-09-20 | 🔵 Upcoming | Global |
-| [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org) | US National Science Foundation | 2027 Competition (FY2027) — next cycle | Unknown | 🟢 Open | United States |
+| [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org) | US National Science Foundation | 2027 Competition (FY2027) — next cycle | Closed | 🔴 Closed | United States |
 | [Coefficient Giving AI Fellowship](https://coefficientgiving.org/ai-fellowship/) | Coefficient Giving (formerly Open Philanthropy) | Paused - not accepting applications | Unknown | 🟢 Open | Remote / various |
 | [Cooperative AI PhD Fellowship](https://www.cooperativeai.com/phd-fellowship/2026) | Cooperative AI Foundation | 2027 Cohort | Unknown | 🟢 Open | Global / remote |
 | [ELLIS PhD Program](https://ellis.eu/news/ellis-phd-program-call-for-applications-2025) | ELLIS (European Lab for Learning and Intelligent Systems) | Class of 2027 | Unknown | 🟢 Open | Europe |
