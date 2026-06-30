@@ -1,0 +1,61 @@
+name: New fellowship
+description: Suggest an AI fellowship to add to the list (no coding required)
+title: "[Fellowship] <name>"
+labels: ["fellowship-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: "Thanks! Fields map 1:1 to the data file. A maintainer reviews every submission — nothing is added automatically."
+  - type: input
+    id: name
+    attributes: { label: Name, description: Official program name }
+    validations: { required: true }
+  - type: input
+    id: organization
+    attributes: { label: Organization }
+    validations: { required: true }
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - industry-residency
+        - research-safety
+        - academic-phd
+        - policy-grants
+    validations: { required: true }
+  - type: input
+    id: url
+    attributes: { label: Application URL, description: "Must start with https://" }
+    validations: { required: true }
+  - type: textarea
+    id: description
+    attributes: { label: Short description, description: One or two sentences (max 500 chars) }
+    validations: { required: true }
+  - type: input
+    id: location
+    attributes: { label: Location, description: "e.g. Remote, London UK" }
+    validations: { required: true }
+  - type: input
+    id: cycle
+    attributes: { label: Cycle, description: "Cohort label, e.g. Summer 2026 or 2026 Cohort" }
+    validations: { required: true }
+  - type: input
+    id: deadline
+    attributes: { label: Deadline, description: "Deadline for this cycle — YYYY-MM-DD, Rolling, or Unknown" }
+    validations: { required: true }
+  - type: input
+    id: opens
+    attributes: { label: Opens, description: "YYYY-MM-DD or Unknown (optional)" }
+  - type: input
+    id: eligibility
+    attributes: { label: Eligibility }
+  - type: input
+    id: funding
+    attributes: { label: Funding, description: "e.g. Stipend, Unfunded" }
+  - type: input
+    id: duration
+    attributes: { label: Duration, description: "e.g. 6 months" }
+  - type: input
+    id: tags
+    attributes: { label: Tags, description: "comma-separated, lowercase" }
