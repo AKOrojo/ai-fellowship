@@ -24,7 +24,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           title="Weekly maintenance report"
-          existing=$(gh issue list --label maintenance --state open --json number --jq '.[0].number')
+          existing=$(gh issue list --label maintenance --state open --json number --jq '.[0].number // empty')
           if [ -n "$existing" ]; then
             gh issue comment "$existing" --body-file report.md
           else

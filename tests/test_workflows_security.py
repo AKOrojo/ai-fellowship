@@ -44,3 +44,17 @@ def test_validate_is_read_only_and_pr_triggered():
     triggers = doc.get("on", doc.get(True))
     assert "pull_request" in triggers
     assert doc["permissions"].get("contents") == "read"
+
+
+def test_no_write_all_permissions():
+    for f in workflow_files():
+        doc = yaml.safe_load(f.read_text())
+        assert doc.get("permissions") != "write-all", f
+        for job in doc.get("jobs", {}).values():
+            assert job.get("permissions") != "write-all", f
+
+
+def test_issue_to_pr_is_draft_and_never_auto_merges():
+    text = (WF / "issue-to-pr.yml").read_text()
+    assert "--draft" in text
+    assert "gh pr merge" not in text
