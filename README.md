@@ -19,15 +19,20 @@ A community-maintained, always-current list of **AI fellowships, residencies, an
 
 | Fellowship | Organization | Cycle | Deadline | Status | Location |
 | --- | --- | --- | --- | --- | --- |
+| [Cohere Labs Scholars Program](https://cohere.com/research/scholars-program) | Cohere (Cohere Labs) | 2026 Cohort (closed; runs Jan 12-Aug 29, 2026) | 2025-08-29 | 🔴 Closed | Remote-first (global); optional in-person at Cohere offices |
+| [NVIDIA Graduate Fellowship Program](https://research.nvidia.com/graduate-fellowships) | NVIDIA | 2026-2027 Academic Year (most recent, now CLOSED) | 2025-09-15 | 🔴 Closed | Worldwide (internship at NVIDIA research office) |
 | [AIML Residency Program](https://machinelearning.apple.com/updates/aiml-residency-program-application-2026) | Apple | 2026 Cohort | 2025-12-15 | 🔴 Closed | United States (on-site) |
 | [Google PhD Fellowship Program](https://research.google/programs-and-events/phd-fellowship/) | Google Research | 2026 Cohort | 2026-04-30 | 🔴 Closed | Global (region-specific) |
-| [OpenAI Residency](https://openai.com/residency/) | OpenAI | 2026 Cohort | Unknown | 🟢 Open | San Francisco, CA (3+ days/week in office) |
-| [AI Residency Program](https://ai.meta.com/join-us/residency-program/) | Meta (FAIR / AI at Meta) | Upcoming Cohort | Unknown | 🟢 Open | United States (on-site) |
+| [OpenAI Residency](https://openai.com/residency/) | OpenAI | 2026 Cohort | Rolling | 🟡 Rolling | San Francisco, CA (3+ days/week in office) |
+| [OpenAI Residency](https://openai.com/residency/) | OpenAI | Future postings (rolling) | Rolling | 🟡 Rolling | San Francisco, CA (3+ days/week in office) |
+| [AI Residency Program](https://ai.meta.com/join-us/residency-program/) | Meta (FAIR / AI at Meta) | Next cohort (not yet announced) | Unknown | 🟢 Open | United States (on-site) |
 | [Microsoft Research AI Residency Program](https://www.microsoft.com/en-us/research/academic-program/cambridge-residency/) | Microsoft Research | 2026 Cycle | Rolling | 🟡 Rolling | Redmond, WA / Cambridge, UK |
-| [Cohere Labs Scholars Program](https://cohere.com/research/scholars-program) | Cohere (Cohere Labs) | 2027 Cohort | Unknown | 🟢 Open | Remote-first (global); optional in-person at Cohere offices |
+| [Cohere Labs Scholars Program](https://cohere.com/research/scholars-program) | Cohere (Cohere Labs) | 2027 Cohort (next/upcoming) | Unknown | 🟢 Open | Remote-first (global); optional in-person at Cohere offices |
 | [Student Researcher Program](https://deepmind.google/student-researcher-program/) | Google DeepMind | 2025-2026 Cycle | Rolling | 🟡 Rolling | In-person at a Google office (global) |
-| [NVIDIA Graduate Fellowship Program](https://research.nvidia.com/graduate-fellowships) | NVIDIA | 2027-2028 Cycle | Unknown | 🟢 Open | Worldwide (internship at NVIDIA research office) |
-| [Vector Institute AI Research Internships](https://vectorinstitute.ai/research-talent/students/ai-research-internships/) | Vector Institute | Summer 2027 term | Unknown | 🟢 Open | Toronto, Canada (remote or in person) |
+| [NVIDIA Graduate Fellowship Program](https://research.nvidia.com/graduate-fellowships) | NVIDIA | 2027-2028 Academic Year (next upcoming, not yet announced) | Unknown | 🟢 Open | Worldwide (internship at NVIDIA research office) |
+| [Vector Institute AI Research Internships](https://vectorinstitute.ai/research-talent/students/ai-research-internships/) | Vector Institute | Summer (apply Nov–Jan) — next upcoming | Unknown | 🟢 Open | Toronto, Canada (remote or in person) |
+| [Vector Institute AI Research Internships](https://vectorinstitute.ai/research-talent/students/ai-research-internships/) | Vector Institute | Fall (apply Apr–May) | Unknown | 🟢 Open | Toronto, Canada (remote or in person) |
+| [Vector Institute AI Research Internships](https://vectorinstitute.ai/research-talent/students/ai-research-internships/) | Vector Institute | Winter (apply Apr–Jun) | Unknown | 🟢 Open | Toronto, Canada (remote or in person) |
 
 ### Research & Safety Fellowships
 
@@ -49,6 +54,7 @@ A community-maintained, always-current list of **AI fellowships, residencies, an
 | [Anthropic Fellows Program](https://alignment.anthropic.com/2025/anthropic-fellows-program-2026/) | Anthropic | Future cohorts (rolling) | Rolling | 🟡 Rolling | Berkeley CA / London UK / remote (US, UK, Canada) |
 | [Apart Lab Fellowship](https://apartresearch.com/lab) | Apart Research | 2026 (rolling via monthly Sprints) | Rolling | 🟡 Rolling | Remote (global) |
 | [Technical AI Safety Research RFP](https://coefficientgiving.org/funds/navigating-transformative-ai/request-for-proposals-technical-ai-safety-research/) | Coefficient Giving (formerly Open Philanthropy) | 2026 (between rounds; no open call) | Unknown | 🟢 Open | Global / remote |
+| [Heron AI Security Research Fellowship](https://www.heronsec.ai/researchfellowship) | Heron AI Security | Autumn 2026 | Unknown | 🟢 Open | Remote; London, Tel Aviv & San Francisco hubs |
 
 ### Academic & PhD Fellowships
 
@@ -56,16 +62,20 @@ A community-maintained, always-current list of **AI fellowships, residencies, an
 | --- | --- | --- | --- | --- | --- |
 | [Google DeepMind AI Master's Scholarships](https://www.iie.org/programs/google-deepmind-ai-masters-scholarships/) | Google DeepMind / IIE / Martingale Foundation | 2026 Entry (UK, via Martingale) | 2025-10-24 | 🔴 Closed | UK & international partner universities |
 | [ELLIS PhD Program](https://ellis.eu/news/ellis-phd-program-call-for-applications-2025) | ELLIS (European Lab for Learning and Intelligent Systems) | Class of 2026 | 2025-10-31 | 🔴 Closed | Europe |
+| [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org) | US National Science Foundation | 2026 Comp — Life Sciences (CLOSED) | 2025-11-10 | 🔴 Closed | United States |
+| [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org) | US National Science Foundation | 2026 Comp — CISE/Materials/Psych/SBE/STEM Ed (CLOSED) | 2025-11-12 | 🔴 Closed | United States |
+| [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org) | US National Science Foundation | 2026 Comp — Engineering (CLOSED) | 2025-11-13 | 🔴 Closed | United States |
+| [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org) | US National Science Foundation | 2026 Comp — Chem/Geo/Math/Physics (CLOSED) | 2025-11-14 | 🔴 Closed | United States |
 | [Cooperative AI PhD Fellowship](https://www.cooperativeai.com/phd-fellowship/2026) | Cooperative AI Foundation | 2026 Cohort | 2025-11-16 | 🔴 Closed | Global / remote |
 | [Vitalik Buterin PhD Fellowship in AI Existential Safety](https://futureoflife.org/grant-program/phd-fellowships/) | Future of Life Institute | 2026 Cohort | 2025-11-21 | 🔴 Closed | Global (US/UK/Canada stipend) |
 | [IndiaAI Fellowship for PhD Students](https://indiaai.gov.in/article/indiaai-fellowship-under-the-indiaai-mission) | IndiaAI Mission, MeitY (Government of India) | 2026 Cycle | 2026-02-28 | 🔴 Closed | India (top 50 NIRF-ranked institutes) |
 | [Meta Research PhD Fellowship](https://metaresearchphdfellowship.smapply.io/) | Meta | 2026 Cycle | 2026-09-20 | 🔵 Upcoming | Global |
-| [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org) | US National Science Foundation | 2026-2027 | Unknown | 🟢 Open | United States |
-| [Open Philanthropy AI Fellowship](https://www.openphilanthropy.org) | Open Philanthropy | 2026 | Unknown | 🟢 Open | Remote / various |
+| [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org) | US National Science Foundation | 2027 Competition (FY2027) — next cycle | Unknown | 🟢 Open | United States |
+| [Open Philanthropy AI Fellowship](https://www.openphilanthropy.org) | Open Philanthropy | Next cohort (program paused) | Unknown | 🟢 Open | Remote / various |
 | [Cooperative AI PhD Fellowship](https://www.cooperativeai.com/phd-fellowship/2026) | Cooperative AI Foundation | 2027 Cohort | Unknown | 🟢 Open | Global / remote |
 | [ELLIS PhD Program](https://ellis.eu/news/ellis-phd-program-call-for-applications-2025) | ELLIS (European Lab for Learning and Intelligent Systems) | Class of 2027 | Unknown | 🟢 Open | Europe |
 | [Vitalik Buterin PhD Fellowship in AI Existential Safety](https://futureoflife.org/grant-program/phd-fellowships/) | Future of Life Institute | 2027 Cohort | Unknown | 🟢 Open | Global (US/UK/Canada stipend) |
-| [African Master's in Machine Intelligence (AMMI)](https://aimsammi.org/admission-2/) | African Institute for Mathematical Sciences (AIMS) | 2026/2027 Cohort | Unknown | 🟢 Open | Senegal / Rwanda (AIMS campuses) |
+| [African Master's in Machine Intelligence (AMMI)](https://aimsammi.org/admission-2/) | African Institute for Mathematical Sciences (AIMS) | Next cohort (2026/2026-2027) | Unknown | 🟢 Open | Senegal / Rwanda (AIMS campuses) |
 | [Google DeepMind AI Master's Scholarships](https://www.iie.org/programs/google-deepmind-ai-masters-scholarships/) | Google DeepMind / IIE / Martingale Foundation | 2026 Entry (International, via IIE) | Unknown | 🟢 Open | UK & international partner universities |
 
 ### Policy, Nonprofit & Grants

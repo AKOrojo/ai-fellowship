@@ -50,7 +50,10 @@ fellowships:
   last_verified: '2026-06-30'
   cycles:
   - cycle: 2026 Cohort
-    deadline: Unknown
+    deadline: Rolling
+    opens: '2025-12-06'
+  - cycle: Future postings (rolling)
+    deadline: Rolling
 - id: mats
   name: MATS (ML Alignment & Theory Scholars)
   organization: MATS Research
@@ -111,9 +114,20 @@ fellowships:
   source: community
   last_verified: '2026-06-30'
   cycles:
-  - cycle: 2026-2027
-    opens: Unknown
+  - cycle: 2027 Competition (FY2027) — next cycle
     deadline: Unknown
+  - cycle: 2026 Comp — Life Sciences (CLOSED)
+    deadline: '2025-11-10'
+    opens: '2025-09-26'
+  - cycle: 2026 Comp — CISE/Materials/Psych/SBE/STEM Ed (CLOSED)
+    deadline: '2025-11-12'
+    opens: '2025-09-26'
+  - cycle: 2026 Comp — Engineering (CLOSED)
+    deadline: '2025-11-13'
+    opens: '2025-09-26'
+  - cycle: 2026 Comp — Chem/Geo/Math/Physics (CLOSED)
+    deadline: '2025-11-14'
+    opens: '2025-09-26'
 - id: open-phil-aifellowship
   name: Open Philanthropy AI Fellowship
   organization: Open Philanthropy
@@ -130,8 +144,7 @@ fellowships:
   source: community
   last_verified: '2026-06-30'
   cycles:
-  - cycle: '2026'
-    opens: Unknown
+  - cycle: Next cohort (program paused)
     deadline: Unknown
 - id: horizon-fellowship
   name: Horizon Fellowship
@@ -219,7 +232,7 @@ fellowships:
   source: community
   last_verified: '2026-06-30'
   cycles:
-  - cycle: Upcoming Cohort
+  - cycle: Next cohort (not yet announced)
     deadline: Unknown
 - id: aiml-residency-program
   name: AIML Residency Program
@@ -280,8 +293,10 @@ fellowships:
   source: community
   last_verified: '2026-06-30'
   cycles:
-  - cycle: 2027 Cohort
+  - cycle: 2027 Cohort (next/upcoming)
     deadline: Unknown
+  - cycle: 2026 Cohort (closed; runs Jan 12-Aug 29, 2026)
+    deadline: '2025-08-29'
 - id: student-researcher-program
   name: Student Researcher Program
   organization: Google DeepMind
@@ -320,7 +335,9 @@ fellowships:
   source: community
   last_verified: '2026-06-30'
   cycles:
-  - cycle: 2027-2028 Cycle
+  - cycle: 2026-2027 Academic Year (most recent, now CLOSED)
+    deadline: '2025-09-15'
+  - cycle: 2027-2028 Academic Year (next upcoming, not yet announced)
     deadline: Unknown
 - id: pibbss-fellowship
   name: PIBBSS Fellowship
@@ -678,7 +695,7 @@ fellowships:
   source: community
   last_verified: '2026-06-30'
   cycles:
-  - cycle: 2026/2027 Cohort
+  - cycle: Next cohort (2026/2026-2027)
     deadline: Unknown
 - id: vector-institute-ai-research-internships
   name: Vector Institute AI Research Internships
@@ -699,7 +716,11 @@ fellowships:
   source: community
   last_verified: '2026-06-30'
   cycles:
-  - cycle: Summer 2027 term
+  - cycle: Summer (apply Nov–Jan) — next upcoming
+    deadline: Unknown
+  - cycle: Fall (apply Apr–May)
+    deadline: Unknown
+  - cycle: Winter (apply Apr–Jun)
     deadline: Unknown
 - id: mila-ai-policy-fellowship
   name: Mila AI Policy Fellowship
@@ -965,3 +986,23 @@ fellowships:
   cycles:
   - cycle: 2026 Rolling Applications
     deadline: Rolling
+- id: heron-ai-security-research-fellowship
+  name: Heron AI Security Research Fellowship
+  organization: Heron AI Security
+  category: research-safety
+  url: https://www.heronsec.ai/researchfellowship
+  description: A 3-month program pairing experienced cybersecurity professionals with AI-security experts to build publishable proofs-of-concept, benchmarks, and defenses for transformative AI systems. Applications open Jun-Jul 2026; teams announced early Aug; projects run Sep-Nov 2026.
+  location: Remote; London, Tel Aviv & San Francisco hubs
+  eligibility: Experienced cybersecurity professionals (5+ years); crypto, ML, red-teaming, secure systems.
+  funding: No salary; $1k+ compute credits + up to $5k/team conference support
+  duration: 3 months (Sep-Nov 2026)
+  tags:
+  - ai-security
+  - research
+  - red-teaming
+  - fellowship
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: Autumn 2026
+    deadline: Unknown
