@@ -684,29 +684,6 @@ fellowships:
   cycles:
   - cycle: 2026 Cycle
     deadline: '2026-02-28'
-- id: google-deepmind-ai-master-s-scholarships
-  name: Google DeepMind AI Master's Scholarships
-  organization: Google DeepMind / IIE / Martingale Foundation
-  category: academic-phd
-  url: https://www.iie.org/programs/google-deepmind-ai-masters-scholarships/
-  description: Fully funded master's scholarships in AI and computer science for talented students with limited financial means. Covers full tuition plus living and relocation stipends, conference access, and 1:1 mentorship from Google DeepMind researchers, awarded via partner universities worldwide.
-  location: UK & international partner universities
-  eligibility: Students admitted to an eligible AI/CS master's at a Google DeepMind partner university; nominated on academic merit and financial need
-  funding: Full tuition + living & relocation stipend
-  duration: Up to 2-year master's
-  tags:
-  - scholarship
-  - masters
-  - underrepresented
-  - funding
-  - mentorship
-  source: community
-  last_verified: '2026-06-30'
-  cycles:
-  - cycle: 2026 Entry (UK, via Martingale)
-    deadline: '2025-10-24'
-  - cycle: 2026 Entry (International, via IIE)
-    deadline: Unknown
 - id: unidir-women-in-ai-fellowship
   name: UNIDIR Women in AI Fellowship
   organization: UN Institute for Disarmament Research (UNIDIR)
