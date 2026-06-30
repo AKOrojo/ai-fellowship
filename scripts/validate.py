@@ -74,7 +74,7 @@ from urllib.parse import urlsplit
 
 _DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 _CONTROL_RE = re.compile(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]")
-_DEADLINE_LITERALS = {"Rolling", "Unknown"}
+_DEADLINE_LITERALS = {"Rolling", "Unknown", "Closed"}
 _OPENS_LITERALS = {"Unknown"}
 
 

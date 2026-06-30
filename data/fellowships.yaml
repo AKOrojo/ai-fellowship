@@ -25,7 +25,7 @@ fellowships:
   last_verified: '2026-06-30'
   cycles:
   - cycle: May 2026 Cohort
-    deadline: Unknown
+    deadline: Closed
   - cycle: July 2026 Cohort
     deadline: '2026-04-26'
   - cycle: Future cohorts (rolling)
@@ -276,7 +276,7 @@ fellowships:
   last_verified: '2026-06-30'
   cycles:
   - cycle: 2027 Cohort (next/upcoming)
-    deadline: Unknown
+    deadline: Closed
   - cycle: 2026 Cohort (closed; runs Jan 12-Aug 29, 2026)
     deadline: '2025-08-29'
 - id: student-researcher-program
@@ -320,7 +320,7 @@ fellowships:
   - cycle: 2026-2027 Academic Year (most recent, now CLOSED)
     deadline: '2025-09-15'
   - cycle: 2027-2028 Academic Year (next upcoming, not yet announced)
-    deadline: Unknown
+    deadline: Closed
 - id: pibbss-fellowship
   name: PIBBSS Fellowship
   organization: Principles of Intelligence (PrincInt / PIBBSS)
@@ -678,31 +678,6 @@ fellowships:
   last_verified: '2026-06-30'
   cycles:
   - cycle: Next cohort (2026/2026-2027)
-    deadline: Unknown
-- id: vector-institute-ai-research-internships
-  name: Vector Institute AI Research Internships
-  organization: Vector Institute
-  category: industry-residency
-  url: https://vectorinstitute.ai/research-talent/students/ai-research-internships/
-  description: Paid research internships working directly with Vector faculty on machine learning and AI projects, offered across Fall, Winter, and Summer terms (remote or in person). Application windows run roughly Apr-May (Fall), Apr-Jun (Winter), and Nov-Jan (Summer).
-  location: Toronto, Canada (remote or in person)
-  eligibility: Enrolled post-secondary students in 2nd year or higher in STEM or adjacent fields with ML experience
-  funding: Paid
-  duration: Approx. 3-4 months per term
-  tags:
-  - machine-learning
-  - internship
-  - canada
-  - research
-  - students
-  source: community
-  last_verified: '2026-06-30'
-  cycles:
-  - cycle: Summer (apply Nov–Jan) — next upcoming
-    deadline: Unknown
-  - cycle: Fall (apply Apr–May)
-    deadline: Unknown
-  - cycle: Winter (apply Apr–Jun)
     deadline: Unknown
 - id: mila-ai-policy-fellowship
   name: Mila AI Policy Fellowship

@@ -127,3 +127,7 @@ def test_semantic_flags_duplicate_name_org():
         base_entry(id="two", url="https://b.example"),
     ]}
     assert any("name+organization" in e for e in validate.semantic_errors(data))
+
+
+def test_cycle_accepts_closed_literal():
+    assert errs(base_entry(cycles=[{"cycle": "2026", "deadline": "Closed"}])) == []
