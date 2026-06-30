@@ -129,22 +129,24 @@ fellowships:
     deadline: '2025-11-14'
     opens: '2025-09-26'
 - id: open-phil-aifellowship
-  name: Open Philanthropy AI Fellowship
-  organization: Open Philanthropy
+  name: Coefficient Giving AI Fellowship
+  organization: Coefficient Giving (formerly Open Philanthropy)
   category: academic-phd
-  url: https://www.openphilanthropy.org
-  description: Support for PhD students working on potentially high-impact AI research.
+  url: https://coefficientgiving.org/ai-fellowship/
+  description: 'Fellowship for full-time AI/ML PhD students researching how to reduce catastrophic risk from advanced AI; about $40k stipend, $10k research support, plus tuition. NOTE: the program is currently paused and not accepting new applications until further notice.'
   location: Remote / various
-  eligibility: PhD students in AI-related fields.
-  funding: Stipend + support
-  duration: Multi-year
+  eligibility: Full-time PhD students in AI/ML-related fields.
+  funding: ~$40k stipend + $10k research support + tuition
+  duration: Up to 5 years (PhD duration)
   tags:
   - phd
   - funding
+  - ai-safety
+  - paused
   source: community
   last_verified: '2026-06-30'
   cycles:
-  - cycle: Next cohort (program paused)
+  - cycle: Paused - not accepting applications
     deadline: Unknown
 - id: horizon-fellowship
   name: Horizon Fellowship
@@ -214,26 +216,6 @@ fellowships:
   - cycle: 2026 Cohort
     deadline: '2026-04-30'
     opens: '2026-03-05'
-- id: meta-ai-residency
-  name: AI Residency Program
-  organization: Meta (FAIR / AI at Meta)
-  category: industry-residency
-  url: https://ai.meta.com/join-us/residency-program/
-  description: A one-year research training position giving hands-on experience in AI research. Residents work with Meta AI researchers to define a research problem and develop new machine learning techniques, preparing for or strengthening a PhD application.
-  location: United States (on-site)
-  eligibility: Diverse technical backgrounds (math, physics, neuroscience, economics, linguistics, etc.); prior ML experience valued but not required; full-time on-site only
-  funding: Competitive salary plus relocation package and medical benefits; not eligible for RSUs/bonuses
-  duration: 12 months (extendable up to 12 more)
-  tags:
-  - residency
-  - ai-research
-  - machine-learning
-  - pre-phd
-  source: community
-  last_verified: '2026-06-30'
-  cycles:
-  - cycle: Next cohort (not yet announced)
-    deadline: Unknown
 - id: aiml-residency-program
   name: AIML Residency Program
   organization: Apple

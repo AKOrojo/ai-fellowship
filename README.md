@@ -25,7 +25,6 @@ A community-maintained, always-current list of **AI fellowships, residencies, an
 | [Google PhD Fellowship Program](https://research.google/programs-and-events/phd-fellowship/) | Google Research | 2026 Cohort | 2026-04-30 | 🔴 Closed | Global (region-specific) |
 | [OpenAI Residency](https://openai.com/residency/) | OpenAI | 2026 Cohort | Rolling | 🟡 Rolling | San Francisco, CA (3+ days/week in office) |
 | [OpenAI Residency](https://openai.com/residency/) | OpenAI | Future postings (rolling) | Rolling | 🟡 Rolling | San Francisco, CA (3+ days/week in office) |
-| [AI Residency Program](https://ai.meta.com/join-us/residency-program/) | Meta (FAIR / AI at Meta) | Next cohort (not yet announced) | Unknown | 🟢 Open | United States (on-site) |
 | [Microsoft Research AI Residency Program](https://www.microsoft.com/en-us/research/academic-program/cambridge-residency/) | Microsoft Research | 2026 Cycle | Rolling | 🟡 Rolling | Redmond, WA / Cambridge, UK |
 | [Cohere Labs Scholars Program](https://cohere.com/research/scholars-program) | Cohere (Cohere Labs) | 2027 Cohort (next/upcoming) | Unknown | 🟢 Open | Remote-first (global); optional in-person at Cohere offices |
 | [Student Researcher Program](https://deepmind.google/student-researcher-program/) | Google DeepMind | 2025-2026 Cycle | Rolling | 🟡 Rolling | In-person at a Google office (global) |
@@ -71,7 +70,7 @@ A community-maintained, always-current list of **AI fellowships, residencies, an
 | [IndiaAI Fellowship for PhD Students](https://indiaai.gov.in/article/indiaai-fellowship-under-the-indiaai-mission) | IndiaAI Mission, MeitY (Government of India) | 2026 Cycle | 2026-02-28 | 🔴 Closed | India (top 50 NIRF-ranked institutes) |
 | [Meta Research PhD Fellowship](https://metaresearchphdfellowship.smapply.io/) | Meta | 2026 Cycle | 2026-09-20 | 🔵 Upcoming | Global |
 | [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org) | US National Science Foundation | 2027 Competition (FY2027) — next cycle | Unknown | 🟢 Open | United States |
-| [Open Philanthropy AI Fellowship](https://www.openphilanthropy.org) | Open Philanthropy | Next cohort (program paused) | Unknown | 🟢 Open | Remote / various |
+| [Coefficient Giving AI Fellowship](https://coefficientgiving.org/ai-fellowship/) | Coefficient Giving (formerly Open Philanthropy) | Paused - not accepting applications | Unknown | 🟢 Open | Remote / various |
 | [Cooperative AI PhD Fellowship](https://www.cooperativeai.com/phd-fellowship/2026) | Cooperative AI Foundation | 2027 Cohort | Unknown | 🟢 Open | Global / remote |
 | [ELLIS PhD Program](https://ellis.eu/news/ellis-phd-program-call-for-applications-2025) | ELLIS (European Lab for Learning and Intelligent Systems) | Class of 2027 | Unknown | 🟢 Open | Europe |
 | [Vitalik Buterin PhD Fellowship in AI Existential Safety](https://futureoflife.org/grant-program/phd-fellowships/) | Future of Life Institute | 2027 Cohort | Unknown | 🟢 Open | Global (US/UK/Canada stipend) |
