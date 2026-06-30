@@ -829,7 +829,7 @@ fellowships:
   cycles:
   - cycle: 2026 Cohort (closed)
     deadline: '2025-11-30'
-  - cycle: 2027 Cohort
+  - cycle: 2027 Cohort (applications reopen Nov 2026)
     deadline: Unknown
     opens: '2026-11-01'
 - id: sff-2026-s-process-grant-round
