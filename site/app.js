@@ -21,6 +21,33 @@ function el(tag, className, text) {
   return node;
 }
 
+function updateToggleButton(theme) {
+  const btn = document.getElementById("theme-toggle");
+  if (!btn) return;
+  const dark = theme === "dark";
+  btn.textContent = dark ? "☀" : "☾";
+  btn.setAttribute("aria-label", dark ? "Switch to light mode" : "Switch to dark mode");
+  btn.setAttribute("aria-pressed", String(!dark));
+}
+
+function setTheme(theme) {
+  document.documentElement.setAttribute("data-theme", theme);
+  try { localStorage.setItem("theme", theme); } catch (e) { /* storage unavailable */ }
+  updateToggleButton(theme);
+}
+
+function initTheme() {
+  const btn = document.getElementById("theme-toggle");
+  if (!btn) return;
+  // theme.js already applied the initial theme before paint; just sync the icon.
+  updateToggleButton(document.documentElement.getAttribute("data-theme") || "dark");
+  btn.addEventListener("click", function () {
+    const next =
+      document.documentElement.getAttribute("data-theme") === "dark" ? "light" : "dark";
+    setTheme(next);
+  });
+}
+
 function deadlineKey(item) {
   const d = item.deadline;
   if (!d || d === "Rolling" || d === "Unknown") return "9999-12-31";
@@ -98,6 +125,7 @@ function populateCategories() {
 }
 
 async function init() {
+  initTheme();
   populateCategories();
   for (const id of ["search", "category", "status", "sort"]) {
     document.getElementById(id).addEventListener("input", apply);
