@@ -4,179 +4,964 @@
 # Add via Pull Request (or the "New fellowship" issue form). See CONTRIBUTING.md.
 # NOTE: write all dates as quoted strings, e.g. "2026-03-15"; verify on the official link.
 fellowships:
-  - id: anthropic-fellows
-    name: Anthropic Fellows Program
-    organization: Anthropic
-    category: research-safety
-    url: https://www.anthropic.com/fellows
-    description: Funded program pairing fellows with Anthropic researchers on AI safety projects.
-    location: Remote / Berkeley, CA
-    eligibility: Strong coding/ML background; early-career researchers welcome.
-    funding: Stipend provided
-    duration: ~6 months
-    tags: [safety, research]
-    source: community
-    last_verified: "2026-06-30"
-    cycles:
-      - cycle: "2026 Cohort"
-        opens: Unknown
-        deadline: Unknown
-  - id: openai-residency
-    name: OpenAI Residency
-    organization: OpenAI
-    category: industry-residency
-    url: https://openai.com/residency
-    description: Six-month paid program to transition into a career in AI research/engineering.
-    location: San Francisco, CA
-    eligibility: Strong technical background; career changers welcome.
-    funding: Paid (salary)
-    duration: 6 months
-    tags: [residency, research]
-    source: community
-    last_verified: "2026-06-30"
-    cycles:
-      - cycle: "2026"
-        opens: Unknown
-        deadline: Unknown
-  - id: mats
-    name: ML Alignment & Theory Scholars (MATS)
-    organization: MATS
-    category: research-safety
-    url: https://www.matsprogram.org
-    description: Independent AI safety research mentorship program with stipend.
-    location: Berkeley, CA
-    eligibility: Aspiring alignment researchers.
-    funding: Stipend provided
-    duration: ~10 weeks
-    tags: [safety, mentorship]
-    source: community
-    last_verified: "2026-06-30"
-    cycles:
-      - cycle: "Summer 2026"
-        opens: Unknown
-        deadline: Unknown
-      - cycle: "Winter 2026"
-        opens: Unknown
-        deadline: Unknown
-  - id: arena
-    name: ARENA (Alignment Research Engineer Accelerator)
-    organization: ARENA
-    category: research-safety
-    url: https://www.arena.education
-    description: In-person ML/alignment engineering bootcamp preparing engineers for safety work.
-    location: London, UK
-    eligibility: Strong Python; ML basics.
-    funding: Stipend / free tuition
-    duration: ~5 weeks
-    tags: [safety, engineering]
-    source: community
-    last_verified: "2026-06-30"
-    cycles:
-      - cycle: "Spring 2026"
-        opens: Unknown
-        deadline: Unknown
-      - cycle: "Autumn 2026"
-        opens: Unknown
-        deadline: Unknown
-  - id: nsf-grfp
-    name: NSF Graduate Research Fellowship Program
-    organization: US National Science Foundation
-    category: academic-phd
-    url: https://www.nsfgrfp.org
-    description: Funds graduate study in STEM including AI/ML for early-stage PhD students.
-    location: United States
-    eligibility: US citizens/nationals/permanent residents in eligible programs.
-    funding: Stipend + tuition
-    duration: 3 years
-    tags: [phd, funding]
-    source: community
-    last_verified: "2026-06-30"
-    cycles:
-      - cycle: "2026-2027"
-        opens: Unknown
-        deadline: Unknown
-  - id: open-phil-aifellowship
-    name: Open Philanthropy AI Fellowship
-    organization: Open Philanthropy
-    category: academic-phd
-    url: https://www.openphilanthropy.org
-    description: Support for PhD students working on potentially high-impact AI research.
-    location: Remote / various
-    eligibility: PhD students in AI-related fields.
-    funding: Stipend + support
-    duration: Multi-year
-    tags: [phd, funding]
-    source: community
-    last_verified: "2026-06-30"
-    cycles:
-      - cycle: "2026"
-        opens: Unknown
-        deadline: Unknown
-  - id: horizon-fellowship
-    name: Horizon Fellowship
-    organization: Horizon Institute for Public Service
-    category: policy-grants
-    url: https://horizonpublicservice.org
-    description: Places technically-skilled fellows in AI policy roles in government and think tanks.
-    location: Washington, DC
-    eligibility: Early/mid-career with technical or policy background.
-    funding: Salary + benefits
-    duration: 1-2 years
-    tags: [policy, governance]
-    source: community
-    last_verified: "2026-06-30"
-    cycles:
-      - cycle: "2026"
-        opens: Unknown
-        deadline: Unknown
-  - id: rand-tasp
-    name: RAND Technology and Security Policy Fellowship
-    organization: RAND Corporation
-    category: policy-grants
-    url: https://www.rand.org
-    description: Fellowship for researchers working on AI and emerging-technology security policy.
-    location: Washington, DC / Santa Monica, CA
-    eligibility: Technical or policy researchers.
-    funding: Salary
-    duration: 1 year
-    tags: [policy, security]
-    source: community
-    last_verified: "2026-06-30"
-    cycles:
-      - cycle: "2026"
-        opens: Unknown
-        deadline: Unknown
-  - id: google-ai-residency
-    name: Google AI Residency
-    organization: Google
-    category: industry-residency
-    url: https://research.google
-    description: Research training role to work alongside Google researchers on ML problems.
-    location: Various
-    eligibility: Strong CS/ML background.
-    funding: Paid (salary)
-    duration: 12+ months
-    tags: [residency, research]
-    source: community
-    last_verified: "2026-06-30"
-    cycles:
-      - cycle: "2026"
-        opens: Unknown
-        deadline: Unknown
-  - id: meta-ai-residency
-    name: Meta AI Residency Program
-    organization: Meta
-    category: industry-residency
-    url: https://ai.meta.com
-    description: One-year program to conduct AI research with Meta scientists and engineers.
-    location: Various (US)
-    eligibility: Bachelors+ with quantitative background.
-    funding: Paid (salary)
-    duration: 12 months
-    tags: [residency, research]
-    source: community
-    last_verified: "2026-06-30"
-    cycles:
-      - cycle: "2026"
-        opens: Unknown
-        deadline: Unknown
+- id: anthropic-fellows
+  name: Anthropic Fellows Program
+  organization: Anthropic
+  category: research-safety
+  url: https://alignment.anthropic.com/2025/anthropic-fellows-program-2026/
+  description: 'A four-month, full-time mentored fellowship pairing participants with Anthropic researchers on AI safety research: scalable oversight, mechanistic interpretability, adversarial robustness, AI control, model organisms, AI security, and model welfare.'
+  location: Berkeley CA / London UK / remote (US, UK, Canada)
+  eligibility: Fluent in Python, available full-time, work authorization in US/UK/Canada (no visa sponsorship); no PhD or prior ML/publications required
+  funding: ~$3,850/week stipend (£2,310 / CA$4,300) + ~$15k/month compute funding
+  duration: 4 months (extension/flexible start possible)
+  tags:
+  - ai-safety
+  - alignment
+  - fellowship
+  - research
+  - mentorship
+  - interpretability
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: May 2026 Cohort
+    deadline: Unknown
+  - cycle: July 2026 Cohort
+    deadline: '2026-04-26'
+  - cycle: Future cohorts (rolling)
+    deadline: Rolling
+- id: openai-residency
+  name: OpenAI Residency
+  organization: OpenAI
+  category: industry-residency
+  url: https://openai.com/residency/
+  description: A six-month program that accelerates talented builders and early researchers from adjacent fields into frontier AI research, offering close mentorship, hands-on research experience, and a possible path to a full-time research role.
+  location: San Francisco, CA (3+ days/week in office)
+  eligibility: Strong programming and software skills; comfort with linear algebra, probability, statistics and calculus; prior ML experience not required
+  funding: ~$18,333/month (about $220k/year)
+  duration: 6 months
+  tags:
+  - ai-research
+  - residency
+  - paid
+  - frontier-ai
+  - mentorship
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: 2026 Cohort
+    deadline: Unknown
+- id: mats
+  name: MATS (ML Alignment & Theory Scholars)
+  organization: MATS Research
+  category: research-safety
+  url: https://www.matsprogram.org/program/autumn-2026
+  description: A 10-week full-time research fellowship pairing scholars with senior mentors to work on AI alignment, security, governance, and field-building, with an optional multi-month extension phase.
+  location: Berkeley, CA & London, UK
+  eligibility: Motivated researchers across empirical, theory, governance and other tracks; no formal degree required.
+  funding: Stipend + housing; extension phase ~$7,680/mo plus compute
+  duration: 10 weeks (+ optional ~6-month extension)
+  tags:
+  - alignment
+  - interpretability
+  - mentorship
+  - research
+  - governance
+  - ml
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: Autumn 2026
+    deadline: '2026-06-07'
+    opens: '2026-05-12'
+- id: arena
+  name: ARENA 9.0 (Alignment Research Engineer Accelerator)
+  organization: ARENA
+  category: research-safety
+  url: https://www.arena.education/
+  description: An in-person ML engineering bootcamp that equips participants with the technical skills, community, and confidence to contribute to technical AI safety. Hosted at the London Initiative for Safe AI (LISA) in London; runs Oct 5 - Nov 6, 2026.
+  location: London, UK (LISA)
+  eligibility: Python proficiency, foundational maths (linear algebra, calculus, probability), and genuine commitment to AI safety.
+  funding: No stipend; travel, visa, accommodation, and meals covered
+  duration: 4-5 weeks
+  tags:
+  - bootcamp
+  - ml-engineering
+  - technical
+  - interpretability
+  - in-person
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: ARENA 9.0 (Autumn 2026)
+    deadline: '2026-07-12'
+- id: nsf-grfp
+  name: NSF Graduate Research Fellowship Program
+  organization: US National Science Foundation
+  category: academic-phd
+  url: https://www.nsfgrfp.org
+  description: Funds graduate study in STEM including AI/ML for early-stage PhD students.
+  location: United States
+  eligibility: US citizens/nationals/permanent residents in eligible programs.
+  funding: Stipend + tuition
+  duration: 3 years
+  tags:
+  - phd
+  - funding
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: 2026-2027
+    opens: Unknown
+    deadline: Unknown
+- id: open-phil-aifellowship
+  name: Open Philanthropy AI Fellowship
+  organization: Open Philanthropy
+  category: academic-phd
+  url: https://www.openphilanthropy.org
+  description: Support for PhD students working on potentially high-impact AI research.
+  location: Remote / various
+  eligibility: PhD students in AI-related fields.
+  funding: Stipend + support
+  duration: Multi-year
+  tags:
+  - phd
+  - funding
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: '2026'
+    opens: Unknown
+    deadline: Unknown
+- id: horizon-fellowship
+  name: Horizon Fellowship
+  organization: Horizon Institute for Public Service
+  category: policy-grants
+  url: https://horizonpublicservice.org/programs/become-a-fellow/
+  description: Fellowship that trains and places experts in AI, biotechnology, and other emerging technologies into US federal agencies, congressional offices, and think tanks in Washington, DC for public-service careers of up to two years.
+  location: Washington, DC
+  eligibility: Subject-matter expertise in AI, biotech, or emerging tech; eligible to work in the US; willing to relocate to DC. Visas not sponsored.
+  funding: $75,000/yr (junior) / $113,000/yr (other tracks) plus benefits
+  duration: 6-12 months initial, renewable up to 24 months
+  tags:
+  - emerging-tech
+  - ai-policy
+  - federal
+  - congress
+  - dc
+  - fellowship
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: 2026 Cohort
+    deadline: '2025-09-02'
+  - cycle: 2027 Cohort (upcoming)
+    deadline: Unknown
+- id: rand-tasp
+  name: Center on AI, Security, and Technology Fellows Program (formerly TASP)
+  organization: RAND Corporation
+  category: policy-grants
+  url: https://www.rand.org/global-and-emerging-risks/centers/ai-security-and-technology/fellows.html
+  description: RAND fellowship developing policy analysts at the intersection of AI, technology, and security. Fellows conduct research with RAND mentorship on AI security, tech policy and governance, or biosecurity. Applications are reviewed quarterly on a rolling basis.
+  location: US or UK (remote possible)
+  eligibility: All levels, undergrad to mid-career; US- or UK-based; eligible for a government security clearance.
+  funding: $40,000-$200,000 stipend (US) plus health/dental support; UK experience-based
+  duration: 6 months up to 3 years; full- or part-time
+  tags:
+  - ai-policy
+  - national-security
+  - rolling
+  - stipend
+  - emerging-tech
+  - governance
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: 2026 (Quarterly Rolling Review)
+    deadline: Rolling
+- id: google-ai-residency
+  name: Google PhD Fellowship Program
+  organization: Google Research
+  category: industry-residency
+  url: https://research.google/programs-and-events/phd-fellowship/
+  description: Nomination-based fellowship recognizing outstanding PhD students in computer science and related fields, providing multi-year funding toward education costs plus mentorship from a Google researcher. Universities nominate candidates; direct applications are not accepted.
+  location: Global (region-specific)
+  eligibility: PhD students nominated by an eligible university; enrolled full-time; region-specific study-stage requirements; not a Google employee; direct applications not accepted.
+  funding: Up to US$85K/year (US/Canada); varies by region
+  duration: 1-4 years (varies by region)
+  tags:
+  - phd
+  - machine-learning
+  - computer-science
+  - google
+  - nomination
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: 2026 Cohort
+    deadline: '2026-04-30'
+    opens: '2026-03-05'
+- id: meta-ai-residency
+  name: AI Residency Program
+  organization: Meta (FAIR / AI at Meta)
+  category: industry-residency
+  url: https://ai.meta.com/join-us/residency-program/
+  description: A one-year research training position giving hands-on experience in AI research. Residents work with Meta AI researchers to define a research problem and develop new machine learning techniques, preparing for or strengthening a PhD application.
+  location: United States (on-site)
+  eligibility: Diverse technical backgrounds (math, physics, neuroscience, economics, linguistics, etc.); prior ML experience valued but not required; full-time on-site only
+  funding: Competitive salary plus relocation package and medical benefits; not eligible for RSUs/bonuses
+  duration: 12 months (extendable up to 12 more)
+  tags:
+  - residency
+  - ai-research
+  - machine-learning
+  - pre-phd
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: Upcoming Cohort
+    deadline: Unknown
+- id: aiml-residency-program
+  name: AIML Residency Program
+  organization: Apple
+  category: industry-residency
+  url: https://machinelearning.apple.com/updates/aiml-residency-program-application-2026
+  description: A one-year program for graduates with advanced degrees to apply domain expertise to machine learning and AI-based products and research at Apple, with mentorship, peer collaboration, publishing opportunities, and technical and leadership training.
+  location: United States (on-site)
+  eligibility: Master's/PhD graduates, postdocs, software/hardware engineers, academics on sabbatical and aspiring professors seeking ML/AI industry experience
+  funding: Paid full-time role (40 hours/week)
+  duration: 1 year (July 13, 2026 - July 9, 2027)
+  tags:
+  - residency
+  - machine-learning
+  - research
+  - interdisciplinary
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: 2026 Cohort
+    deadline: '2025-12-15'
+    opens: '2025-11-07'
+- id: microsoft-research-ai-residency-program
+  name: Microsoft Research AI Residency Program
+  organization: Microsoft Research
+  category: industry-residency
+  url: https://www.microsoft.com/en-us/research/academic-program/cambridge-residency/
+  description: Residency for early-career scientists, engineers, designers, and program managers to work alongside Microsoft researchers and engineers on AI and machine learning projects. Offered as a Redmond, WA track and a Cambridge, UK Residency Programme (up to two years).
+  location: Redmond, WA / Cambridge, UK
+  eligibility: Scientists, engineers, designers, or program managers, typically recent graduates or early-career researchers, seeking real-world research impact
+  duration: 12 months (Cambridge Residency up to 2 years)
+  tags:
+  - residency
+  - research
+  - machine-learning
+  - engineering
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: 2026 Cycle
+    deadline: Rolling
+- id: cohere-labs-scholars-program
+  name: Cohere Labs Scholars Program
+  organization: Cohere (Cohere Labs)
+  category: industry-residency
+  url: https://cohere.com/research/scholars-program
+  description: An eight-month, remote-first, full-time paid program pairing early-career ML researchers with Cohere's research and engineering team on projects across efficiency, multilingual, and safety. Includes mentorship and compute access. Applications typically open around August for the January cohort.
+  location: Remote-first (global); optional in-person at Cohere offices
+  eligibility: Early-career researchers with demonstrated AI/ML curiosity and strong engineering skills; prior published research not required
+  funding: Competitive pay (~$103K-$163K/yr), weekly lunch stipend, full health/dental benefits, 6 weeks vacation
+  duration: 8 months (January to August)
+  tags:
+  - research
+  - nlp
+  - scholars
+  - remote
+  - mentorship
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: 2027 Cohort
+    deadline: Unknown
+- id: student-researcher-program
+  name: Student Researcher Program
+  organization: Google DeepMind
+  category: industry-residency
+  url: https://deepmind.google/student-researcher-program/
+  description: A paid, in-person research placement where enrolled students work with Google DeepMind and Google Research host teams on AI research projects. Applicants may be considered for positions across Google teams.
+  location: In-person at a Google office (global)
+  eligibility: Students enrolled in a Bachelor's, Master's, or PhD program; minimum four days/week commitment
+  funding: Paid position
+  duration: 12 to 24 weeks
+  tags:
+  - student-researcher
+  - ai-research
+  - paid
+  - internship
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: 2025-2026 Cycle
+    deadline: Rolling
+- id: nvidia-graduate-fellowship-program
+  name: NVIDIA Graduate Fellowship Program
+  organization: NVIDIA
+  category: industry-residency
+  url: https://research.nvidia.com/graduate-fellowships
+  description: Fellowship awarding up to $60,000 to PhD students whose research advances accelerated computing and AI, including machine learning, robotics and autonomous vehicles. Recipients must complete a mandatory in-person summer internship at an NVIDIA research office before the award year.
+  location: Worldwide (internship at NVIDIA research office)
+  eligibility: PhD students who have completed at least their first year, in CS, computer/electrical engineering, system architecture or related fields
+  funding: Up to $60,000 per award
+  duration: One academic year (9 months) plus a preceding summer internship
+  tags:
+  - fellowship
+  - phd
+  - ai-research
+  - accelerated-computing
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: 2027-2028 Cycle
+    deadline: Unknown
+- id: pibbss-fellowship
+  name: PIBBSS Fellowship
+  organization: Principles of Intelligence (PrincInt / PIBBSS)
+  category: research-safety
+  url: https://princint.ai/programs/fellowship/
+  description: A ~3-month interdisciplinary fellowship pairing experienced researchers from diverse fields with AI safety mentors to work on an alignment project bridging their field and AI safety. The 2026 cohort runs in-person in Cape Town (Nov 2026 to Feb 2027).
+  location: Cape Town, South Africa (in-person; remote for exceptional candidates)
+  eligibility: Experienced researchers across many disciplines (math, neuroscience, physics, philosophy, economics, etc.); PhD/postdoc candidates welcome, open to all countries.
+  funding: $3,000/month stipend, accommodation, workday meals, return flight
+  duration: ~3 months (Nov 2026 to Feb 2027)
+  tags:
+  - interdisciplinary
+  - alignment
+  - mentorship
+  - research
+  - fellowship
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: 2026 Cohort (Winter 2026-2027)
+    deadline: '2026-07-20'
+- id: ai-safety-camp-aisc-11
+  name: AI Safety Camp (AISC 11)
+  organization: AI Safety Camp
+  category: research-safety
+  url: https://www.aisafety.camp/
+  description: An online, part-time research program where participants join teams to work on pre-selected AI safety projects led by experienced project leads. Includes weekly team meetings and culminates in final presentations.
+  location: Online / Remote
+  eligibility: Open to newcomers and experienced contributors; skill requirements vary by project. Must commit ~10 hrs/week.
+  funding: Generally unpaid (no default stipend)
+  duration: ~3.5 months (10 hrs/week)
+  tags:
+  - online
+  - teams
+  - research
+  - alignment
+  - part-time
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: AISC 11 (2026)
+    deadline: '2025-11-23'
+    opens: '2025-11-01'
+- id: astra-fellowship
+  name: Astra Fellowship
+  organization: Constellation Institute
+  category: research-safety
+  url: https://constellation.org/programs/astra
+  description: A fully funded, in-person fellowship pairing senior advisors with emerging talent on technical, governance, strategy, and field-building AI safety projects at Constellation's Berkeley research center.
+  location: Berkeley, CA
+  eligibility: Technical or domain-specific experience; motivated to reduce catastrophic AI risk; prior AI safety experience not required.
+  funding: $8,400/month stipend + ~$15,000/month compute (empirical fellows)
+  duration: 5 months
+  tags:
+  - alignment
+  - governance
+  - strategy
+  - mentorship
+  - in-person
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: 2026 Cohort
+    deadline: '2026-05-03'
+- id: spar-supervised-program-for-alignment-research
+  name: SPAR (Supervised Program for Alignment Research)
+  organization: Kairos AI Project
+  category: research-safety
+  url: https://sparai.org/
+  description: A part-time, remote research fellowship pairing aspiring AI safety and policy researchers with experienced mentors to work on research projects in AI safety, governance, interpretability, security, and biosecurity.
+  location: Remote
+  eligibility: Undergraduates, grad/PhD students, and mid-career professionals; technical (ML/CS/math) or policy/governance backgrounds; no prior research experience required.
+  funding: No personal stipend; project compute and API/LLM costs covered
+  duration: 3 months (part-time, 5-40 hrs/week)
+  tags:
+  - remote
+  - mentorship
+  - research
+  - policy
+  - part-time
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: Spring 2026
+    deadline: '2026-01-14'
+    opens: '2025-12-17'
+- id: apart-lab-fellowship
+  name: Apart Lab Fellowship
+  organization: Apart Research
+  category: research-safety
+  url: https://apartresearch.com/lab
+  description: A remote AI safety research fellowship that helps participants develop hackathon (Sprint) projects into published, peer-reviewed research through structured mentorship, progressing from Sprint to Studio to the Fellowship phase.
+  location: Remote (global)
+  eligibility: Technical talent worldwide; domain experts, working professionals, and dedicated students. Entry via monthly research Sprints; advancement is merit-based on research output.
+  funding: No default stipend; compute (GPUs), API credits, and travel/conference funding provided
+  duration: 4-8 months total (10-20 hrs/week)
+  tags:
+  - remote
+  - research
+  - mentorship
+  - rolling
+  - publication
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: 2026 (rolling via monthly Sprints)
+    deadline: Rolling
+- id: cooperative-ai-phd-fellowship
+  name: Cooperative AI PhD Fellowship
+  organization: Cooperative AI Foundation
+  category: academic-phd
+  url: https://www.cooperativeai.com/phd-fellowship/2026
+  description: Supports current and prospective PhD students worldwide researching cooperative AI and multi-agent cooperation problems, offering living-stipend top-ups, compute and conference budgets, and access to a research community and closed-door events.
+  location: Global / remote
+  eligibility: Enrolled or about to enroll in a PhD at an accredited university; research focused on cooperative/multi-agent AI; no nationality or location restrictions.
+  funding: Up to $40,000/year living stipend or top-up; plus compute and conference budgets
+  duration: Up to 3 years
+  tags:
+  - phd
+  - cooperative-ai
+  - multi-agent
+  - ai-safety
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: 2026 Cohort
+    deadline: '2025-11-16'
+  - cycle: 2027 Cohort
+    deadline: Unknown
+- id: meta-research-phd-fellowship
+  name: Meta Research PhD Fellowship
+  organization: Meta
+  category: academic-phd
+  url: https://metaresearchphdfellowship.smapply.io/
+  description: PhD fellowship open to students in any year of doctoral study across research areas including machine learning and AI. Provides two years of paid tuition and fees plus a $42,000 annual stipend. Selection is based on research statement strength, research impact, and recommendation letters.
+  location: Global
+  eligibility: PhD students in any year of study at an accredited institution; two recommendation letters required (one from advisor).
+  funding: $42,000/year stipend + 2 years paid tuition and fees
+  duration: 2 years
+  tags:
+  - phd
+  - ai
+  - machine-learning
+  - meta
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: 2026 Cycle
+    deadline: '2026-09-20'
+    opens: '2026-08-03'
+- id: ellis-phd-program
+  name: ELLIS PhD Program
+  organization: ELLIS (European Lab for Learning and Intelligent Systems)
+  category: academic-phd
+  url: https://ellis.eu/news/ellis-phd-program-call-for-applications-2025
+  description: European doctoral program pairing outstanding machine learning students with leading academic and industrial advisors across Europe under joint co-supervision, including a required minimum six-month international research exchange with a secondary advisor.
+  location: Europe
+  eligibility: Master's-level qualification; PhD must be awarded by a European institution; joint supervision by advisors in different countries; 2-3 referees required.
+  funding: Varies by host institution (EU Horizon-supported via ELIAS/ELSA)
+  duration: Full PhD (incl. minimum 6-month exchange)
+  tags:
+  - phd
+  - machine-learning
+  - europe
+  - ellis
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: Class of 2026
+    deadline: '2025-10-31'
+    opens: '2025-10-01'
+  - cycle: Class of 2027
+    deadline: Unknown
+- id: vitalik-buterin-phd-fellowship-in-ai-existential-safety
+  name: Vitalik Buterin PhD Fellowship in AI Existential Safety
+  organization: Future of Life Institute
+  category: academic-phd
+  url: https://futureoflife.org/grant-program/phd-fellowships/
+  description: Supports PhD students or applicants committed to AI existential safety research, providing tuition and fees for 5 years, a $40,000 annual stipend (US/UK/Canada), and a $10,000 research fund. Run with the Beneficial AI Foundation to build a conflict-free research community.
+  location: Global (US/UK/Canada stipend)
+  eligibility: Current PhD students or those applying to a PhD program, accepted with an advisor confirming support for AI existential safety research.
+  funding: Tuition + $40,000/year stipend + $10,000 research fund
+  duration: Up to 5 years (extensions possible)
+  tags:
+  - phd
+  - ai-safety
+  - existential-safety
+  - fli
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: 2026 Cohort
+    deadline: '2025-11-21'
+  - cycle: 2027 Cohort
+    deadline: Unknown
+- id: congressional-innovation-fellowship
+  name: Congressional Innovation Fellowship
+  organization: TechCongress
+  category: policy-grants
+  url: https://techcongress.io/congressional-innovation-fellowship
+  description: Places early- and mid-career technologists in the offices of Members of Congress and on committees to advise on technology and AI policy (election security, AI, cybersecurity). Bipartisan placements split across Democratic and Republican offices.
+  location: Washington, DC (Capitol Hill)
+  eligibility: 2-6 years full-time professional tech experience; US citizens; DACA recipients eligible. Both early- and mid-career technologists considered.
+  funding: $6,500/month (~$78,000/yr) plus health, relocation and travel allowances
+  duration: 10 months (January-October)
+  tags:
+  - congress
+  - tech-policy
+  - dc
+  - ai-policy
+  - stipend
+  - fellowship
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: January 2027 Cohort
+    deadline: '2026-06-25'
+  - cycle: January 2028 Cohort (opens summer 2027)
+    deadline: Unknown
+- id: science-technology-policy-fellowships-stpf
+  name: Science & Technology Policy Fellowships (STPF)
+  organization: American Association for the Advancement of Science (AAAS)
+  category: policy-grants
+  url: https://www.aaas.org/programs/science-technology-policy-fellowships
+  description: Places scientists and engineers in federal agencies, Congress, and the judiciary to apply technical expertise (including AI) to policymaking and learn the federal policy process firsthand.
+  location: Washington, DC (federal placements)
+  eligibility: PhD or master's plus 3 years' experience in a STEM field; US citizens.
+  funding: Annual stipend (varies by program area)
+  duration: 1 year, renewable to a second year
+  tags:
+  - science-policy
+  - federal
+  - dc
+  - stem
+  - fellowship
+  - governance
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: 2027-2028 Fellowship Year
+    deadline: '2026-11-01'
+    opens: '2026-08-01'
+- id: ai-policy-fellowship
+  name: AI Policy Fellowship
+  organization: Institute for AI Policy and Strategy (IAPS)
+  category: policy-grants
+  url: https://www.iaps.ai/fellowship
+  description: A three-month paid fellowship to build practical AI policy and governance skills, including a two-week DC kickoff residency followed by mentored project work with an AI policy expert. Open to applicants from diverse policy and technical backgrounds and all seniority levels.
+  location: Washington, DC or remote (2-week DC residency)
+  eligibility: All career stages (undergrad to senior professionals); no technical or prior policy background required; alignment with IAPS research areas. US work authorization needed for DC option.
+  funding: $15,000 (Fellows) / $22,000 (Senior Fellows) plus benefits
+  duration: 3 months (Jun 1-Aug 21, 2026)
+  tags:
+  - ai-policy
+  - ai-governance
+  - dc
+  - remote
+  - stipend
+  - fellowship
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: Summer 2026 Cohort
+    deadline: '2026-02-02'
+- id: govai-winter-fellowship-2027-dc-uk-tracks
+  name: GovAI Winter Fellowship 2027 (DC & UK Tracks)
+  organization: Centre for the Governance of AI (GovAI)
+  category: policy-grants
+  url: https://www.governance.ai/opportunities
+  description: Three-month fellowships to launch or accelerate AI governance and policy careers. The bipartisan DC track focuses on US AI policy; UK tracks offer research or applied (policy/comms/ops) projects with expert mentorship.
+  location: Washington, DC / London
+  eligibility: Early-career to experienced applicants interested in AI governance and policy; DC track requires US work authorization.
+  funding: Stipend provided (DC track ~$21,000; UK track ~£12,000)
+  duration: 3 months (Jan 18-Apr 9, 2027)
+  tags:
+  - ai-governance
+  - ai-policy
+  - dc
+  - london
+  - stipend
+  - fellowship
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: DC Winter Fellowship 2027
+    deadline: '2026-07-12'
+  - cycle: UK Winter Fellowship 2027 (Research Track)
+    deadline: '2026-07-12'
+  - cycle: UK Winter Fellowship 2027 (Applied Track)
+    deadline: '2026-07-12'
+- id: talos-fellowship
+  name: Talos Fellowship
+  organization: Talos Network
+  category: policy-grants
+  url: https://www.talosnetwork.org/talos-fellowship
+  description: Programme to launch European AI policy careers through an online EU AI policy fundamentals course, a Brussels policymaking summit, and an optional paid placement at an AI governance organisation.
+  location: Europe (online plus Brussels summit)
+  eligibility: Aspiring European AI policy and governance professionals; EU citizenship strongly preferred and a completed undergraduate degree.
+  funding: Stipend for optional 4-6 month paid placement (up to ~3,000 EUR/month for placement track)
+  duration: 8-week online course plus 6-day Brussels summit; optional 4-6 month placement
+  tags:
+  - ai-governance
+  - ai-policy
+  - europe
+  - brussels
+  - placement
+  - fellowship
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: Autumn 2026 Cohort
+    deadline: '2026-04-27'
+- id: mozilla-fellows-program
+  name: Mozilla Fellows Program
+  organization: Mozilla Foundation
+  category: policy-grants
+  url: https://www.mozillafoundation.org/en/what-we-do/grantmaking/fellowship/
+  description: One-year fellowship for technologists, researchers, creators, and advocates advancing public-interest technology, including auditing and accountability of AI systems. Two tracks (Embedded and Independent); entry is by nomination, with self-nominations welcome.
+  location: Global / remote
+  eligibility: Technologists, researchers, creators, and advocates in public-interest tech; entry by nomination (self-nominations welcome). Embedded track limited to specific countries/regions.
+  funding: $100,000 (Embedded) / $125,000 (Independent) total, incl. stipend and $25,000 project budget
+  duration: 12 months (begins May 2026)
+  tags:
+  - tech-policy
+  - ai-accountability
+  - public-interest
+  - global
+  - stipend
+  - fellowship
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: 2026 Cohort
+    deadline: '2026-01-30'
+    opens: '2025-11-09'
+  - cycle: 2027 Cohort
+    deadline: Unknown
+- id: african-master-s-in-machine-intelligence-ammi
+  name: African Master's in Machine Intelligence (AMMI)
+  organization: African Institute for Mathematical Sciences (AIMS)
+  category: academic-phd
+  url: https://aimsammi.org/admission-2/
+  description: A fully funded, intensive one-year (10-month) master's program training young Africans in machine learning and its applications. No application fee; all admitted students receive a full scholarship. Hosted at AIMS campuses (Senegal and Rwanda/Kigali).
+  location: Senegal / Rwanda (AIMS campuses)
+  eligibility: Bachelor's in maths, CS, engineering or equivalent with strong maths background; minimum B (80%) average; interest in AI/ML
+  funding: Full scholarship (no application fee)
+  duration: 1 year (10-month intensive program)
+  tags:
+  - machine-learning
+  - masters
+  - africa
+  - fully-funded
+  - aims
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: 2026/2027 Cohort
+    deadline: Unknown
+- id: vector-institute-ai-research-internships
+  name: Vector Institute AI Research Internships
+  organization: Vector Institute
+  category: industry-residency
+  url: https://vectorinstitute.ai/research-talent/students/ai-research-internships/
+  description: Paid research internships working directly with Vector faculty on machine learning and AI projects, offered across Fall, Winter, and Summer terms (remote or in person). Application windows run roughly Apr-May (Fall), Apr-Jun (Winter), and Nov-Jan (Summer).
+  location: Toronto, Canada (remote or in person)
+  eligibility: Enrolled post-secondary students in 2nd year or higher in STEM or adjacent fields with ML experience
+  funding: Paid
+  duration: Approx. 3-4 months per term
+  tags:
+  - machine-learning
+  - internship
+  - canada
+  - research
+  - students
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: Summer 2027 term
+    deadline: Unknown
+- id: mila-ai-policy-fellowship
+  name: Mila AI Policy Fellowship
+  organization: Mila - Quebec AI Institute
+  category: policy-grants
+  url: https://mila.quebec/en/ai4humanity/ai-governance-policy-and-inclusion/mila-ai-policy-fellowship
+  description: A paid six-month fellowship bridging AI research and policy. Fellows develop proposals and policy briefs across themes including democratic governance, health, sovereignty and security, Indigenous AI, education, and climate. Hybrid format with in-person activities in Montreal.
+  location: Montreal, Canada (hybrid; open worldwide)
+  eligibility: Graduate degree (MSc/MA or equivalent) plus 3+ years professional/academic experience and demonstrated policy expertise
+  funding: Paid (hourly rate, ~15 hrs/week); travel and event costs covered
+  duration: 6 months (Sept-Feb)
+  tags:
+  - ai-policy
+  - governance
+  - fellowship
+  - canada
+  - hybrid
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: 2026-2027 Cohort
+    deadline: '2026-04-16'
+- id: cambridge-era-ai-fellowship
+  name: Cambridge ERA:AI Fellowship
+  organization: ERA, University of Cambridge
+  category: research-safety
+  url: https://erafellowship.org/fellowship
+  description: A fully funded 10-week summer research fellowship in Cambridge where fellows develop projects on technical and/or governance measures to mitigate risks posed by frontier AI systems. Open to applicants at any career stage worldwide.
+  location: Cambridge, UK
+  eligibility: Any career stage worldwide (18+); motivated to work on AI safety/governance research
+  funding: Salary equiv. £34,125/yr prorated + accommodation, meals, travel, visa support
+  duration: 10 weeks
+  tags:
+  - ai-safety
+  - governance
+  - fellowship
+  - uk
+  - cambridge
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: Summer 2026
+    deadline: '2026-04-12'
+- id: pivotal-research-fellowship
+  name: Pivotal Research Fellowship
+  organization: Pivotal Research
+  category: research-safety
+  url: https://www.pivotal-research.org/fellowship
+  description: A mentored 9-week AI safety and governance research fellowship in London (at LISA), with stipend, dedicated workspace, weekly 1-on-1 mentorship, and potential up-to-6-month extension funding for strong projects.
+  location: London, UK
+  eligibility: Anyone 18+ committed to AI safety; diverse backgrounds (ML, policy, philosophy, etc.)
+  funding: £6,000-£8,000 stipend + travel, housing allowance, meals, compute
+  duration: 9 weeks (+ up to 6-month extension)
+  tags:
+  - ai-safety
+  - governance
+  - fellowship
+  - uk
+  - london
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: Q3 2026
+    deadline: '2026-05-03'
+- id: indiaai-fellowship-for-phd-students
+  name: IndiaAI Fellowship for PhD Students
+  organization: IndiaAI Mission, MeitY (Government of India)
+  category: academic-phd
+  url: https://indiaai.gov.in/article/indiaai-fellowship-under-the-indiaai-mission
+  description: Government fellowship under the IndiaAI Mission funding newly enrolled full-time PhD scholars in AI at top 50 NIRF-ranked Indian institutes. Provides a monthly stipend, accommodation support, an annual research contingency grant, and international conference travel support.
+  location: India (top 50 NIRF-ranked institutes)
+  eligibility: Newly enrolled (first-year) full-time PhD students in AI at top 50 NIRF-ranked Indian institutes; Indian nationals; min CGPA 8.0 (UG) or 7.5 (PG)
+  funding: INR 38,750/month + INR 1.2 lakh/yr research grant; up to INR 1.5 lakh conference support
+  duration: Up to 4 years (or PhD completion, whichever is earlier)
+  tags:
+  - phd
+  - india
+  - government
+  - ai-research
+  - fellowship
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: 2026 Cycle
+    deadline: '2026-02-28'
+- id: google-deepmind-ai-master-s-scholarships
+  name: Google DeepMind AI Master's Scholarships
+  organization: Google DeepMind / IIE / Martingale Foundation
+  category: academic-phd
+  url: https://www.iie.org/programs/google-deepmind-ai-masters-scholarships/
+  description: Fully funded master's scholarships in AI and computer science for talented students with limited financial means. Covers full tuition plus living and relocation stipends, conference access, and 1:1 mentorship from Google DeepMind researchers, awarded via partner universities worldwide.
+  location: UK & international partner universities
+  eligibility: Students admitted to an eligible AI/CS master's at a Google DeepMind partner university; nominated on academic merit and financial need
+  funding: Full tuition + living & relocation stipend
+  duration: Up to 2-year master's
+  tags:
+  - scholarship
+  - masters
+  - underrepresented
+  - funding
+  - mentorship
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: 2026 Entry (UK, via Martingale)
+    deadline: '2025-10-24'
+  - cycle: 2026 Entry (International, via IIE)
+    deadline: Unknown
+- id: unidir-women-in-ai-fellowship
+  name: UNIDIR Women in AI Fellowship
+  organization: UN Institute for Disarmament Research (UNIDIR)
+  category: policy-grants
+  url: https://unidir.org/women-ai/
+  description: A week-long, in-person Geneva fellowship equipping women diplomats with policy, legal, and technical knowledge of AI to engage in multilateral AI and international security governance discussions. Around 30 fellows selected annually, with limited funding support available.
+  location: Geneva, Switzerland
+  eligibility: Women diplomats/government representatives working in security and technology fields from UN Member States; competitive global selection
+  funding: Free participation; limited travel and accommodation funding support for selected fellows
+  duration: 1-week intensive
+  tags:
+  - women
+  - ai-governance
+  - policy
+  - diplomacy
+  - un
+  - security
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: 2026 Fellowship (8-12 June)
+    deadline: '2026-02-24'
+- id: edsafe-women-in-ai-fellowship
+  name: EDSAFE Women in AI Fellowship
+  organization: EDSAFE AI Alliance
+  category: policy-grants
+  url: https://www.edsafeai.org/fellowship
+  description: A year-long, fully funded fellowship for women technologists and education leaders, offering workshops, mentorship, cohort learning, and a capstone project to advance safe, accountable, fair, and effective (SAFE) AI in education.
+  location: Remote / global (at least one in-person gathering)
+  eligibility: Women technologists, educators, leaders, policymakers, researchers, or entrepreneurs working on ethical AI in education; global applicants welcome.
+  funding: Fully funded
+  duration: 1 year (cohort-based)
+  tags:
+  - women
+  - ai-education
+  - responsible-ai
+  - policy
+  - mentorship
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: 2026 Cohort (closed)
+    deadline: '2025-11-30'
+  - cycle: 2027 Cohort
+    deadline: Unknown
+    opens: '2026-11-01'
+- id: sff-2026-s-process-grant-round
+  name: SFF-2026 S-Process Grant Round
+  organization: Survival and Flourishing Fund
+  category: policy-grants
+  url: https://survivalandflourishing.fund/2026/application
+  description: S-Process grant rounds funding nonprofits and select for-profits working on AI governance, freedom, fairness, and other causes tied to humanity's long-term survival and flourishing. 2026 distributes an estimated $20M-$40M across a Main Round and themed rounds; requires a Speculation Grant to be eligible.
+  location: Global
+  eligibility: Registered charities worldwide and incorporated for-profits in US/UK/Canada/Australia; individuals need a fiscal sponsor. A Speculation Grant award is required for eligibility.
+  funding: $20M-$40M total across all 2026 rounds
+  tags:
+  - grants
+  - ai-governance
+  - x-risk
+  - s-process
+  - philanthropy
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: 2026 Main/Freedom/Fairness Round
+    deadline: '2026-04-22'
+  - cycle: 2026 Climate Change Theme Round
+    deadline: '2026-06-10'
+  - cycle: 2026 Animal Welfare Theme Round
+    deadline: '2026-06-24'
+  - cycle: 2026 HSEE Theme Round
+    deadline: '2026-07-08'
+- id: scaling-ai-safety-for-a-multi-agent-world
+  name: Scaling AI Safety for a Multi-Agent World
+  organization: Schmidt Sciences, Google DeepMind, ARIA & Cooperative AI Foundation
+  category: research-safety
+  url: https://schmidtsciences.smapply.io/prog/scaling_ai_safety_for_a_multi_agent_world/
+  description: Joint funding call from Google DeepMind, Schmidt Sciences, ARIA and the Cooperative AI Foundation for technical research on the safety of large-scale multi-agent AI systems, including sandboxes and testbeds, agent network science, oversight and control, and agent infrastructure.
+  location: Global / remote
+  eligibility: Individual researchers, teams, universities, national labs, institutes and nonprofit research organizations worldwide; international collaborations welcome.
+  funding: Up to $10M total; Tier 1 up to $300k, Tier 2 up to $1M
+  tags:
+  - multi-agent
+  - ai-safety
+  - grants
+  - research
+  - deepmind
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: 2026 Funding Call
+    deadline: '2026-08-08'
+    opens: '2026-06-11'
+- id: science-of-trustworthy-ai
+  name: Science of Trustworthy AI
+  organization: Schmidt Sciences
+  category: research-safety
+  url: https://www.schmidtsciences.org/trustworthy-ai/
+  description: Schmidt Sciences program funding basic technical research to understand, predict and control risks from frontier AI systems, spanning misalignment characterization, generalizable evaluation and intervention methods, and oversight of superhuman AI and multi-agent risks.
+  location: Global
+  eligibility: Academic and nonprofit researchers globally; cross-institutional collaborations encouraged. Indirect costs capped at 10%.
+  funding: Tier 1 up to $1M; Tier 2 $1M-$5M+ over 1-3 yrs
+  duration: 1-3 years
+  tags:
+  - ai-safety
+  - trustworthy-ai
+  - research
+  - grants
+  - alignment
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: 2026 Science of Trustworthy AI RFP
+    deadline: '2026-05-17'
+- id: technical-ai-safety-research-rfp
+  name: Technical AI Safety Research RFP
+  organization: Coefficient Giving (formerly Open Philanthropy)
+  category: research-safety
+  url: https://coefficientgiving.org/funds/navigating-transformative-ai/request-for-proposals-technical-ai-safety-research/
+  description: Request for proposals funding technical AI safety research across areas such as interpretability, adversarial robustness, and alignment. Applications begin with a 300-word expression of interest assessed on a rolling basis. Currently between rounds; the most recent RFP closed in 2025.
+  location: Global / remote
+  eligibility: Academics, grad students, independent researchers and nonprofits with demonstrated ML experience.
+  funding: ~$40M across the RFP; amount varies by project
+  duration: 6-24 month projects (varies)
+  tags:
+  - technical-ai-safety
+  - grants
+  - alignment
+  - research
+  - rfp
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: 2025 RFP (closed)
+    deadline: '2025-04-15'
+  - cycle: 2026 (between rounds; no open call)
+    deadline: Unknown
+- id: long-term-future-fund
+  name: Long-Term Future Fund
+  organization: Effective Altruism Funds
+  category: policy-grants
+  url: https://funds.effectivealtruism.org/funds/far-future
+  description: EA Funds grant program supporting individuals and organizations worldwide working to reduce existential risk, with the largest share of grants going to AI safety and alignment research, governance, and field-building. Applications accepted year-round on a rolling basis.
+  location: Global / remote
+  eligibility: Individuals and organizations worldwide working on existential risk; no institutional affiliation, publication record, or letters of recommendation required.
+  funding: Typically $1k-$500k+ per grant
+  tags:
+  - grants
+  - x-risk
+  - ai-safety
+  - field-building
+  - rolling
+  source: community
+  last_verified: '2026-06-30'
+  cycles:
+  - cycle: 2026 Rolling Applications
+    deadline: Rolling
