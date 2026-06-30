@@ -63,7 +63,6 @@ A community-maintained, always-current list of **AI fellowships, residencies, an
 | [Vitalik Buterin PhD Fellowship in AI Existential Safety](https://futureoflife.org/grant-program/phd-fellowships/) | Future of Life Institute | 2026 Cohort | 2025-11-21 | 🔴 Closed | Global (US/UK/Canada stipend) |
 | [IndiaAI Fellowship for PhD Students](https://indiaai.gov.in/article/indiaai-fellowship-under-the-indiaai-mission) | IndiaAI Mission, MeitY (Government of India) | 2026 Cycle | 2026-02-28 | 🔴 Closed | India (top 50 NIRF-ranked institutes) |
 | [Meta Research PhD Fellowship](https://metaresearchphdfellowship.smapply.io/) | Meta | 2026 Cycle | 2026-09-20 | 🔵 Upcoming | Global |
-| [African Master's in Machine Intelligence (AMMI)](https://aimsammi.org/admission-2/) | African Institute for Mathematical Sciences (AIMS) | Next cohort (2026/2026-2027) | Unknown | 🟢 Open | Senegal / Rwanda (AIMS campuses) |
 | [Google DeepMind AI Master's Scholarships](https://www.iie.org/programs/google-deepmind-ai-masters-scholarships/) | Google DeepMind / IIE / Martingale Foundation | 2026 Entry (International, via IIE) | Unknown | 🟢 Open | UK & international partner universities |
 
 ### Policy, Nonprofit & Grants

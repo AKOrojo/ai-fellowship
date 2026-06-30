@@ -600,27 +600,6 @@ fellowships:
   - cycle: 2026 Cohort
     deadline: '2026-01-30'
     opens: '2025-11-09'
-- id: african-master-s-in-machine-intelligence-ammi
-  name: African Master's in Machine Intelligence (AMMI)
-  organization: African Institute for Mathematical Sciences (AIMS)
-  category: academic-phd
-  url: https://aimsammi.org/admission-2/
-  description: A fully funded, intensive one-year (10-month) master's program training young Africans in machine learning and its applications. No application fee; all admitted students receive a full scholarship. Hosted at AIMS campuses (Senegal and Rwanda/Kigali).
-  location: Senegal / Rwanda (AIMS campuses)
-  eligibility: Bachelor's in maths, CS, engineering or equivalent with strong maths background; minimum B (80%) average; interest in AI/ML
-  funding: Full scholarship (no application fee)
-  duration: 1 year (10-month intensive program)
-  tags:
-  - machine-learning
-  - masters
-  - africa
-  - fully-funded
-  - aims
-  source: community
-  last_verified: '2026-06-30'
-  cycles:
-  - cycle: Next cohort (2026/2026-2027)
-    deadline: Unknown
 - id: mila-ai-policy-fellowship
   name: Mila AI Policy Fellowship
   organization: Mila - Quebec AI Institute
