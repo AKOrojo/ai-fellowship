@@ -1,0 +1,19 @@
+# AI Fellowships — source of truth.
+# One entry per fellowship. Validated by scripts/validate.py in CI.
+# Add via Pull Request (or the "New fellowship" issue form). See CONTRIBUTING.md.
+fellowships:
+  - id: anthropic-fellows
+    name: Anthropic Fellows Program
+    organization: Anthropic
+    category: research-safety
+    url: https://www.anthropic.com/fellows
+    description: Funded program pairing fellows with Anthropic researchers on AI safety projects.
+    location: Remote / Berkeley, CA
+    eligibility: Strong coding/ML background; early-career researchers welcome.
+    funding: Stipend provided
+    opens: Unknown
+    deadline: Unknown
+    duration: ~6 months
+    tags: [safety, research]
+    source: community
+    last_verified: "2026-06-30"
