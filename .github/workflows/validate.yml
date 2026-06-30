@@ -1,6 +1,7 @@
 name: Validate
 on:
   pull_request:
+    types: [opened, synchronize, reopened, ready_for_review]
     paths: ["data/**", "scripts/**", "tests/**", ".github/workflows/**"]
   push:
     branches: [main]

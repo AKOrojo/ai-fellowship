@@ -111,3 +111,19 @@ def test_semantic_flags_duplicate_url():
 
 def test_validate_file_passes_on_seed():
     assert validate.validate_file(str(validate.DEFAULT_DATA_PATH)) == []
+
+
+def test_url_with_tab_rejected():
+    assert not validate.is_safe_url("https://example.org/a\tb")
+
+
+def test_url_with_pipe_rejected():
+    assert not validate.is_safe_url("https://example.org/a|b")
+
+
+def test_semantic_flags_duplicate_name_org():
+    data = {"fellowships": [
+        base_entry(id="one", url="https://a.example"),
+        base_entry(id="two", url="https://b.example"),
+    ]}
+    assert any("name+organization" in e for e in validate.semantic_errors(data))

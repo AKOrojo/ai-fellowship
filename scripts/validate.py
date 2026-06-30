@@ -101,7 +101,7 @@ def is_safe_text(s, max_len):
 def is_safe_url(url):
     if not isinstance(url, str) or len(url) > 500:
         return False
-    if _CONTROL_RE.search(url) or " " in url:
+    if _CONTROL_RE.search(url) or any(ch in url for ch in " \t\r\n|"):
         return False
     try:
         parts = urlsplit(url)

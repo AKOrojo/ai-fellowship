@@ -130,9 +130,9 @@ def main(argv=None):
     data_path = argv[0] if argv else str(validate.DEFAULT_DATA_PATH)
     errors = validate.validate_file(data_path)
     if errors:
-        print("Refusing to generate — data file is invalid:")
+        print("Refusing to generate — data file is invalid:", file=sys.stderr)
         for e in errors:
-            print(f"  - {e}")
+            print(f"  - {e}", file=sys.stderr)
         return 1
     generate_all(data_path, str(DEFAULT_README), str(DEFAULT_DATA_JSON), date.today())
     print("Generated README table and site/data.json.")

@@ -31,13 +31,13 @@ function card(item) {
   const c = el("article", "card");
   const h = el("h2");
   if (isSafeUrl(item.url)) {
-    const a = el("a", null, item.name);
+    const a = el("a", null, item.name || "");
     a.href = item.url;
     a.rel = "noopener noreferrer";
     a.target = "_blank";
     h.appendChild(a);
   } else {
-    h.textContent = item.name;
+    h.textContent = item.name || "";
   }
   c.appendChild(h);
   c.appendChild(el("p", "org", item.organization));
@@ -104,6 +104,7 @@ async function init() {
   }
   try {
     const res = await fetch("data.json", { cache: "no-cache" });
+    if (!res.ok) throw new Error("HTTP " + res.status);
     const data = await res.json();
     state.all = Array.isArray(data) ? data : [];
   } catch (err) {
