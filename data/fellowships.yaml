@@ -656,8 +656,9 @@ fellowships:
   - cycle: 2026 Cohort
     deadline: '2026-01-30'
     opens: '2025-11-09'
-  - cycle: 2027 Cohort
+  - cycle: 2027 Cohort (nominations open early 2027)
     deadline: Unknown
+    opens: '2027-01-01'
 - id: african-master-s-in-machine-intelligence-ammi
   name: African Master's in Machine Intelligence (AMMI)
   organization: African Institute for Mathematical Sciences (AIMS)

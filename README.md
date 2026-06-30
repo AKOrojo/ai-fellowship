@@ -97,7 +97,7 @@ A community-maintained, always-current list of **AI fellowships, residencies, an
 | [Horizon Fellowship](https://horizonpublicservice.org/programs/become-a-fellow/) | Horizon Institute for Public Service | 2027 Cohort (upcoming) | Closed | 🔴 Closed | Washington, DC |
 | [Center on AI, Security, and Technology Fellows Program (formerly TASP)](https://www.rand.org/global-and-emerging-risks/centers/ai-security-and-technology/fellows.html) | RAND Corporation | 2026 (Quarterly Rolling Review) | Rolling | 🟡 Rolling | US or UK (remote possible) |
 | [Congressional Innovation Fellowship](https://techcongress.io/congressional-innovation-fellowship) | TechCongress | January 2028 Cohort (opens summer 2027) | Unknown | 🟢 Open | Washington, DC (Capitol Hill) |
-| [Mozilla Fellows Program](https://www.mozillafoundation.org/en/what-we-do/grantmaking/fellowship/) | Mozilla Foundation | 2027 Cohort | Unknown | 🟢 Open | Global / remote |
+| [Mozilla Fellows Program](https://www.mozillafoundation.org/en/what-we-do/grantmaking/fellowship/) | Mozilla Foundation | 2027 Cohort (nominations open early 2027) | Unknown | 🔵 Upcoming | Global / remote |
 | [EDSAFE Women in AI Fellowship](https://www.edsafeai.org/fellowship) | EDSAFE AI Alliance | 2027 Cohort (applications reopen Nov 2026) | Unknown | 🔵 Upcoming | Remote / global (at least one in-person gathering) |
 | [Long-Term Future Fund](https://funds.effectivealtruism.org/funds/far-future) | Effective Altruism Funds | 2026 Rolling Applications | Rolling | 🟡 Rolling | Global / remote |
 
