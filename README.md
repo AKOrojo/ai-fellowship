@@ -23,15 +23,12 @@ A community-maintained, always-current list of **AI fellowships, residencies, an
 | [NVIDIA Graduate Fellowship Program](https://research.nvidia.com/graduate-fellowships) | NVIDIA | 2026-2027 Academic Year (most recent, now CLOSED) | 2025-09-15 | 🔴 Closed | Worldwide (internship at NVIDIA research office) |
 | [AIML Residency Program](https://machinelearning.apple.com/updates/aiml-residency-program-application-2026) | Apple | 2026 Cohort | 2025-12-15 | 🔴 Closed | United States (on-site) |
 | [Google PhD Fellowship Program](https://research.google/programs-and-events/phd-fellowship/) | Google Research | 2026 Cohort | 2026-04-30 | 🔴 Closed | Global (region-specific) |
+| [Cohere Labs Scholars Program](https://cohere.com/research/scholars-program) | Cohere (Cohere Labs) | 2027 Cohort (next/upcoming) | Closed | 🔴 Closed | Remote-first (global); optional in-person at Cohere offices |
+| [NVIDIA Graduate Fellowship Program](https://research.nvidia.com/graduate-fellowships) | NVIDIA | 2027-2028 Academic Year (next upcoming, not yet announced) | Closed | 🔴 Closed | Worldwide (internship at NVIDIA research office) |
 | [OpenAI Residency](https://openai.com/residency/) | OpenAI | 2026 Cohort | Rolling | 🟡 Rolling | San Francisco, CA (3+ days/week in office) |
 | [OpenAI Residency](https://openai.com/residency/) | OpenAI | Future postings (rolling) | Rolling | 🟡 Rolling | San Francisco, CA (3+ days/week in office) |
 | [Microsoft Research AI Residency Program](https://www.microsoft.com/en-us/research/academic-program/cambridge-residency/) | Microsoft Research | 2026 Cycle | Rolling | 🟡 Rolling | Redmond, WA / Cambridge, UK |
-| [Cohere Labs Scholars Program](https://cohere.com/research/scholars-program) | Cohere (Cohere Labs) | 2027 Cohort (next/upcoming) | Unknown | 🟢 Open | Remote-first (global); optional in-person at Cohere offices |
 | [Student Researcher Program](https://deepmind.google/student-researcher-program/) | Google DeepMind | 2025-2026 Cycle | Rolling | 🟡 Rolling | In-person at a Google office (global) |
-| [NVIDIA Graduate Fellowship Program](https://research.nvidia.com/graduate-fellowships) | NVIDIA | 2027-2028 Academic Year (next upcoming, not yet announced) | Unknown | 🟢 Open | Worldwide (internship at NVIDIA research office) |
-| [Vector Institute AI Research Internships](https://vectorinstitute.ai/research-talent/students/ai-research-internships/) | Vector Institute | Summer (apply Nov–Jan) — next upcoming | Unknown | 🟢 Open | Toronto, Canada (remote or in person) |
-| [Vector Institute AI Research Internships](https://vectorinstitute.ai/research-talent/students/ai-research-internships/) | Vector Institute | Fall (apply Apr–May) | Unknown | 🟢 Open | Toronto, Canada (remote or in person) |
-| [Vector Institute AI Research Internships](https://vectorinstitute.ai/research-talent/students/ai-research-internships/) | Vector Institute | Winter (apply Apr–Jun) | Unknown | 🟢 Open | Toronto, Canada (remote or in person) |
 
 ### Research & Safety Fellowships
 
@@ -49,7 +46,7 @@ A community-maintained, always-current list of **AI fellowships, residencies, an
 | [ARENA 9.0 (Alignment Research Engineer Accelerator)](https://www.arena.education/) | ARENA | ARENA 9.0 (Autumn 2026) | 2026-07-12 | 🟢 Open | London, UK (LISA) |
 | [PIBBSS Fellowship](https://princint.ai/programs/fellowship/) | Principles of Intelligence (PrincInt / PIBBSS) | 2026 Cohort (Winter 2026-2027) | 2026-07-20 | 🟢 Open | Cape Town, South Africa (in-person; remote for exceptional candidates) |
 | [Scaling AI Safety for a Multi-Agent World](https://schmidtsciences.smapply.io/prog/scaling_ai_safety_for_a_multi_agent_world/) | Schmidt Sciences, Google DeepMind, ARIA & Cooperative AI Foundation | 2026 Funding Call | 2026-08-08 | 🟢 Open | Global / remote |
-| [Anthropic Fellows Program](https://alignment.anthropic.com/2025/anthropic-fellows-program-2026/) | Anthropic | May 2026 Cohort | Unknown | 🟢 Open | Berkeley CA / London UK / remote (US, UK, Canada) |
+| [Anthropic Fellows Program](https://alignment.anthropic.com/2025/anthropic-fellows-program-2026/) | Anthropic | May 2026 Cohort | Closed | 🔴 Closed | Berkeley CA / London UK / remote (US, UK, Canada) |
 | [Anthropic Fellows Program](https://alignment.anthropic.com/2025/anthropic-fellows-program-2026/) | Anthropic | Future cohorts (rolling) | Rolling | 🟡 Rolling | Berkeley CA / London UK / remote (US, UK, Canada) |
 | [Apart Lab Fellowship](https://apartresearch.com/lab) | Apart Research | 2026 (rolling via monthly Sprints) | Rolling | 🟡 Rolling | Remote (global) |
 | [Technical AI Safety Research RFP](https://coefficientgiving.org/funds/navigating-transformative-ai/request-for-proposals-technical-ai-safety-research/) | Coefficient Giving (formerly Open Philanthropy) | 2026 (between rounds; no open call) | Unknown | 🟢 Open | Global / remote |

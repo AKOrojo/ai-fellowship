@@ -61,3 +61,8 @@ def test_render_tables_groups_escapes_and_shows_cycle():
     assert "Winter 2026" in md
     assert "Cycle" in md  # header column present
     assert "https://x.example" in md
+
+
+def test_derive_status_closed_literal():
+    # A cohort known to be closed but without an exact past date.
+    assert generate.derive_status("Unknown", "Closed", date(2026, 6, 30)) == "closed"

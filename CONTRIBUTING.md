@@ -18,7 +18,7 @@ Thanks for helping keep the AI fellowships list current!
 | `url` | yes | **https:// only**, ≤500 chars |
 | `description` | yes | ≤500 chars, no HTML |
 | `location` | yes | ≤80 chars |
-| `cycles` | yes | list of 1+ cohorts; each cycle: `cycle` (label ≤60, e.g. "Summer 2026", unique within the fellowship) + `deadline` (`YYYY-MM-DD`, `Rolling`, or `Unknown`), and optional `opens` (`YYYY-MM-DD` or `Unknown`) |
+| `cycles` | yes | list of 1+ cohorts; each cycle: `cycle` (label ≤60, e.g. "Summer 2026", unique within the fellowship) + `deadline` (`YYYY-MM-DD`, `Rolling`, `Closed`, or `Unknown`), and optional `opens` (`YYYY-MM-DD` or `Unknown`) |
 | `last_verified` | yes | `YYYY-MM-DD` (quote all dates) |
 | `eligibility`, `funding`, `duration`, `tags`, `source` | no | see schema |
 

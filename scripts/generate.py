@@ -26,7 +26,9 @@ STATUS_BADGE = {"open": "🟢 Open", "upcoming": "🔵 Upcoming", "closed": "�
 def derive_status(opens, deadline, today):
     if deadline == "Rolling":
         return "rolling"
-    if deadline and deadline != "Unknown":
+    if deadline == "Closed":
+        return "closed"
+    if deadline and deadline not in ("Unknown", "Closed"):
         d = date.fromisoformat(deadline)
         if today > d:
             return "closed"
