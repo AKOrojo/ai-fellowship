@@ -861,3 +861,25 @@ fellowships:
   cycles:
   - cycle: Autumn 2026
     deadline: '2026-07-08'
+- id: sash-singapore-ai-safety-fellowship
+  name: Singapore AI Safety Fellowship
+  organization: SASH (Singapore AI Safety Hub)
+  category: research-safety
+  url: https://www.aisafety.sg/programs/singapore-ai-safety-fellowship
+  description: A 3-month fully funded fellowship for emerging researchers from around the world to conduct research on challenges related to secure AI systems, under the mentorship of experienced researchers. Fellows are hosted at SASH's hub in Chinatown, Singapore, and participate in talks, workshops, seminars, and community events to build networks with mentors and peers.
+  location: Singapore (Chinatown hub)
+  eligibility: Emerging researchers from around the world; global applicants welcome.
+  funding: $5,000 SGD/month stipend + housing + travel coverage + up to $30,000 USD compute credits
+  duration: 3 months (21 Sep – 4 Dec 2026)
+  tags:
+  - ai-safety
+  - research
+  - fellowship
+  - singapore
+  - mentorship
+  - fully-funded
+  source: community
+  last_verified: '2026-07-02'
+  cycles:
+  - cycle: 2026 Cohort
+    deadline: '2026-07-10'
