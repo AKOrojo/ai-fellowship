@@ -192,6 +192,28 @@ fellowships:
   - cycle: 2026 Cohort
     deadline: '2026-04-30'
     opens: '2026-03-05'
+- id: google-africa-applied-ai-lab
+  name: Google Africa Applied AI Lab
+  organization: Google AI Futures Fund / Accra AI Community Centre
+  category: industry-residency
+  url: https://labs.google/aifuturesfund/africaailab
+  description: Cohort for African founders and researchers building AI products for African challenges, pairing selected teams with Google experts, early access to Google DeepMind models, technical mentorship, go-to-market support, demo day, and potential funding.
+  location: Africa / Accra, Ghana demo day
+  eligibility: Full-time founders and top researchers across Africa, including researchers becoming startup founders; idea must use Google AI in a material way.
+  funding: Potential funding; technical mentorship, model access, and go-to-market support
+  duration: Mid-Sep to early Dec 2026
+  tags:
+  - applied-ai
+  - startups
+  - founders
+  - google
+  - africa
+  source: community
+  last_verified: '2026-07-05'
+  cycles:
+  - cycle: 2026 Applied AI Lab
+    deadline: '2026-08-31'
+    opens: '2026-07-01'
 - id: aiml-residency-program
   name: AIML Residency Program
   organization: Apple
