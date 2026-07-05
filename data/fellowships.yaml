@@ -1322,6 +1322,34 @@ fellowships:
   cycles:
   - cycle: 2026 Pilot Cohort
     deadline: '2026-05-15'
+- id: base-fellowship
+  name: BASE Fellowship
+  organization: Black in AI Safety and Ethics (BASE)
+  category: research-safety
+  url: https://www.baseresearch.org/base-fellowship-f26
+  description: Part-time remote fellowship developing Black researchers, practitioners, students, and leaders in AI alignment, AI security, AI governance, and responsible AI through foundations training, expert mentorship, and mentored research.
+  location: Remote / global
+  eligibility: Black diaspora prioritized; enrolled in or completed BA/BS; technical tracks require coding/ML or cyber; 10-15 hrs/week.
+  funding: Mentorship, training, weekly mentor check-ins, and capstone support; no cash stipend posted
+  duration: 13 weeks, part-time remote
+  tags:
+  - ai-safety
+  - ai-security
+  - ai-governance
+  - responsible-ai
+  - black-in-ai
+  - mentorship
+  - remote
+  - fellowship
+  source: community
+  last_verified: '2026-07-05'
+  cycles:
+  - cycle: Spring 2026 Cohort
+    deadline: '2026-01-09'
+  - cycle: Fall 2026 Cohort
+    deadline: '2026-06-16'
+  - cycle: Fall 2026 Mentor Applications
+    deadline: Rolling
 - id: global-majority-ai-fellowship
   name: Global Majority AI Fellowship
   organization: Heinrich Boll Foundation Washington, DC
