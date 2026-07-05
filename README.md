@@ -37,6 +37,7 @@ A community-maintained, always-current list of **AI fellowships, residencies, an
 | --- | --- | --- | --- | --- | --- |
 | [Technical AI Safety Research RFP](https://coefficientgiving.org/funds/navigating-transformative-ai/request-for-proposals-technical-ai-safety-research/) | Coefficient Giving (formerly Open Philanthropy) | 2025 RFP (closed) | 2025-04-15 | 🔴 Closed | Global / remote |
 | [AI Safety Camp (AISC 11)](https://www.aisafety.camp/) | AI Safety Camp | AISC 11 (2026) | 2025-11-23 | 🔴 Closed | Online / Remote |
+| [BASE Fellowship](https://www.baseresearch.org/base-fellowship-f26) | Black in AI Safety and Ethics (BASE) | Spring 2026 Cohort | 2026-01-09 | 🔴 Closed | Remote / global |
 | [SPAR (Supervised Program for Alignment Research)](https://sparai.org/) | Kairos AI Project | Spring 2026 | 2026-01-14 | 🔴 Closed | Remote |
 | [CRA Trustworthy AI Research Fellowship](https://cra.org/crn/2026/02/applications-open-for-the-cra-trustworthy-ai-research-fellowships-second-cohort/) | Computing Research Association | 2026 Second Cohort | 2026-03-31 | 🔴 Closed | United States |
 | [IMI AI/ML Fellowships 2026](https://www.imachines.com/imi-ai-ml-fellowships-2025-2026-high-risk-research) | IMI | 2026 Spring Deadline | 2026-04-01 | 🔴 Closed | Remote |
@@ -47,6 +48,7 @@ A community-maintained, always-current list of **AI fellowships, residencies, an
 | [OpenAI Safety Fellowship](https://openai.com/index/introducing-openai-safety-fellowship/) | OpenAI | 2026 Cohort | 2026-05-03 | 🔴 Closed | Remote / global |
 | [Science of Trustworthy AI](https://www.schmidtsciences.org/trustworthy-ai/) | Schmidt Sciences | 2026 Science of Trustworthy AI RFP | 2026-05-17 | 🔴 Closed | Global |
 | [MATS (ML Alignment & Theory Scholars)](https://www.matsprogram.org/program/autumn-2026) | MATS Research | Autumn 2026 | 2026-06-07 | 🔴 Closed | Berkeley, CA & London, UK |
+| [BASE Fellowship](https://www.baseresearch.org/base-fellowship-f26) | Black in AI Safety and Ethics (BASE) | Fall 2026 Cohort | 2026-06-16 | 🔴 Closed | Remote / global |
 | [Anthropic Fellows Program](https://alignment.anthropic.com/2025/anthropic-fellows-program-2026/) | Anthropic | May 2026 Cohort | 2026-06-30 | 🔴 Closed | Berkeley CA / London UK / remote (US, UK, Canada) |
 | [Heron AI Security Research Fellowship](https://www.heronsec.ai/researchfellowship) | Heron AI Security | Autumn 2026 | 2026-07-08 | 🟢 Open | Remote; London, Tel Aviv & San Francisco hubs |
 | [Singapore AI Safety Fellowship](https://www.aisafety.sg/programs/singapore-ai-safety-fellowship) | SASH (Singapore AI Safety Hub) | 2026 Cohort | 2026-07-10 | 🟢 Open | Singapore (Chinatown hub) |
@@ -59,6 +61,7 @@ A community-maintained, always-current list of **AI fellowships, residencies, an
 | [Anthropic Fellows Program](https://alignment.anthropic.com/2025/anthropic-fellows-program-2026/) | Anthropic | Future cohorts (rolling) | Rolling | 🟡 Rolling | Berkeley CA / London UK / remote (US, UK, Canada) |
 | [Apart Lab Fellowship](https://apartresearch.com/lab) | Apart Research | 2026 (rolling via monthly Sprints) | Rolling | 🟡 Rolling | Remote (global) |
 | [IMI AI/ML Fellowships 2026](https://www.imachines.com/imi-ai-ml-fellowships-2025-2026-high-risk-research) | IMI | 2026 Rolling Review | Rolling | 🟡 Rolling | Remote |
+| [BASE Fellowship](https://www.baseresearch.org/base-fellowship-f26) | Black in AI Safety and Ethics (BASE) | Fall 2026 Mentor Applications | Rolling | 🟡 Rolling | Remote / global |
 
 ### Academic & PhD Fellowships
 
