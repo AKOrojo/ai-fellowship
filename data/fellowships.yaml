@@ -848,9 +848,9 @@ fellowships:
   url: https://foresight.org/engage/fellowship/
   description: Year-long frontier technology fellowship for early-career scientists, engineers, entrepreneurs, and innovators. Fellows receive introductions to senior researchers, mentors, and funders, paid travel to a Foresight technical workshop and Vision Weekend, seminar groups, AI Nodes access, career counseling, and a community spanning Secure AI and other frontier technologies.
   location: Global; events and AI Nodes in San Francisco and Berlin
-  eligibility: Early-career scientists, engineers, entrepreneurs, and innovators with strong technical work in Foresight focus areas, including Secure AI.
+  eligibility: Senior undergraduates, master's/PhD students, postdocs, and early-career scientists, engineers, entrepreneurs, and innovators; accepts non-US citizens.
   funding: Paid travel to one technical workshop and one Vision Weekend; mentorship and network access
-  duration: 1 year
+  duration: Jan 1-Dec 31, 2027
   tags:
   - secure-ai
   - ai-safety
@@ -862,7 +862,7 @@ fellowships:
   last_verified: '2026-07-05'
   cycles:
   - cycle: 2027 Cohort (applications open)
-    deadline: Unknown
+    deadline: '2026-07-31'
 - id: heron-ai-security-research-fellowship
   name: Heron AI Security Research Fellowship
   organization: Heron AI Security

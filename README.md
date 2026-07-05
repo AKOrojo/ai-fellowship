@@ -51,12 +51,12 @@ A community-maintained, always-current list of **AI fellowships, residencies, an
 | [Singapore AI Safety Fellowship](https://www.aisafety.sg/programs/singapore-ai-safety-fellowship) | SASH (Singapore AI Safety Hub) | 2026 Cohort | 2026-07-10 | 🟢 Open | Singapore (Chinatown hub) |
 | [ARENA 9.0 (Alignment Research Engineer Accelerator)](https://www.arena.education/) | ARENA | ARENA 9.0 (Autumn 2026) | 2026-07-12 | 🟢 Open | London, UK (LISA) |
 | [PIBBSS Fellowship](https://princint.ai/programs/fellowship/) | Principles of Intelligence (PrincInt / PIBBSS) | 2026 Cohort (Winter 2026-2027) | 2026-07-20 | 🟢 Open | Cape Town, South Africa (in-person; remote for exceptional candidates) |
+| [Foresight Fellowship](https://foresight.org/engage/fellowship/) | Foresight Institute | 2027 Cohort (applications open) | 2026-07-31 | 🟢 Open | Global; events and AI Nodes in San Francisco and Berlin |
 | [Scaling AI Safety for a Multi-Agent World](https://schmidtsciences.smapply.io/prog/scaling_ai_safety_for_a_multi_agent_world/) | Schmidt Sciences, Google DeepMind, ARIA & Cooperative AI Foundation | 2026 Funding Call | 2026-08-08 | 🟢 Open | Global / remote |
 | [IMI AI/ML Fellowships 2026](https://www.imachines.com/imi-ai-ml-fellowships-2025-2026-high-risk-research) | IMI | 2026 Fall Deadline | 2026-09-01 | 🟢 Open | Remote |
 | [Technical AI Safety Research RFP](https://coefficientgiving.org/funds/navigating-transformative-ai/request-for-proposals-technical-ai-safety-research/) | Coefficient Giving (formerly Open Philanthropy) | 2026 (closed / invite-only, no open call) | Closed | 🔴 Closed | Global / remote |
 | [Anthropic Fellows Program](https://alignment.anthropic.com/2025/anthropic-fellows-program-2026/) | Anthropic | Future cohorts (rolling) | Rolling | 🟡 Rolling | Berkeley CA / London UK / remote (US, UK, Canada) |
 | [Apart Lab Fellowship](https://apartresearch.com/lab) | Apart Research | 2026 (rolling via monthly Sprints) | Rolling | 🟡 Rolling | Remote (global) |
-| [Foresight Fellowship](https://foresight.org/engage/fellowship/) | Foresight Institute | 2027 Cohort (applications open) | Unknown | 🟢 Open | Global; events and AI Nodes in San Francisco and Berlin |
 | [IMI AI/ML Fellowships 2026](https://www.imachines.com/imi-ai-ml-fellowships-2025-2026-high-risk-research) | IMI | 2026 Rolling Review | Rolling | 🟡 Rolling | Remote |
 
 ### Academic & PhD Fellowships
