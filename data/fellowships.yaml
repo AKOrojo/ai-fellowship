@@ -841,6 +841,28 @@ fellowships:
   cycles:
   - cycle: 2026 Rolling Applications
     deadline: Rolling
+- id: foresight-fellowship
+  name: Foresight Fellowship
+  organization: Foresight Institute
+  category: research-safety
+  url: https://foresight.org/engage/fellowship/
+  description: Year-long frontier technology fellowship for early-career scientists, engineers, entrepreneurs, and innovators. Fellows receive introductions to senior researchers, mentors, and funders, paid travel to a Foresight technical workshop and Vision Weekend, seminar groups, AI Nodes access, career counseling, and a community spanning Secure AI and other frontier technologies.
+  location: Global; events and AI Nodes in San Francisco and Berlin
+  eligibility: Early-career scientists, engineers, entrepreneurs, and innovators with strong technical work in Foresight focus areas, including Secure AI.
+  funding: Paid travel to one technical workshop and one Vision Weekend; mentorship and network access
+  duration: 1 year
+  tags:
+  - secure-ai
+  - ai-safety
+  - frontier-technology
+  - fellowship
+  - mentorship
+  - global
+  source: community
+  last_verified: '2026-07-05'
+  cycles:
+  - cycle: 2027 Cohort (applications open)
+    deadline: Unknown
 - id: heron-ai-security-research-fellowship
   name: Heron AI Security Research Fellowship
   organization: Heron AI Security
@@ -883,3 +905,582 @@ fellowships:
   cycles:
   - cycle: 2026 Cohort
     deadline: '2026-07-10'
+- id: govai-us-ai-policy-program
+  name: GovAI U.S. AI Policy Program
+  organization: GovAI
+  category: policy-grants
+  url: https://www.governance.ai/post/govai-u-s-ai-policy-program
+  description: Free, bipartisan, part-time program for U.S. policy professionals building technically informed understanding of AI policy through weekly sessions and expert access.
+  location: Washington, DC / remote
+  eligibility: U.S. policy professionals across government, Congress, think tanks, military, national labs, and related policy roles.
+  funding: Free program; dinner provided for in-person sessions
+  duration: 12 weeks (early Sep-early Dec 2026)
+  tags:
+  - ai-policy
+  - ai-governance
+  - public-service
+  - fellowship
+  source: community
+  last_verified: '2026-07-05'
+  cycles:
+  - cycle: 2026 Applications
+    deadline: '2026-07-05'
+- id: govai-dc-winter-fellowship-2027
+  name: GovAI DC Winter Fellowship 2027
+  organization: GovAI
+  category: policy-grants
+  url: https://www.governance.ai/post/dc-winter-fellowship-2027
+  description: Three-month bipartisan fellowship for people launching or accelerating careers in American AI governance and policy through independent research, expert mentorship, and DC policy networks.
+  location: Washington, DC
+  eligibility: Applicants with U.S. work authorization and interest or experience in AI policy, governance, research, government, academia, industry, or civil society.
+  funding: $21,000 stipend + DC travel support, weekday lunch, and desk space
+  duration: Jan 18-Apr 9, 2027
+  tags:
+  - ai-policy
+  - ai-governance
+  - public-policy
+  - fellowship
+  source: community
+  last_verified: '2026-07-05'
+  cycles:
+  - cycle: 2027 Winter Fellowship
+    opens: '2026-06-15'
+    deadline: '2026-07-12'
+- id: ai-accountability-fellowships-2026-2027
+  name: AI Accountability Fellowships 2026-2027
+  organization: Pulitzer Center
+  category: policy-grants
+  url: https://pulitzercenter.org/grants-fellowships/opportunities-journalists/ai-accountability-fellowships
+  description: Ten-month journalism fellowship supporting accountability reporting on artificial intelligence and its effects on communities, institutions, and public life.
+  location: Global / newsroom-based
+  eligibility: Journalists and newsrooms pursuing accountability reporting on AI.
+  funding: Up to $25,000 for reporting and engagement expenses
+  duration: Sep 2026-Jul 2027
+  tags:
+  - journalism
+  - ai-accountability
+  - responsible-ai
+  - fellowship
+  source: community
+  last_verified: '2026-07-05'
+  cycles:
+  - cycle: 2026-2027 Cohort
+    deadline: '2026-07-12'
+- id: google-data-center-community-ai-fellowship
+  name: Google Data Center Community AI Fellowship
+  organization: Watson Institute / Google
+  category: policy-grants
+  url: https://watson.is/google-data-center-community-ai-fellowship/
+  description: Fellowship for leaders in Google data center communities using AI or technology to advance community impact, local economic mobility, education, and public-interest innovation.
+  location: Google data center communities
+  eligibility: Community leaders, entrepreneurs, and changemakers in eligible Google data center communities.
+  funding: Fully funded; includes $1,000 community stipend, training, mentorship, and some travel
+  duration: Sep 1, 2026-Jan 14, 2027
+  tags:
+  - community-impact
+  - ai-for-good
+  - google
+  - fellowship
+  source: community
+  last_verified: '2026-07-05'
+  cycles:
+  - cycle: 2026 Priority Deadline
+    deadline: '2026-07-12'
+  - cycle: 2026 Rolling Review
+    deadline: Rolling
+- id: emerging-voices-ai-society-fellowship
+  name: Emerging Voices in AI and Society Fellowship
+  organization: Center for Humane Technology
+  category: policy-grants
+  url: https://www.humanetech.com/fellowship
+  description: Fellowship supporting mid-career voices working at the intersection of AI, society, media, research, and public understanding.
+  location: Remote / United States
+  eligibility: Mid-career researchers, writers, journalists, artists, and AI society practitioners.
+  funding: $30,000 stipend
+  duration: 6 months (Sep 14, 2026-Mar 19, 2027)
+  tags:
+  - ai-and-society
+  - responsible-ai
+  - public-interest
+  - fellowship
+  source: community
+  last_verified: '2026-07-05'
+  cycles:
+  - cycle: 2026 Cohort
+    opens: '2026-06-01'
+    deadline: '2026-07-12'
+- id: agi-governance-fellowship
+  name: AGI Governance Fellowship
+  organization: Johns Hopkins School of Government and Policy
+  category: policy-grants
+  url: https://sogp.jh.edu/agi-governance-fellowship/
+  description: Full-time fellowship for early-career professionals working on AGI governance, policy analysis, institutional design, and public-sector readiness.
+  location: Washington, DC
+  eligibility: Early-career professionals interested in AGI governance and policy.
+  funding: Travel to DC, accommodation, meals, and incidentals funded
+  duration: 3 weeks (Sep 8-25, 2026)
+  tags:
+  - agi-governance
+  - ai-policy
+  - public-policy
+  - fellowship
+  source: community
+  last_verified: '2026-07-05'
+  cycles:
+  - cycle: 2026 Rolling Applications
+    deadline: Rolling
+  - cycle: 2026 Full Consideration
+    deadline: '2026-07-15'
+- id: claude-corps-fellow
+  name: Claude Corps Fellow
+  organization: Anthropic / CodePath / Social Finance
+  category: industry-residency
+  url: https://www.anthropic.com/news/claude-corps
+  description: Early-career fellowship placing participants with nonprofit and public-interest partners to deploy Claude on social-impact projects.
+  location: United States
+  eligibility: Early-career applicants with U.S. work authorization and interest in social-impact AI deployment.
+  funding: $85,000 salary + benefits
+  duration: 12 months
+  tags:
+  - applied-ai
+  - social-impact
+  - anthropic
+  - fellowship
+  source: community
+  last_verified: '2026-07-05'
+  cycles:
+  - cycle: 2026 First Cohort
+    deadline: '2026-07-17'
+- id: horizon-ai-rapid-response-fellowship
+  name: AI Rapid Response Fellowship
+  organization: Horizon Institute for Public Service
+  category: policy-grants
+  url: https://horizonpublicservice.org/ai-rapid-response-fellowship/
+  description: Public-service fellowship placing AI and security talent into U.S. executive branch offices for urgent AI policy and implementation needs.
+  location: Washington, DC / U.S. government
+  eligibility: AI policy, security, technical, or public-service professionals able to support U.S. executive branch offices.
+  funding: Fellow $170k-$200k+; Senior Fellow starts at $250k; benefits stipend
+  duration: Initial 1-year term; renewal possible
+  tags:
+  - ai-policy
+  - public-service
+  - ai-security
+  - fellowship
+  source: community
+  last_verified: '2026-07-05'
+  cycles:
+  - cycle: 2026 Cohort
+    deadline: '2026-07-22'
+- id: law-ai-academic-fellowship
+  name: Law & AI Academic Fellowship
+  organization: Institute for Law & AI
+  category: policy-grants
+  url: https://law-ai.org/career/academic-fellowship/
+  description: Fellowship for aspiring legal academics researching law, governance, and policy questions raised by transformative artificial intelligence.
+  location: Remote / academic
+  eligibility: Aspiring legal academics and researchers focused on AI law, governance, and policy.
+  funding: $130,000/year salary + benefits and research/travel support
+  duration: 2 years
+  tags:
+  - ai-law
+  - ai-policy
+  - governance
+  - fellowship
+  source: community
+  last_verified: '2026-07-05'
+  cycles:
+  - cycle: 2026 Cohort
+    deadline: '2026-07-31'
+- id: ipai-postdoctoral-fellows-program
+  name: IPAI Postdoctoral Fellows Program
+  organization: Purdue Institute for Physical AI
+  category: academic-phd
+  url: https://ipai.research.purdue.edu/postdoctoral-fellows-program
+  description: Postdoctoral fellowship program for researchers advancing physical AI, including AI systems connected to robotics, autonomy, engineering, and embodied scientific discovery.
+  location: Purdue University, Indiana
+  eligibility: Recent or incoming postdoctoral researchers working on physical AI or adjacent AI research areas.
+  funding: $70,000 annual salary + benefits
+  duration: 12 months; potential renewal for another year
+  tags:
+  - postdoc
+  - physical-ai
+  - robotics
+  - fellowship
+  source: community
+  last_verified: '2026-07-05'
+  cycles:
+  - cycle: 2026 Cohort
+    opens: '2026-06-01'
+    deadline: '2026-07-31'
+- id: imi-ai-ml-fellowships-2026
+  name: IMI AI/ML Fellowships 2026
+  organization: IMI
+  category: research-safety
+  url: https://www.imachines.com/imi-ai-ml-fellowships-2025-2026-high-risk-research
+  description: Remote AI/ML research fellowship backing high-risk research projects with flexible support, mentoring, and opportunities for independent technical work.
+  location: Remote
+  eligibility: AI and machine learning researchers with high-risk research proposals.
+  funding: Competitive location-adjusted stipend + conference/travel support
+  duration: 6 or 12 months
+  tags:
+  - ai-research
+  - machine-learning
+  - remote
+  - fellowship
+  source: community
+  last_verified: '2026-07-05'
+  cycles:
+  - cycle: 2026 Spring Deadline
+    deadline: '2026-04-01'
+  - cycle: 2026 Fall Deadline
+    deadline: '2026-09-01'
+  - cycle: 2026 Rolling Review
+    deadline: Rolling
+- id: nsf-prfb-ai-biological-sciences
+  name: "NSF PRFB: AI + Biological Sciences"
+  organization: NSF BIO
+  category: academic-phd
+  url: https://www.nsf.gov/funding/opportunities/prfb-postdoctoral-research-fellowships-biology/nsf26-504/solicitation
+  description: NSF postdoctoral research fellowship track for recent PhDs using artificial intelligence to advance biological sciences research.
+  location: United States
+  eligibility: Recent PhDs pursuing postdoctoral research in biological sciences with AI methods.
+  funding: $110,000/year total ($85,000 stipend + $25,000 research/training allowance)
+  duration: 24 months
+  tags:
+  - postdoc
+  - nsf
+  - ai-for-science
+  - biology
+  source: community
+  last_verified: '2026-07-05'
+  cycles:
+  - cycle: 2026 Solicitation
+    deadline: '2026-09-29'
+- id: ucsd-schmidt-ai-science-postdocs
+  name: Schmidt AI in Science Postdocs
+  organization: UC San Diego
+  category: academic-phd
+  url: https://schmidtaiinsciencepostdocs.ucsd.edu/
+  description: Postdoctoral fellowship for researchers applying artificial intelligence to scientific discovery across disciplines at UC San Diego.
+  location: UC San Diego, California
+  eligibility: Prospective postdoctoral researchers applying AI to science.
+  funding: Salary starts at $85,000 + benefits
+  duration: 2 years
+  tags:
+  - postdoc
+  - ai-for-science
+  - schmidt
+  - fellowship
+  source: community
+  last_verified: '2026-07-05'
+  cycles:
+  - cycle: 2027 Cohort
+    opens: '2026-09-01'
+    deadline: '2026-10-05'
+- id: openai-safety-fellowship
+  name: OpenAI Safety Fellowship
+  organization: OpenAI
+  category: research-safety
+  url: https://openai.com/index/introducing-openai-safety-fellowship/
+  description: Fellowship for external researchers, engineers, and practitioners working on AI safety, alignment, evaluations, and responsible development of advanced AI systems.
+  location: Remote / global
+  eligibility: External researchers, engineers, and practitioners working on AI safety.
+  funding: Monthly stipend + compute support + mentorship
+  duration: Sep 14, 2026-Feb 5, 2027
+  tags:
+  - ai-safety
+  - alignment
+  - evaluations
+  - fellowship
+  source: community
+  last_verified: '2026-07-05'
+  cycles:
+  - cycle: 2026 Cohort
+    opens: '2026-04-06'
+    deadline: '2026-05-03'
+- id: kempner-ai-fellows-program
+  name: Kempner AI Fellows Program
+  organization: Harvard Kempner Institute
+  category: academic-phd
+  url: https://kempnerinstitute.harvard.edu/kempner-ai-fellows/
+  description: Research fellowship for recent bachelor's or master's graduates with strong quantitative and machine learning preparation who want to work on intelligence research.
+  location: Harvard University, Massachusetts
+  eligibility: Recent BA or MA recipients with strong ML, math, statistics, or quantitative research preparation.
+  funding: Paid benefits-eligible role; $54,600 BA / $60,060 MA expected salary
+  duration: 1 year; renewable up to 3 years
+  tags:
+  - ai-research
+  - predoctoral
+  - harvard
+  - fellowship
+  source: community
+  last_verified: '2026-07-05'
+  cycles:
+  - cycle: 2026 Cohort
+    deadline: '2026-06-01'
+- id: stanford-hai-data-science-scholars
+  name: Stanford HAI Data Science Scholars
+  organization: Stanford HAI / Stanford Data Science
+  category: academic-phd
+  url: https://datascience.stanford.edu/programs/stanford-hai-data-science-scholars-program
+  description: Scholar program supporting Stanford PhD students whose work advances data science and artificial intelligence research.
+  location: Stanford University, California
+  eligibility: Current Stanford PhD students working in data science, AI, or related fields.
+  funding: About $29,000/year stipend + 50% tuition + $2,000/year research allowance
+  duration: 2 years
+  tags:
+  - data-science
+  - ai-research
+  - phd
+  - fellowship
+  source: community
+  last_verified: '2026-07-05'
+  cycles:
+  - cycle: 2026 Cohort
+    opens: '2026-04-01'
+    deadline: '2026-06-17'
+- id: cra-trustworthy-ai-research-fellowship
+  name: CRA Trustworthy AI Research Fellowship
+  organization: Computing Research Association
+  category: research-safety
+  url: https://cra.org/crn/2026/02/applications-open-for-the-cra-trustworthy-ai-research-fellowships-second-cohort/
+  description: Research fellowship supporting early-career computing researchers who study trustworthy AI with social-science training and interdisciplinary methods.
+  location: United States
+  eligibility: Early-career computing researchers with social-science training or trustworthy AI research focus.
+  funding: $17,000 stipend + travel, lodging, and meals for field school
+  duration: Jun 2026-Aug 2027
+  tags:
+  - trustworthy-ai
+  - responsible-ai
+  - research
+  - fellowship
+  source: community
+  last_verified: '2026-07-05'
+  cycles:
+  - cycle: 2026 Second Cohort
+    opens: '2026-02-01'
+    deadline: '2026-03-31'
+- id: cais-ai-and-society-fellowship
+  name: AI and Society Fellowship
+  organization: Center for AI Safety
+  category: policy-grants
+  url: https://safe.ai/fellowship
+  description: Summer fellowship for scholars from economics, law, international relations, and adjacent fields studying societal challenges from advanced AI.
+  location: Remote / United States
+  eligibility: Scholars in economics, law, international relations, political science, or related AI governance fields.
+  funding: $25,000 stipend + travel to/from San Francisco + daily lunch/dinner
+  duration: Summer 2026
+  tags:
+  - ai-and-society
+  - ai-governance
+  - ai-safety
+  - fellowship
+  source: community
+  last_verified: '2026-07-05'
+  cycles:
+  - cycle: 2026 Cohort
+    deadline: '2026-03-24'
+- id: cip-research-fellowship
+  name: CIP Research Fellowship
+  organization: Collective Intelligence Project
+  category: policy-grants
+  url: https://www.cip.org/research-fellowship
+  description: Research fellowship for work on AI, public values, democratic input, collective intelligence, and governance of emerging technologies.
+  location: Remote
+  eligibility: Researchers working on AI, public values, democratic governance, and collective intelligence.
+  funding: $9,000 stipend paid in three milestone-based tranches
+  duration: 6 months
+  tags:
+  - collective-intelligence
+  - ai-governance
+  - public-values
+  - fellowship
+  source: community
+  last_verified: '2026-07-05'
+  cycles:
+  - cycle: 2026 Pilot Cohort
+    deadline: '2026-05-15'
+- id: global-majority-ai-fellowship
+  name: Global Majority AI Fellowship
+  organization: Heinrich Boll Foundation Washington, DC
+  category: policy-grants
+  url: https://us.boell.org/en/2026/05/12/global-majority-ai-fellowship
+  description: Fellowship for Global Majority civil-society experts engaging with AI governance debates and international policy processes.
+  location: Global / Washington, DC policy network
+  eligibility: Global Majority civil-society experts working on AI governance and digital rights.
+  funding: International flights, local transport, up to 3 nights lodging, and registration support
+  duration: Jul 6-7, 2026 event; bridge activities into 2027
+  tags:
+  - global-majority
+  - ai-governance
+  - civil-society
+  - fellowship
+  source: community
+  last_verified: '2026-07-05'
+  cycles:
+  - cycle: 2026 Cohort
+    opens: '2026-05-12'
+    deadline: '2026-05-18'
+- id: globethics-ethical-ai-governance-fellowship
+  name: Emerging Leaders in Ethical AI Governance Fellowship
+  organization: Globethics
+  category: policy-grants
+  url: https://globethics.net/ethical-ai-governance-fellowship
+  description: Fellowship for emerging leaders working on ethical AI governance, responsible innovation, policy, and values-based technology leadership.
+  location: Global / remote
+  eligibility: Applicants ages 24-35 with interest or experience in AI ethics, governance, and responsible innovation.
+  funding: Geneva residency, summit access, mentorship, and seed funding for top fellows
+  duration: 2026 cohort programming with Geneva residency
+  tags:
+  - ai-ethics
+  - ai-governance
+  - responsible-ai
+  - fellowship
+  source: community
+  last_verified: '2026-07-05'
+  cycles:
+  - cycle: 2026 Cohort
+    opens: '2026-03-26'
+    deadline: '2026-04-16'
+- id: csta-responsible-ai-fellowship
+  name: Responsible AI Fellowship
+  organization: Computer Science Teachers Association
+  category: policy-grants
+  url: https://csteachers.org/become-a-responsible-ai-fellow/
+  description: Fellowship for K-12 computer science educators developing responsible AI education, classroom resources, and teacher leadership.
+  location: United States / remote
+  eligibility: K-12 computer science teachers and educators interested in responsible AI education.
+  funding: $1,000 stipend + covered CSTA conference travel, accommodation, and food
+  duration: 6 months
+  tags:
+  - responsible-ai
+  - education
+  - teachers
+  - fellowship
+  source: community
+  last_verified: '2026-07-05'
+  cycles:
+  - cycle: 2026 Cohort
+    opens: '2026-04-03'
+    deadline: '2026-05-01'
+- id: google-higher-ed-faculty-ai-fellowship
+  name: Google Higher Ed Faculty AI Fellowship
+  organization: Google for Education
+  category: academic-phd
+  url: https://edu.google.com/intl/ALL_us/for-educators/communities/higher-ed-faculty-ai-fellowship/
+  description: Fellowship community for higher-education faculty exploring and integrating artificial intelligence into teaching, learning, and research.
+  location: Higher education institutions
+  eligibility: Higher-education faculty interested in AI in teaching, learning, or research.
+  funding: Network/resources; fellows cover travel and costs outside covered convening expenses
+  duration: 2026 inaugural cohort
+  tags:
+  - higher-education
+  - ai-education
+  - google
+  - fellowship
+  source: community
+  last_verified: '2026-07-05'
+  cycles:
+  - cycle: 2026 Inaugural Cohort
+    deadline: Rolling
+- id: google-public-policy-fellowship-us
+  name: U.S. Google Public Policy Fellowship
+  organization: Google
+  category: policy-grants
+  url: https://www.google.com/policyfellowship/usa/faq/
+  description: Summer fellowship placing students with public-interest organizations working on internet, technology, and related public policy issues.
+  location: United States
+  eligibility: Students interested in internet, technology, and public policy.
+  funding: $12,000 full-time stipend or $6,000 part-time stipend
+  duration: Summer 2026
+  tags:
+  - technology-policy
+  - public-policy
+  - google
+  - fellowship
+  source: community
+  last_verified: '2026-07-05'
+  cycles:
+  - cycle: Summer 2026
+    deadline: '2026-04-09'
+- id: just-tech-fellowship
+  name: Just Tech Fellowship
+  organization: Social Science Research Council
+  category: policy-grants
+  url: https://www.ssrc.org/programs/just-tech/just-tech-fellowship/
+  description: Fellowship supporting researchers, artists, journalists, and practitioners examining the social, political, and justice impacts of technology.
+  location: United States / remote
+  eligibility: Researchers, artists, journalists, organizers, and practitioners working on technology and justice.
+  funding: Up to $60,000 unrestricted award
+  duration: Jan-Dec 2027
+  tags:
+  - tech-and-society
+  - justice
+  - public-interest-tech
+  - fellowship
+  source: community
+  last_verified: '2026-07-05'
+  cycles:
+  - cycle: 2026 Cohort
+    opens: '2026-04-27'
+    deadline: '2026-06-28'
+- id: critical-ai-policy-virtual-fellowship
+  name: Critical AI Policy Virtual Fellowship
+  organization: Loyola CDEP / Manchester DISC
+  category: policy-grants
+  url: https://digitalsociety.mmu.ac.uk/2026/02/01/critical-ai-policy-virtual-fellowship-2026/
+  description: Virtual fellowship for humanities and social-science researchers studying critical AI policy, digital ethics, and governance questions.
+  location: Virtual
+  eligibility: Humanities and social-science researchers working on AI policy, digital ethics, or governance.
+  funding: Self-funded virtual fellowship; separately sponsored events may be available
+  duration: 4 months (Apr-Jul 2026)
+  tags:
+  - ai-policy
+  - digital-ethics
+  - humanities
+  - fellowship
+  source: community
+  last_verified: '2026-07-05'
+  cycles:
+  - cycle: 2026 Virtual Fellowship
+    deadline: '2026-02-27'
+- id: youth-responsible-ai-fellowship
+  name: Youth for Responsible AI Fellowship
+  organization: Rule26 AI
+  category: policy-grants
+  url: https://www.youthforresponsibleai.com/
+  description: Youth fellowship with tracks focused on responsible AI, governance, advocacy, education, and public-interest technology.
+  location: Global / remote
+  eligibility: Youth applicants interested in responsible AI and public-interest technology.
+  funding: Free program with portfolio, mentorship, and recognition benefits
+  duration: 12 weeks (Jul 1-Aug 29, 2026)
+  tags:
+  - responsible-ai
+  - youth
+  - ai-governance
+  - fellowship
+  source: community
+  last_verified: '2026-07-05'
+  cycles:
+  - cycle: 2026 Cohort
+    deadline: '2026-06-25'
+- id: factored-ml-genai-residency
+  name: Factored AI Machine Learning & GenAI Residency
+  organization: Factored
+  category: industry-residency
+  url: https://job-boards.greenhouse.io/factored/jobs/5079617008
+  description: Residency-style role for machine learning and generative AI engineers working on applied AI projects with Factored teams and clients.
+  location: Latin America / remote
+  eligibility: Experienced machine learning and generative AI engineers, especially in Latin America.
+  funding: Paid full-time residency; no upfront program fees
+  duration: 12 to 16 weeks
+  tags:
+  - machine-learning
+  - generative-ai
+  - residency
+  - applied-ai
+  source: community
+  last_verified: '2026-07-05'
+  cycles:
+  - cycle: Q1 2026 Start
+    deadline: Rolling
