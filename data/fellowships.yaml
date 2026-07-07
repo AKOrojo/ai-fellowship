@@ -1534,3 +1534,29 @@ fellowships:
   cycles:
   - cycle: Q1 2026 Start
     deadline: Rolling
+- id: doordash-ai-research-fellowship
+  name: DoorDash AI Research Fellowship
+  organization: DoorDash
+  category: industry-residency
+  url: https://careersatdoordash.com/jobs/ai-research-fellowship-summer-and-fall-2026/7848317/
+  description: A 3-month applied AI/ML research fellowship (extendable to 6 months) where fellows work as independent researchers on local commerce problems - RL environments, agentic systems, marketplace foundation models, evaluation, and multimodal - with dedicated compute, real operational data, weekly mentorship from a named research sponsor, and publication support at top venues (NeurIPS, ICML, ICLR, KDD).
+  location: San Francisco, CA (hybrid; 2-week in-person kickoff)
+  eligibility: PhD candidates (rising 4th year+), recent PhDs, or researchers/engineers with strong published or shipped ML work; non-traditional backgrounds encouraged
+  funding: $8,500-$16,000/month + housing & relocation stipends
+  duration: 12 weeks (extendable to 6 months)
+  tags:
+  - ai-research
+  - applied-ml
+  - reinforcement-learning
+  - agents
+  - paid
+  - mentorship
+  - publication
+  source: community
+  last_verified: '2026-07-07'
+  cycles:
+  - cycle: Summer 2026 Cohort
+    deadline: Rolling
+    opens: '2026-04-23'
+  - cycle: Fall 2026 Cohort
+    deadline: Rolling

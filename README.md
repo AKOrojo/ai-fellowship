@@ -30,6 +30,8 @@ A community-maintained, always-current list of **AI fellowships, residencies, an
 | [Microsoft Research AI Residency Program](https://www.microsoft.com/en-us/research/academic-program/cambridge-residency/) | Microsoft Research | 2026 Cycle | Rolling | 🟡 Rolling | Redmond, WA / Cambridge, UK |
 | [Student Researcher Program](https://deepmind.google/student-researcher-program/) | Google DeepMind | 2025-2026 Cycle | Rolling | 🟡 Rolling | In-person at a Google office (global) |
 | [Factored AI Machine Learning & GenAI Residency](https://job-boards.greenhouse.io/factored/jobs/5079617008) | Factored | Q1 2026 Start | Rolling | 🟡 Rolling | Latin America / remote |
+| [DoorDash AI Research Fellowship](https://careersatdoordash.com/jobs/ai-research-fellowship-summer-and-fall-2026/7848317/) | DoorDash | Summer 2026 Cohort | Rolling | 🟡 Rolling | San Francisco, CA (hybrid; 2-week in-person kickoff) |
+| [DoorDash AI Research Fellowship](https://careersatdoordash.com/jobs/ai-research-fellowship-summer-and-fall-2026/7848317/) | DoorDash | Fall 2026 Cohort | Rolling | 🟡 Rolling | San Francisco, CA (hybrid; 2-week in-person kickoff) |
 
 ### Research & Safety Fellowships
 
