@@ -50,7 +50,7 @@ A community-maintained, always-current list of **AI fellowships, residencies, an
 | [MATS (ML Alignment & Theory Scholars)](https://www.matsprogram.org/program/autumn-2026) | MATS Research | Autumn 2026 | 2026-06-07 | 🔴 Closed | Berkeley, CA & London, UK |
 | [BASE Fellowship](https://www.baseresearch.org/base-fellowship-f26) | Black in AI Safety and Ethics (BASE) | Fall 2026 Cohort | 2026-06-16 | 🔴 Closed | Remote / global |
 | [Anthropic Fellows Program](https://alignment.anthropic.com/2025/anthropic-fellows-program-2026/) | Anthropic | May 2026 Cohort | 2026-06-30 | 🔴 Closed | Berkeley CA / London UK / remote (US, UK, Canada) |
-| [Heron AI Security Research Fellowship](https://www.heronsec.ai/researchfellowship) | Heron AI Security | Autumn 2026 | 2026-07-08 | 🟢 Open | Remote; London, Tel Aviv & San Francisco hubs |
+| [Heron AI Security Research Fellowship](https://www.heronsec.ai/researchfellowship) | Heron AI Security | Autumn 2026 | 2026-07-08 | 🔴 Closed | Remote; London, Tel Aviv & San Francisco hubs |
 | [Singapore AI Safety Fellowship](https://www.aisafety.sg/programs/singapore-ai-safety-fellowship) | SASH (Singapore AI Safety Hub) | 2026 Cohort | 2026-07-10 | 🟢 Open | Singapore (Chinatown hub) |
 | [ARENA 9.0 (Alignment Research Engineer Accelerator)](https://www.arena.education/) | ARENA | ARENA 9.0 (Autumn 2026) | 2026-07-12 | 🟢 Open | London, UK (LISA) |
 | [PIBBSS Fellowship](https://princint.ai/programs/fellowship/) | Principles of Intelligence (PrincInt / PIBBSS) | 2026 Cohort (Winter 2026-2027) | 2026-07-20 | 🟢 Open | Cape Town, South Africa (in-person; remote for exceptional candidates) |
@@ -107,7 +107,7 @@ A community-maintained, always-current list of **AI fellowships, residencies, an
 | [Youth for Responsible AI Fellowship](https://www.youthforresponsibleai.com/) | Rule26 AI | 2026 Cohort | 2026-06-25 | 🔴 Closed | Global / remote |
 | [Just Tech Fellowship](https://www.ssrc.org/programs/just-tech/just-tech-fellowship/) | Social Science Research Council | 2026 Cohort | 2026-06-28 | 🔴 Closed | United States / remote |
 | [GovAI U.S. AI Policy Program](https://www.governance.ai/post/govai-u-s-ai-policy-program) | GovAI | 2026 Applications | 2026-07-05 | 🔴 Closed | Washington, DC / remote |
-| [SFF-2026 S-Process Grant Round](https://survivalandflourishing.fund/2026/application) | Survival and Flourishing Fund | 2026 HSEE Theme Round | 2026-07-08 | 🟢 Open | Global |
+| [SFF-2026 S-Process Grant Round](https://survivalandflourishing.fund/2026/application) | Survival and Flourishing Fund | 2026 HSEE Theme Round | 2026-07-08 | 🔴 Closed | Global |
 | [GovAI Winter Fellowship 2027 (DC & UK Tracks)](https://www.governance.ai/opportunities) | Centre for the Governance of AI (GovAI) | DC Winter Fellowship 2027 | 2026-07-12 | 🟢 Open | Washington, DC / London |
 | [GovAI Winter Fellowship 2027 (DC & UK Tracks)](https://www.governance.ai/opportunities) | Centre for the Governance of AI (GovAI) | UK Winter Fellowship 2027 (Research Track) | 2026-07-12 | 🟢 Open | Washington, DC / London |
 | [GovAI Winter Fellowship 2027 (DC & UK Tracks)](https://www.governance.ai/opportunities) | Centre for the Governance of AI (GovAI) | UK Winter Fellowship 2027 (Applied Track) | 2026-07-12 | 🟢 Open | Washington, DC / London |
