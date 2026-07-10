@@ -51,7 +51,7 @@ A community-maintained, always-current list of **AI fellowships, residencies, an
 | [BASE Fellowship](https://www.baseresearch.org/base-fellowship-f26) | Black in AI Safety and Ethics (BASE) | Fall 2026 Cohort | 2026-06-16 | 🔴 Closed | Remote / global |
 | [Anthropic Fellows Program](https://alignment.anthropic.com/2025/anthropic-fellows-program-2026/) | Anthropic | May 2026 Cohort | 2026-06-30 | 🔴 Closed | Berkeley CA / London UK / remote (US, UK, Canada) |
 | [Heron AI Security Research Fellowship](https://www.heronsec.ai/researchfellowship) | Heron AI Security | Autumn 2026 | 2026-07-08 | 🔴 Closed | Remote; London, Tel Aviv & San Francisco hubs |
-| [Singapore AI Safety Fellowship](https://www.aisafety.sg/programs/singapore-ai-safety-fellowship) | SASH (Singapore AI Safety Hub) | 2026 Cohort | 2026-07-10 | 🟢 Open | Singapore (Chinatown hub) |
+| [Singapore AI Safety Fellowship](https://www.aisafety.sg/programs/singapore-ai-safety-fellowship) | SASH (Singapore AI Safety Hub) | 2026 Cohort | 2026-07-10 | 🔴 Closed | Singapore (Chinatown hub) |
 | [ARENA 9.0 (Alignment Research Engineer Accelerator)](https://www.arena.education/) | ARENA | ARENA 9.0 (Autumn 2026) | 2026-07-12 | 🟢 Open | London, UK (LISA) |
 | [PIBBSS Fellowship](https://princint.ai/programs/fellowship/) | Principles of Intelligence (PrincInt / PIBBSS) | 2026 Cohort (Winter 2026-2027) | 2026-07-20 | 🟢 Open | Cape Town, South Africa (in-person; remote for exceptional candidates) |
 | [Foresight Fellowship](https://foresight.org/engage/fellowship/) | Foresight Institute | 2027 Cohort (applications open) | 2026-07-31 | 🟢 Open | Global; events and AI Nodes in San Francisco and Berlin |
