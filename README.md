@@ -52,7 +52,7 @@ A community-maintained, always-current list of **AI fellowships, residencies, an
 | [Anthropic Fellows Program](https://alignment.anthropic.com/2025/anthropic-fellows-program-2026/) | Anthropic | May 2026 Cohort | 2026-06-30 | 🔴 Closed | Berkeley CA / London UK / remote (US, UK, Canada) |
 | [Heron AI Security Research Fellowship](https://www.heronsec.ai/researchfellowship) | Heron AI Security | Autumn 2026 | 2026-07-08 | 🔴 Closed | Remote; London, Tel Aviv & San Francisco hubs |
 | [Singapore AI Safety Fellowship](https://www.aisafety.sg/programs/singapore-ai-safety-fellowship) | SASH (Singapore AI Safety Hub) | 2026 Cohort | 2026-07-10 | 🔴 Closed | Singapore (Chinatown hub) |
-| [ARENA 9.0 (Alignment Research Engineer Accelerator)](https://www.arena.education/) | ARENA | ARENA 9.0 (Autumn 2026) | 2026-07-12 | 🟢 Open | London, UK (LISA) |
+| [ARENA 9.0 (Alignment Research Engineer Accelerator)](https://www.arena.education/) | ARENA | ARENA 9.0 (Autumn 2026) | 2026-07-12 | 🔴 Closed | London, UK (LISA) |
 | [PIBBSS Fellowship](https://princint.ai/programs/fellowship/) | Principles of Intelligence (PrincInt / PIBBSS) | 2026 Cohort (Winter 2026-2027) | 2026-07-20 | 🟢 Open | Cape Town, South Africa (in-person; remote for exceptional candidates) |
 | [Foresight Fellowship](https://foresight.org/engage/fellowship/) | Foresight Institute | 2027 Cohort (applications open) | 2026-07-31 | 🟢 Open | Global; events and AI Nodes in San Francisco and Berlin |
 | [Scaling AI Safety for a Multi-Agent World](https://schmidtsciences.smapply.io/prog/scaling_ai_safety_for_a_multi_agent_world/) | Schmidt Sciences, Google DeepMind, ARIA & Cooperative AI Foundation | 2026 Funding Call | 2026-08-08 | 🟢 Open | Global / remote |
@@ -108,13 +108,13 @@ A community-maintained, always-current list of **AI fellowships, residencies, an
 | [Just Tech Fellowship](https://www.ssrc.org/programs/just-tech/just-tech-fellowship/) | Social Science Research Council | 2026 Cohort | 2026-06-28 | 🔴 Closed | United States / remote |
 | [GovAI U.S. AI Policy Program](https://www.governance.ai/post/govai-u-s-ai-policy-program) | GovAI | 2026 Applications | 2026-07-05 | 🔴 Closed | Washington, DC / remote |
 | [SFF-2026 S-Process Grant Round](https://survivalandflourishing.fund/2026/application) | Survival and Flourishing Fund | 2026 HSEE Theme Round | 2026-07-08 | 🔴 Closed | Global |
-| [GovAI Winter Fellowship 2027 (DC & UK Tracks)](https://www.governance.ai/opportunities) | Centre for the Governance of AI (GovAI) | DC Winter Fellowship 2027 | 2026-07-12 | 🟢 Open | Washington, DC / London |
-| [GovAI Winter Fellowship 2027 (DC & UK Tracks)](https://www.governance.ai/opportunities) | Centre for the Governance of AI (GovAI) | UK Winter Fellowship 2027 (Research Track) | 2026-07-12 | 🟢 Open | Washington, DC / London |
-| [GovAI Winter Fellowship 2027 (DC & UK Tracks)](https://www.governance.ai/opportunities) | Centre for the Governance of AI (GovAI) | UK Winter Fellowship 2027 (Applied Track) | 2026-07-12 | 🟢 Open | Washington, DC / London |
-| [GovAI DC Winter Fellowship 2027](https://www.governance.ai/post/dc-winter-fellowship-2027) | GovAI | 2027 Winter Fellowship | 2026-07-12 | 🟢 Open | Washington, DC |
-| [AI Accountability Fellowships 2026-2027](https://pulitzercenter.org/grants-fellowships/opportunities-journalists/ai-accountability-fellowships) | Pulitzer Center | 2026-2027 Cohort | 2026-07-12 | 🟢 Open | Global / newsroom-based |
-| [Google Data Center Community AI Fellowship](https://watson.is/google-data-center-community-ai-fellowship/) | Watson Institute / Google | 2026 Priority Deadline | 2026-07-12 | 🟢 Open | Google data center communities |
-| [Emerging Voices in AI and Society Fellowship](https://www.humanetech.com/fellowship) | Center for Humane Technology | 2026 Cohort | 2026-07-12 | 🟢 Open | Remote / United States |
+| [GovAI Winter Fellowship 2027 (DC & UK Tracks)](https://www.governance.ai/opportunities) | Centre for the Governance of AI (GovAI) | DC Winter Fellowship 2027 | 2026-07-12 | 🔴 Closed | Washington, DC / London |
+| [GovAI Winter Fellowship 2027 (DC & UK Tracks)](https://www.governance.ai/opportunities) | Centre for the Governance of AI (GovAI) | UK Winter Fellowship 2027 (Research Track) | 2026-07-12 | 🔴 Closed | Washington, DC / London |
+| [GovAI Winter Fellowship 2027 (DC & UK Tracks)](https://www.governance.ai/opportunities) | Centre for the Governance of AI (GovAI) | UK Winter Fellowship 2027 (Applied Track) | 2026-07-12 | 🔴 Closed | Washington, DC / London |
+| [GovAI DC Winter Fellowship 2027](https://www.governance.ai/post/dc-winter-fellowship-2027) | GovAI | 2027 Winter Fellowship | 2026-07-12 | 🔴 Closed | Washington, DC |
+| [AI Accountability Fellowships 2026-2027](https://pulitzercenter.org/grants-fellowships/opportunities-journalists/ai-accountability-fellowships) | Pulitzer Center | 2026-2027 Cohort | 2026-07-12 | 🔴 Closed | Global / newsroom-based |
+| [Google Data Center Community AI Fellowship](https://watson.is/google-data-center-community-ai-fellowship/) | Watson Institute / Google | 2026 Priority Deadline | 2026-07-12 | 🔴 Closed | Google data center communities |
+| [Emerging Voices in AI and Society Fellowship](https://www.humanetech.com/fellowship) | Center for Humane Technology | 2026 Cohort | 2026-07-12 | 🔴 Closed | Remote / United States |
 | [AGI Governance Fellowship](https://sogp.jh.edu/agi-governance-fellowship/) | Johns Hopkins School of Government and Policy | 2026 Full Consideration | 2026-07-15 | 🟢 Open | Washington, DC |
 | [AI Rapid Response Fellowship](https://horizonpublicservice.org/ai-rapid-response-fellowship/) | Horizon Institute for Public Service | 2026 Cohort | 2026-07-22 | 🟢 Open | Washington, DC / U.S. government |
 | [Law & AI Academic Fellowship](https://law-ai.org/career/academic-fellowship/) | Institute for Law & AI | 2026 Cohort | 2026-07-31 | 🟢 Open | Remote / academic |
