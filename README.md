@@ -115,7 +115,7 @@ A community-maintained, always-current list of **AI fellowships, residencies, an
 | [AI Accountability Fellowships 2026-2027](https://pulitzercenter.org/grants-fellowships/opportunities-journalists/ai-accountability-fellowships) | Pulitzer Center | 2026-2027 Cohort | 2026-07-12 | 🔴 Closed | Global / newsroom-based |
 | [Google Data Center Community AI Fellowship](https://watson.is/google-data-center-community-ai-fellowship/) | Watson Institute / Google | 2026 Priority Deadline | 2026-07-12 | 🔴 Closed | Google data center communities |
 | [Emerging Voices in AI and Society Fellowship](https://www.humanetech.com/fellowship) | Center for Humane Technology | 2026 Cohort | 2026-07-12 | 🔴 Closed | Remote / United States |
-| [AGI Governance Fellowship](https://sogp.jh.edu/agi-governance-fellowship/) | Johns Hopkins School of Government and Policy | 2026 Full Consideration | 2026-07-15 | 🟢 Open | Washington, DC |
+| [AGI Governance Fellowship](https://sogp.jh.edu/agi-governance-fellowship/) | Johns Hopkins School of Government and Policy | 2026 Full Consideration | 2026-07-15 | 🔴 Closed | Washington, DC |
 | [AI Rapid Response Fellowship](https://horizonpublicservice.org/ai-rapid-response-fellowship/) | Horizon Institute for Public Service | 2026 Cohort | 2026-07-22 | 🟢 Open | Washington, DC / U.S. government |
 | [Law & AI Academic Fellowship](https://law-ai.org/career/academic-fellowship/) | Institute for Law & AI | 2026 Cohort | 2026-07-31 | 🟢 Open | Remote / academic |
 | [Science & Technology Policy Fellowships (STPF)](https://www.aaas.org/programs/science-technology-policy-fellowships) | American Association for the Advancement of Science (AAAS) | 2027-2028 Fellowship Year | 2026-11-01 | 🔵 Upcoming | Washington, DC (federal placements) |
