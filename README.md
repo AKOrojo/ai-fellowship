@@ -23,7 +23,7 @@ A community-maintained, always-current list of **AI fellowships, residencies, an
 | [NVIDIA Graduate Fellowship Program](https://research.nvidia.com/graduate-fellowships) | NVIDIA | 2026-2027 Academic Year (most recent, now CLOSED) | 2025-09-15 | 🔴 Closed | Worldwide (internship at NVIDIA research office) |
 | [AIML Residency Program](https://machinelearning.apple.com/updates/aiml-residency-program-application-2026) | Apple | 2026 Cohort | 2025-12-15 | 🔴 Closed | United States (on-site) |
 | [Google PhD Fellowship Program](https://research.google/programs-and-events/phd-fellowship/) | Google Research | 2026 Cohort | 2026-04-30 | 🔴 Closed | Global (region-specific) |
-| [Claude Corps Fellow](https://www.anthropic.com/news/claude-corps) | Anthropic / CodePath / Social Finance | 2026 First Cohort | 2026-07-17 | 🟢 Open | United States |
+| [Claude Corps Fellow](https://www.anthropic.com/news/claude-corps) | Anthropic / CodePath / Social Finance | 2026 First Cohort | 2026-07-17 | 🔴 Closed | United States |
 | [Google Africa Applied AI Lab](https://labs.google/aifuturesfund/africaailab) | Google AI Futures Fund / Accra AI Community Centre | 2026 Applied AI Lab | 2026-08-31 | 🟢 Open | Africa / Accra, Ghana demo day |
 | [OpenAI Residency](https://openai.com/residency/) | OpenAI | 2026 Cohort | Rolling | 🟡 Rolling | San Francisco, CA (3+ days/week in office) |
 | [OpenAI Residency](https://openai.com/residency/) | OpenAI | Future postings (rolling) | Rolling | 🟡 Rolling | San Francisco, CA (3+ days/week in office) |
