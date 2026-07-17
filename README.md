@@ -57,12 +57,12 @@ A community-maintained, always-current list of **AI fellowships, residencies, an
 | [Foresight Fellowship](https://foresight.org/engage/fellowship/) | Foresight Institute | 2027 Cohort (applications open) | 2026-07-31 | 🟢 Open | Global; events and AI Nodes in San Francisco and Berlin |
 | [Scaling AI Safety for a Multi-Agent World](https://schmidtsciences.smapply.io/prog/scaling_ai_safety_for_a_multi_agent_world/) | Schmidt Sciences, Google DeepMind, ARIA & Cooperative AI Foundation | 2026 Funding Call | 2026-08-08 | 🟢 Open | Global / remote |
 | [IMI AI/ML Fellowships 2026](https://www.imachines.com/imi-ai-ml-fellowships-2025-2026-high-risk-research) | IMI | 2026 Fall Deadline | 2026-09-01 | 🟢 Open | Remote |
+| [Memories.ai Research Fellowship](https://memories.ai/blogs/memories-ai-research-fellowship-fall-2026) | Memories.ai | Fall 2026 Cohort | 2026-09-01 | 🟢 Open | Remote-friendly with optional in-person collaboration |
 | [Technical AI Safety Research RFP](https://coefficientgiving.org/funds/navigating-transformative-ai/request-for-proposals-technical-ai-safety-research/) | Coefficient Giving (formerly Open Philanthropy) | 2026 (closed / invite-only, no open call) | Closed | 🔴 Closed | Global / remote |
 | [Anthropic Fellows Program](https://alignment.anthropic.com/2025/anthropic-fellows-program-2026/) | Anthropic | Future cohorts (rolling) | Rolling | 🟡 Rolling | Berkeley CA / London UK / remote (US, UK, Canada) |
 | [Apart Lab Fellowship](https://apartresearch.com/lab) | Apart Research | 2026 (rolling via monthly Sprints) | Rolling | 🟡 Rolling | Remote (global) |
 | [IMI AI/ML Fellowships 2026](https://www.imachines.com/imi-ai-ml-fellowships-2025-2026-high-risk-research) | IMI | 2026 Rolling Review | Rolling | 🟡 Rolling | Remote |
 | [BASE Fellowship](https://www.baseresearch.org/base-fellowship-f26) | Black in AI Safety and Ethics (BASE) | Fall 2026 Mentor Applications | Rolling | 🟡 Rolling | Remote / global |
-| [Memories.ai Research Fellowship](https://memories.ai/blogs/memories-ai-research-fellowship-fall-2026) | Memories.ai | Fall 2026 Cohort | Unknown | 🟢 Open | Remote-friendly with optional in-person collaboration |
 
 ### Academic & PhD Fellowships
 
