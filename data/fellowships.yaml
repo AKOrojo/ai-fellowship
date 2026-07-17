@@ -1534,3 +1534,26 @@ fellowships:
   cycles:
   - cycle: Q1 2026 Start
     deadline: Rolling
+- id: memories-ai-research-fellowship
+  name: Memories.ai Research Fellowship
+  organization: Memories.ai
+  category: research-safety
+  url: https://memories.ai/blogs/memories-ai-research-fellowship-fall-2026
+  description: A 12-week intensive research program where fellows work directly with the Memories.ai research team on open problems in visual AI, including video understanding, multimodal memory, and real-time video intelligence. Provides access to GPU infrastructure, proprietary datasets, and 1:1 mentorship from senior researchers.
+  location: Remote-friendly with optional in-person collaboration
+  eligibility: Master's students or early-career researchers (recent Bachelor's) in CS/AI/ML with hands-on deep learning (PyTorch, JAX); interest in video understanding, multimodal AI, or egocentric vision
+  funding: $1,000/month stipend
+  duration: 12 weeks (September–November 2026)
+  tags:
+  - video-understanding
+  - multimodal-ai
+  - egocentric-vision
+  - research
+  - fellowship
+  - mentorship
+  source: community
+  last_verified: '2026-07-17'
+  cycles:
+  - cycle: Fall 2026 Cohort
+    deadline: Unknown
+    opens: '2026-07-15'

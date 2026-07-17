@@ -62,6 +62,7 @@ A community-maintained, always-current list of **AI fellowships, residencies, an
 | [Apart Lab Fellowship](https://apartresearch.com/lab) | Apart Research | 2026 (rolling via monthly Sprints) | Rolling | 🟡 Rolling | Remote (global) |
 | [IMI AI/ML Fellowships 2026](https://www.imachines.com/imi-ai-ml-fellowships-2025-2026-high-risk-research) | IMI | 2026 Rolling Review | Rolling | 🟡 Rolling | Remote |
 | [BASE Fellowship](https://www.baseresearch.org/base-fellowship-f26) | Black in AI Safety and Ethics (BASE) | Fall 2026 Mentor Applications | Rolling | 🟡 Rolling | Remote / global |
+| [Memories.ai Research Fellowship](https://memories.ai/blogs/memories-ai-research-fellowship-fall-2026) | Memories.ai | Fall 2026 Cohort | Unknown | 🟢 Open | Remote-friendly with optional in-person collaboration |
 
 ### Academic & PhD Fellowships
 
