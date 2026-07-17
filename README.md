@@ -23,7 +23,7 @@ A community-maintained, always-current list of **AI fellowships, residencies, an
 | [NVIDIA Graduate Fellowship Program](https://research.nvidia.com/graduate-fellowships) | NVIDIA | 2026-2027 Academic Year (most recent, now CLOSED) | 2025-09-15 | 🔴 Closed | Worldwide (internship at NVIDIA research office) |
 | [AIML Residency Program](https://machinelearning.apple.com/updates/aiml-residency-program-application-2026) | Apple | 2026 Cohort | 2025-12-15 | 🔴 Closed | United States (on-site) |
 | [Google PhD Fellowship Program](https://research.google/programs-and-events/phd-fellowship/) | Google Research | 2026 Cohort | 2026-04-30 | 🔴 Closed | Global (region-specific) |
-| [Claude Corps Fellow](https://www.anthropic.com/news/claude-corps) | Anthropic / CodePath / Social Finance | 2026 First Cohort | 2026-07-17 | 🟢 Open | United States |
+| [Claude Corps Fellow](https://www.anthropic.com/news/claude-corps) | Anthropic / CodePath / Social Finance | 2026 First Cohort | 2026-07-17 | 🔴 Closed | United States |
 | [Google Africa Applied AI Lab](https://labs.google/aifuturesfund/africaailab) | Google AI Futures Fund / Accra AI Community Centre | 2026 Applied AI Lab | 2026-08-31 | 🟢 Open | Africa / Accra, Ghana demo day |
 | [OpenAI Residency](https://openai.com/residency/) | OpenAI | 2026 Cohort | Rolling | 🟡 Rolling | San Francisco, CA (3+ days/week in office) |
 | [OpenAI Residency](https://openai.com/residency/) | OpenAI | Future postings (rolling) | Rolling | 🟡 Rolling | San Francisco, CA (3+ days/week in office) |
@@ -62,6 +62,7 @@ A community-maintained, always-current list of **AI fellowships, residencies, an
 | [Apart Lab Fellowship](https://apartresearch.com/lab) | Apart Research | 2026 (rolling via monthly Sprints) | Rolling | 🟡 Rolling | Remote (global) |
 | [IMI AI/ML Fellowships 2026](https://www.imachines.com/imi-ai-ml-fellowships-2025-2026-high-risk-research) | IMI | 2026 Rolling Review | Rolling | 🟡 Rolling | Remote |
 | [BASE Fellowship](https://www.baseresearch.org/base-fellowship-f26) | Black in AI Safety and Ethics (BASE) | Fall 2026 Mentor Applications | Rolling | 🟡 Rolling | Remote / global |
+| [Memories.ai Research Fellowship](https://memories.ai/blogs/memories-ai-research-fellowship-fall-2026) | Memories.ai | Fall 2026 Cohort | Unknown | 🟢 Open | Remote-friendly with optional in-person collaboration |
 
 ### Academic & PhD Fellowships
 
@@ -115,7 +116,7 @@ A community-maintained, always-current list of **AI fellowships, residencies, an
 | [AI Accountability Fellowships 2026-2027](https://pulitzercenter.org/grants-fellowships/opportunities-journalists/ai-accountability-fellowships) | Pulitzer Center | 2026-2027 Cohort | 2026-07-12 | 🔴 Closed | Global / newsroom-based |
 | [Google Data Center Community AI Fellowship](https://watson.is/google-data-center-community-ai-fellowship/) | Watson Institute / Google | 2026 Priority Deadline | 2026-07-12 | 🔴 Closed | Google data center communities |
 | [Emerging Voices in AI and Society Fellowship](https://www.humanetech.com/fellowship) | Center for Humane Technology | 2026 Cohort | 2026-07-12 | 🔴 Closed | Remote / United States |
-| [AGI Governance Fellowship](https://sogp.jh.edu/agi-governance-fellowship/) | Johns Hopkins School of Government and Policy | 2026 Full Consideration | 2026-07-15 | 🟢 Open | Washington, DC |
+| [AGI Governance Fellowship](https://sogp.jh.edu/agi-governance-fellowship/) | Johns Hopkins School of Government and Policy | 2026 Full Consideration | 2026-07-15 | 🔴 Closed | Washington, DC |
 | [AI Rapid Response Fellowship](https://horizonpublicservice.org/ai-rapid-response-fellowship/) | Horizon Institute for Public Service | 2026 Cohort | 2026-07-22 | 🟢 Open | Washington, DC / U.S. government |
 | [Law & AI Academic Fellowship](https://law-ai.org/career/academic-fellowship/) | Institute for Law & AI | 2026 Cohort | 2026-07-31 | 🟢 Open | Remote / academic |
 | [Science & Technology Policy Fellowships (STPF)](https://www.aaas.org/programs/science-technology-policy-fellowships) | American Association for the Advancement of Science (AAAS) | 2027-2028 Fellowship Year | 2026-11-01 | 🔵 Upcoming | Washington, DC (federal placements) |
