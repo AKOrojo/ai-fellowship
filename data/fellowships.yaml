@@ -1557,3 +1557,24 @@ fellowships:
   - cycle: Fall 2026 Cohort
     deadline: '2026-09-01'
     opens: '2026-07-15'
+- id: kaia-women-in-ai-doctoral-fellowship
+  name: Women in AI/ML Doctoral Fellowship
+  organization: KAIA Network, APHRC & The New School
+  category: academic-phd
+  url: https://docs.google.com/forms/d/e/1FAIpQLSe614SuXjiH7myFr6wok0ppQgxpb86iCRH8075BL4vK9wYzBA/viewform
+  description: Supports women PhD candidates in Sub-Saharan Africa whose social science research integrates AI/ML methods. Fellows receive a one-time USD $5,000 research grant (tuition, computing, data acquisition, research travel), matching with an AI/ML collaborator through the KAIA Network, capacity-building workshops, and support to publish open-access research and present findings.
+  location: Sub-Saharan Africa (remote)
+  eligibility: Women enrolled in or admitted to a PhD programme at an accredited institution in Sub-Saharan Africa, researching social sciences or a related discipline, intending to integrate AI/ML
+  funding: USD $5,000 one-time research grant
+  tags:
+  - women-in-ai
+  - africa
+  - phd
+  - social-science
+  - mentorship
+  - fellowship
+  source: community
+  last_verified: '2026-07-19'
+  cycles:
+  - cycle: '2026'
+    deadline: '2026-07-31'
