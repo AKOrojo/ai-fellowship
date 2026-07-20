@@ -53,7 +53,7 @@ A community-maintained, always-current list of **AI fellowships, residencies, an
 | [Heron AI Security Research Fellowship](https://www.heronsec.ai/researchfellowship) | Heron AI Security | Autumn 2026 | 2026-07-08 | 🔴 Closed | Remote; London, Tel Aviv & San Francisco hubs |
 | [Singapore AI Safety Fellowship](https://www.aisafety.sg/programs/singapore-ai-safety-fellowship) | SASH (Singapore AI Safety Hub) | 2026 Cohort | 2026-07-10 | 🔴 Closed | Singapore (Chinatown hub) |
 | [ARENA 9.0 (Alignment Research Engineer Accelerator)](https://www.arena.education/) | ARENA | ARENA 9.0 (Autumn 2026) | 2026-07-12 | 🔴 Closed | London, UK (LISA) |
-| [PIBBSS Fellowship](https://princint.ai/programs/fellowship/) | Principles of Intelligence (PrincInt / PIBBSS) | 2026 Cohort (Winter 2026-2027) | 2026-07-20 | 🟢 Open | Cape Town, South Africa (in-person; remote for exceptional candidates) |
+| [PIBBSS Fellowship](https://princint.ai/programs/fellowship/) | Principles of Intelligence (PrincInt / PIBBSS) | 2026 Cohort (Winter 2026-2027) | 2026-07-20 | 🔴 Closed | Cape Town, South Africa (in-person; remote for exceptional candidates) |
 | [Foresight Fellowship](https://foresight.org/engage/fellowship/) | Foresight Institute | 2027 Cohort (applications open) | 2026-07-31 | 🟢 Open | Global; events and AI Nodes in San Francisco and Berlin |
 | [Scaling AI Safety for a Multi-Agent World](https://schmidtsciences.smapply.io/prog/scaling_ai_safety_for_a_multi_agent_world/) | Schmidt Sciences, Google DeepMind, ARIA & Cooperative AI Foundation | 2026 Funding Call | 2026-08-08 | 🟢 Open | Global / remote |
 | [IMI AI/ML Fellowships 2026](https://www.imachines.com/imi-ai-ml-fellowships-2025-2026-high-risk-research) | IMI | 2026 Fall Deadline | 2026-09-01 | 🟢 Open | Remote |
