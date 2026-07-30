@@ -53,9 +53,11 @@ A community-maintained, always-current list of **AI fellowships, residencies, an
 | [Heron AI Security Research Fellowship](https://www.heronsec.ai/researchfellowship) | Heron AI Security | Autumn 2026 | 2026-07-08 | 🔴 Closed | Remote; London, Tel Aviv & San Francisco hubs |
 | [Singapore AI Safety Fellowship](https://www.aisafety.sg/programs/singapore-ai-safety-fellowship) | SASH (Singapore AI Safety Hub) | 2026 Cohort | 2026-07-10 | 🔴 Closed | Singapore (Chinatown hub) |
 | [ARENA 9.0 (Alignment Research Engineer Accelerator)](https://www.arena.education/) | ARENA | ARENA 9.0 (Autumn 2026) | 2026-07-12 | 🔴 Closed | London, UK (LISA) |
-| [PIBBSS Fellowship](https://princint.ai/programs/fellowship/) | Principles of Intelligence (PrincInt / PIBBSS) | 2026 Cohort (Winter 2026-2027) | 2026-07-20 | 🟢 Open | Cape Town, South Africa (in-person; remote for exceptional candidates) |
+| [PIBBSS Fellowship](https://princint.ai/programs/fellowship/) | Principles of Intelligence (PrincInt / PIBBSS) | 2026 Cohort (Winter 2026-2027) | 2026-07-20 | 🔴 Closed | Cape Town, South Africa (in-person; remote for exceptional candidates) |
 | [Foresight Fellowship](https://foresight.org/engage/fellowship/) | Foresight Institute | 2027 Cohort (applications open) | 2026-07-31 | 🟢 Open | Global; events and AI Nodes in San Francisco and Berlin |
+| [Frontier AI Security Residency](https://www.securefrontier.ai/) | ERA, with Heron & Oxford Hardware AI Governance Lab | Autumn 2026 Cohort | 2026-08-02 | 🟢 Open | Cambridge, UK (in-person) |
 | [Scaling AI Safety for a Multi-Agent World](https://schmidtsciences.smapply.io/prog/scaling_ai_safety_for_a_multi_agent_world/) | Schmidt Sciences, Google DeepMind, ARIA & Cooperative AI Foundation | 2026 Funding Call | 2026-08-08 | 🟢 Open | Global / remote |
+| [AIAF Fellowship](https://aialignmentfoundation.org/fellowship) | AI Alignment Foundation & AE Studio | 2026 Cohort | 2026-08-17 | 🟢 Open | Fully remote; hybrid Demo Day in Los Angeles, CA |
 | [IMI AI/ML Fellowships 2026](https://www.imachines.com/imi-ai-ml-fellowships-2025-2026-high-risk-research) | IMI | 2026 Fall Deadline | 2026-09-01 | 🟢 Open | Remote |
 | [Memories.ai Research Fellowship](https://memories.ai/blogs/memories-ai-research-fellowship-fall-2026) | Memories.ai | Fall 2026 Cohort | 2026-09-01 | 🟢 Open | Remote-friendly with optional in-person collaboration |
 | [Technical AI Safety Research RFP](https://coefficientgiving.org/funds/navigating-transformative-ai/request-for-proposals-technical-ai-safety-research/) | Coefficient Giving (formerly Open Philanthropy) | 2026 (closed / invite-only, no open call) | Closed | 🔴 Closed | Global / remote |
@@ -63,6 +65,7 @@ A community-maintained, always-current list of **AI fellowships, residencies, an
 | [Apart Lab Fellowship](https://apartresearch.com/lab) | Apart Research | 2026 (rolling via monthly Sprints) | Rolling | 🟡 Rolling | Remote (global) |
 | [IMI AI/ML Fellowships 2026](https://www.imachines.com/imi-ai-ml-fellowships-2025-2026-high-risk-research) | IMI | 2026 Rolling Review | Rolling | 🟡 Rolling | Remote |
 | [BASE Fellowship](https://www.baseresearch.org/base-fellowship-f26) | Black in AI Safety and Ethics (BASE) | Fall 2026 Mentor Applications | Rolling | 🟡 Rolling | Remote / global |
+| [AIXI Labs Research Fellowship](https://www.aixi.uk/team/opportunities/aixi-labs-fellowship/) | AIXI Labs | Rolling quarterly cohorts | Rolling | 🟡 Rolling | Remote (worldwide) or London, UK |
 
 ### Academic & PhD Fellowships
 
@@ -118,7 +121,7 @@ A community-maintained, always-current list of **AI fellowships, residencies, an
 | [Google Data Center Community AI Fellowship](https://watson.is/google-data-center-community-ai-fellowship/) | Watson Institute / Google | 2026 Priority Deadline | 2026-07-12 | 🔴 Closed | Google data center communities |
 | [Emerging Voices in AI and Society Fellowship](https://www.humanetech.com/fellowship) | Center for Humane Technology | 2026 Cohort | 2026-07-12 | 🔴 Closed | Remote / United States |
 | [AGI Governance Fellowship](https://sogp.jh.edu/agi-governance-fellowship/) | Johns Hopkins School of Government and Policy | 2026 Full Consideration | 2026-07-15 | 🔴 Closed | Washington, DC |
-| [AI Rapid Response Fellowship](https://horizonpublicservice.org/ai-rapid-response-fellowship/) | Horizon Institute for Public Service | 2026 Cohort | 2026-07-22 | 🟢 Open | Washington, DC / U.S. government |
+| [AI Rapid Response Fellowship](https://horizonpublicservice.org/ai-rapid-response-fellowship/) | Horizon Institute for Public Service | 2026 Cohort | 2026-07-22 | 🔴 Closed | Washington, DC / U.S. government |
 | [Law & AI Academic Fellowship](https://law-ai.org/career/academic-fellowship/) | Institute for Law & AI | 2026 Cohort | 2026-07-31 | 🟢 Open | Remote / academic |
 | [Science & Technology Policy Fellowships (STPF)](https://www.aaas.org/programs/science-technology-policy-fellowships) | American Association for the Advancement of Science (AAAS) | 2027-2028 Fellowship Year | 2026-11-01 | 🔵 Upcoming | Washington, DC (federal placements) |
 | [Center on AI, Security, and Technology Fellows Program (formerly TASP)](https://www.rand.org/global-and-emerging-risks/centers/ai-security-and-technology/fellows.html) | RAND Corporation | 2026 (Quarterly Rolling Review) | Rolling | 🟡 Rolling | US or UK (remote possible) |

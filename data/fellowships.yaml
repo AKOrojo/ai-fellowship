@@ -1578,3 +1578,70 @@ fellowships:
   cycles:
   - cycle: '2026'
     deadline: '2026-07-31'
+- id: frontier-ai-security-residency
+  name: Frontier AI Security Residency
+  organization: ERA, with Heron & Oxford Hardware AI Governance Lab
+  category: research-safety
+  url: https://www.securefrontier.ai/
+  description: An 8-week, fully funded, in-person research and engineering residency where participants work on concrete cybersecurity and hardware projects that mitigate frontier AI risks — verifying what AI compute is doing and keeping models and systems secure. Three tracks (cyber, hardware, field-building), with expert mentors and residents living and working alongside each other.
+  location: Cambridge, UK (in-person)
+  eligibility: Researchers and engineers interested in AI security, hardware verification, or security policy; see the FAQ and application form for track-specific requirements
+  funding: Fully funded (stipend amount not published)
+  duration: 8 weeks (October 12 – December 4, 2026)
+  tags:
+  - ai-security
+  - cybersecurity
+  - hardware
+  - compute-governance
+  - residency
+  - uk
+  source: community
+  last_verified: '2026-07-30'
+  cycles:
+  - cycle: Autumn 2026 Cohort
+    deadline: '2026-08-02'
+- id: aixi-labs-research-fellowship
+  name: AIXI Labs Research Fellowship
+  organization: AIXI Labs
+  category: research-safety
+  url: https://www.aixi.uk/team/opportunities/aixi-labs-fellowship/
+  description: A roughly one-quarter fellowship at a London-based nonprofit building mathematically rigorous foundations for understanding and aligning advanced AI. Fellows pursue an independent research project grounded in algorithmic information theory — spanning AIXI theoretical models and modern LLM-based agents — mentored by Cole Wyeth, Marcus Hutter, and Aram Ebtekar. Applications are accepted on a rolling basis.
+  location: Remote (worldwide) or London, UK
+  eligibility: PhD-level research background (or master's-level maths plus substantial industry experience for empirical projects) with grounding in probability, statistics, information theory, RL and theoretical CS
+  funding: £2,000–£3,500/month stipend + compute budget for ML research
+  duration: ~1 quarter (about 3 months)
+  tags:
+  - ai-safety
+  - alignment
+  - agent-foundations
+  - reinforcement-learning
+  - theory
+  - remote
+  source: community
+  last_verified: '2026-07-30'
+  cycles:
+  - cycle: Rolling quarterly cohorts
+    deadline: Rolling
+- id: aiaf-fellowship
+  name: AIAF Fellowship
+  organization: AI Alignment Foundation & AE Studio
+  category: research-safety
+  url: https://aialignmentfoundation.org/fellowship
+  description: An 8-week paid, full-time AI alignment research fellowship where fellows work on real alignment problems at industry speed with support from research managers, senior mentors, and AE Studio researchers. Research areas include model interpretability, steering and control of LLMs, self-interpretation via adapter probes, and modular pretraining with access control, ending in an optional Demo Day.
+  location: Fully remote; hybrid Demo Day in Los Angeles, CA
+  eligibility: ML engineers, researchers, MSc/PhD students, self-taught researchers and career-changers with hands-on experimental ML and demonstrated alignment work; non-US applicants welcome
+  funding: $12,000 stipend (two installments) + cloud GPU credits and API budget; Demo Day travel covered
+  duration: 8 weeks full-time (starts September 8, 2026)
+  tags:
+  - alignment
+  - interpretability
+  - ai-safety
+  - research
+  - mentorship
+  - remote
+  source: community
+  last_verified: '2026-07-30'
+  cycles:
+  - cycle: 2026 Cohort
+    deadline: '2026-08-17'
+    opens: '2026-07-26'
