@@ -24,6 +24,22 @@ body:
         - academic-phd
         - policy-grants
     validations: { required: true }
+  - type: dropdown
+    id: areas
+    attributes:
+      label: Research areas
+      description: "Pick 1-4. A fellowship can span several areas."
+      multiple: true
+      options:
+        - technical
+        - interpretability
+        - governance
+        - security
+        - biosecurity
+        - societal
+        - generalist
+        - other
+    validations: { required: true }
   - type: input
     id: url
     attributes: { label: Application URL, description: "Must start with https://" }

@@ -8,6 +8,10 @@ fellowships:
   name: Anthropic Fellows Program
   organization: Anthropic
   category: research-safety
+  areas:
+  - technical
+  - interpretability
+  - security
   url: https://alignment.anthropic.com/2025/anthropic-fellows-program-2026/
   description: 'A four-month, full-time mentored fellowship pairing participants with Anthropic researchers on AI safety research: scalable oversight, mechanistic interpretability, adversarial robustness, AI control, model organisms, AI security, and model welfare.'
   location: Berkeley CA / London UK / remote (US, UK, Canada)
@@ -34,6 +38,9 @@ fellowships:
   name: OpenAI Residency
   organization: OpenAI
   category: industry-residency
+  areas:
+  - technical
+  - generalist
   url: https://openai.com/residency/
   description: A six-month program that accelerates talented builders and early researchers from adjacent fields into frontier AI research, offering close mentorship, hands-on research experience, and a possible path to a full-time research role.
   location: San Francisco, CA (3+ days/week in office)
@@ -58,6 +65,11 @@ fellowships:
   name: MATS (ML Alignment & Theory Scholars)
   organization: MATS Research
   category: research-safety
+  areas:
+  - technical
+  - interpretability
+  - governance
+  - generalist
   url: https://www.matsprogram.org/program/autumn-2026
   description: A 10-week full-time research fellowship pairing scholars with senior mentors to work on AI alignment, security, governance, and field-building, with an optional multi-month extension phase.
   location: Berkeley, CA & London, UK
@@ -81,6 +93,9 @@ fellowships:
   name: ARENA 9.0 (Alignment Research Engineer Accelerator)
   organization: ARENA
   category: research-safety
+  areas:
+  - technical
+  - interpretability
   url: https://www.arena.education/
   description: An in-person ML engineering bootcamp that equips participants with the technical skills, community, and confidence to contribute to technical AI safety. Hosted at the London Initiative for Safe AI (LISA) in London; runs Oct 5 - Nov 6, 2026.
   location: London, UK (LISA)
@@ -102,6 +117,8 @@ fellowships:
   name: NSF Graduate Research Fellowship Program
   organization: US National Science Foundation
   category: academic-phd
+  areas:
+  - generalist
   url: https://www.nsfgrfp.org
   description: Funds graduate study in STEM including AI/ML for early-stage PhD students.
   location: United States
@@ -130,6 +147,10 @@ fellowships:
   name: Horizon Fellowship
   organization: Horizon Institute for Public Service
   category: policy-grants
+  areas:
+  - governance
+  - security
+  - biosecurity
   url: https://horizonpublicservice.org/programs/become-a-fellow/
   description: Fellowship that trains and places experts in AI, biotechnology, and other emerging technologies into US federal agencies, congressional offices, and think tanks in Washington, DC for public-service careers of up to two years.
   location: Washington, DC
@@ -152,6 +173,10 @@ fellowships:
   name: Center on AI, Security, and Technology Fellows Program (formerly TASP)
   organization: RAND Corporation
   category: policy-grants
+  areas:
+  - governance
+  - security
+  - biosecurity
   url: https://www.rand.org/global-and-emerging-risks/centers/ai-security-and-technology/fellows.html
   description: RAND fellowship developing policy analysts at the intersection of AI, technology, and security. Fellows conduct research with RAND mentorship on AI security, tech policy and governance, or biosecurity. Applications are reviewed quarterly on a rolling basis.
   location: US or UK (remote possible)
@@ -174,6 +199,9 @@ fellowships:
   name: Google PhD Fellowship Program
   organization: Google Research
   category: industry-residency
+  areas:
+  - technical
+  - generalist
   url: https://research.google/programs-and-events/phd-fellowship/
   description: Nomination-based fellowship recognizing outstanding PhD students in computer science and related fields, providing multi-year funding toward education costs plus mentorship from a Google researcher. Universities nominate candidates; direct applications are not accepted.
   location: Global (region-specific)
@@ -196,6 +224,9 @@ fellowships:
   name: Google Africa Applied AI Lab
   organization: Google AI Futures Fund / Accra AI Community Centre
   category: industry-residency
+  areas:
+  - technical
+  - societal
   url: https://labs.google/aifuturesfund/africaailab
   description: Cohort for African founders and researchers building AI products for African challenges, pairing selected teams with Google experts, early access to Google DeepMind models, technical mentorship, go-to-market support, demo day, and potential funding.
   location: Africa / Accra, Ghana demo day
@@ -218,6 +249,8 @@ fellowships:
   name: AIML Residency Program
   organization: Apple
   category: industry-residency
+  areas:
+  - technical
   url: https://machinelearning.apple.com/updates/aiml-residency-program-application-2026
   description: A one-year program for graduates with advanced degrees to apply domain expertise to machine learning and AI-based products and research at Apple, with mentorship, peer collaboration, publishing opportunities, and technical and leadership training.
   location: United States (on-site)
@@ -239,6 +272,8 @@ fellowships:
   name: Microsoft Research AI Residency Program
   organization: Microsoft Research
   category: industry-residency
+  areas:
+  - technical
   url: https://www.microsoft.com/en-us/research/academic-program/cambridge-residency/
   description: Residency for early-career scientists, engineers, designers, and program managers to work alongside Microsoft researchers and engineers on AI and machine learning projects. Offered as a Redmond, WA track and a Cambridge, UK Residency Programme (up to two years).
   location: Redmond, WA / Cambridge, UK
@@ -258,6 +293,8 @@ fellowships:
   name: Cohere Labs Scholars Program
   organization: Cohere (Cohere Labs)
   category: industry-residency
+  areas:
+  - technical
   url: https://cohere.com/research/scholars-program
   description: An eight-month, remote-first, full-time paid program pairing early-career ML researchers with Cohere's research and engineering team on projects across efficiency, multilingual, and safety. Includes mentorship and compute access. Applications typically open around August for the January cohort.
   location: Remote-first (global); optional in-person at Cohere offices
@@ -279,6 +316,8 @@ fellowships:
   name: Student Researcher Program
   organization: Google DeepMind
   category: industry-residency
+  areas:
+  - technical
   url: https://deepmind.google/student-researcher-program/
   description: A paid, in-person research placement where enrolled students work with Google DeepMind and Google Research host teams on AI research projects. Applicants may be considered for positions across Google teams.
   location: In-person at a Google office (global)
@@ -299,6 +338,8 @@ fellowships:
   name: NVIDIA Graduate Fellowship Program
   organization: NVIDIA
   category: industry-residency
+  areas:
+  - technical
   url: https://research.nvidia.com/graduate-fellowships
   description: Fellowship awarding up to $60,000 to PhD students whose research advances accelerated computing and AI, including machine learning, robotics and autonomous vehicles. Recipients must complete a mandatory in-person summer internship at an NVIDIA research office before the award year.
   location: Worldwide (internship at NVIDIA research office)
@@ -319,6 +360,9 @@ fellowships:
   name: PIBBSS Fellowship
   organization: Principles of Intelligence (PrincInt / PIBBSS)
   category: research-safety
+  areas:
+  - technical
+  - generalist
   url: https://princint.ai/programs/fellowship/
   description: A ~3-month interdisciplinary fellowship pairing experienced researchers from diverse fields with AI safety mentors to work on an alignment project bridging their field and AI safety. The 2026 cohort runs in-person in Cape Town (Nov 2026 to Feb 2027).
   location: Cape Town, South Africa (in-person; remote for exceptional candidates)
@@ -340,6 +384,9 @@ fellowships:
   name: AI Safety Camp (AISC 11)
   organization: AI Safety Camp
   category: research-safety
+  areas:
+  - technical
+  - generalist
   url: https://www.aisafety.camp/
   description: An online, part-time research program where participants join teams to work on pre-selected AI safety projects led by experienced project leads. Includes weekly team meetings and culminates in final presentations.
   location: Online / Remote
@@ -362,6 +409,10 @@ fellowships:
   name: Astra Fellowship
   organization: Constellation Institute
   category: research-safety
+  areas:
+  - technical
+  - governance
+  - generalist
   url: https://constellation.org/programs/astra
   description: A fully funded, in-person fellowship pairing senior advisors with emerging talent on technical, governance, strategy, and field-building AI safety projects at Constellation's Berkeley research center.
   location: Berkeley, CA
@@ -383,6 +434,11 @@ fellowships:
   name: SPAR (Supervised Program for Alignment Research)
   organization: Kairos AI Project
   category: research-safety
+  areas:
+  - technical
+  - governance
+  - security
+  - biosecurity
   url: https://sparai.org/
   description: A part-time, remote research fellowship pairing aspiring AI safety and policy researchers with experienced mentors to work on research projects in AI safety, governance, interpretability, security, and biosecurity.
   location: Remote
@@ -405,6 +461,9 @@ fellowships:
   name: Apart Lab Fellowship
   organization: Apart Research
   category: research-safety
+  areas:
+  - technical
+  - interpretability
   url: https://apartresearch.com/lab
   description: A remote AI safety research fellowship that helps participants develop hackathon (Sprint) projects into published, peer-reviewed research through structured mentorship, progressing from Sprint to Studio to the Fellowship phase.
   location: Remote (global)
@@ -426,6 +485,9 @@ fellowships:
   name: Meta Research PhD Fellowship
   organization: Meta
   category: academic-phd
+  areas:
+  - technical
+  - generalist
   url: https://metaresearchphdfellowship.smapply.io/
   description: PhD fellowship open to students in any year of doctoral study across research areas including machine learning and AI. Provides two years of paid tuition and fees plus a $42,000 annual stipend. Selection is based on research statement strength, research impact, and recommendation letters.
   location: Global
@@ -447,6 +509,9 @@ fellowships:
   name: ELLIS PhD Program
   organization: ELLIS (European Lab for Learning and Intelligent Systems)
   category: academic-phd
+  areas:
+  - technical
+  - generalist
   url: https://ellis.eu/news/ellis-phd-program-call-for-applications-2025
   description: European doctoral program pairing outstanding machine learning students with leading academic and industrial advisors across Europe under joint co-supervision, including a required minimum six-month international research exchange with a secondary advisor.
   location: Europe
@@ -468,6 +533,9 @@ fellowships:
   name: Vitalik Buterin PhD Fellowship in AI Existential Safety
   organization: Future of Life Institute
   category: academic-phd
+  areas:
+  - technical
+  - generalist
   url: https://futureoflife.org/grant-program/phd-fellowships/
   description: Supports PhD students or applicants committed to AI existential safety research, providing tuition and fees for 5 years, a $40,000 annual stipend (US/UK/Canada), and a $10,000 research fund. Run with the Beneficial AI Foundation to build a conflict-free research community.
   location: Global (US/UK/Canada stipend)
@@ -488,6 +556,9 @@ fellowships:
   name: Congressional Innovation Fellowship
   organization: TechCongress
   category: policy-grants
+  areas:
+  - governance
+  - security
   url: https://techcongress.io/congressional-innovation-fellowship
   description: Places early- and mid-career technologists in the offices of Members of Congress and on committees to advise on technology and AI policy (election security, AI, cybersecurity). Bipartisan placements split across Democratic and Republican offices.
   location: Washington, DC (Capitol Hill)
@@ -510,6 +581,9 @@ fellowships:
   name: Science & Technology Policy Fellowships (STPF)
   organization: American Association for the Advancement of Science (AAAS)
   category: policy-grants
+  areas:
+  - governance
+  - generalist
   url: https://www.aaas.org/programs/science-technology-policy-fellowships
   description: Places scientists and engineers in federal agencies, Congress, and the judiciary to apply technical expertise (including AI) to policymaking and learn the federal policy process firsthand.
   location: Washington, DC (federal placements)
@@ -533,6 +607,8 @@ fellowships:
   name: AI Policy Fellowship
   organization: Institute for AI Policy and Strategy (IAPS)
   category: policy-grants
+  areas:
+  - governance
   url: https://www.iaps.ai/fellowship
   description: A three-month paid fellowship to build practical AI policy and governance skills, including a two-week DC kickoff residency followed by mentored project work with an AI policy expert. Open to applicants from diverse policy and technical backgrounds and all seniority levels.
   location: Washington, DC or remote (2-week DC residency)
@@ -555,6 +631,8 @@ fellowships:
   name: GovAI Winter Fellowship 2027 (DC & UK Tracks)
   organization: Centre for the Governance of AI (GovAI)
   category: policy-grants
+  areas:
+  - governance
   url: https://www.governance.ai/opportunities
   description: Three-month fellowships to launch or accelerate AI governance and policy careers. The bipartisan DC track focuses on US AI policy; UK tracks offer research or applied (policy/comms/ops) projects with expert mentorship.
   location: Washington, DC / London
@@ -581,6 +659,8 @@ fellowships:
   name: Talos Fellowship
   organization: Talos Network
   category: policy-grants
+  areas:
+  - governance
   url: https://www.talosnetwork.org/talos-fellowship
   description: Programme to launch European AI policy careers through an online EU AI policy fundamentals course, a Brussels policymaking summit, and an optional paid placement at an AI governance organisation.
   location: Europe (online plus Brussels summit)
@@ -603,6 +683,9 @@ fellowships:
   name: Mozilla Fellows Program
   organization: Mozilla Foundation
   category: policy-grants
+  areas:
+  - governance
+  - societal
   url: https://www.mozillafoundation.org/en/what-we-do/grantmaking/fellowship/
   description: One-year fellowship for technologists, researchers, creators, and advocates advancing public-interest technology, including auditing and accountability of AI systems. Two tracks (Embedded and Independent); entry is by nomination, with self-nominations welcome.
   location: Global / remote
@@ -626,6 +709,10 @@ fellowships:
   name: Mila AI Policy Fellowship
   organization: Mila - Quebec AI Institute
   category: policy-grants
+  areas:
+  - governance
+  - societal
+  - security
   url: https://mila.quebec/en/ai4humanity/ai-governance-policy-and-inclusion/mila-ai-policy-fellowship
   description: A paid six-month fellowship bridging AI research and policy. Fellows develop proposals and policy briefs across themes including democratic governance, health, sovereignty and security, Indigenous AI, education, and climate. Hybrid format with in-person activities in Montreal.
   location: Montreal, Canada (hybrid; open worldwide)
@@ -647,6 +734,10 @@ fellowships:
   name: Cambridge ERA:AI Fellowship
   organization: ERA, University of Cambridge
   category: research-safety
+  areas:
+  - technical
+  - governance
+  - security
   url: https://erafellowship.org/fellowship
   description: A fully funded 10-week summer research fellowship in Cambridge where fellows develop projects on technical and/or governance measures to mitigate risks posed by frontier AI systems. Open to applicants at any career stage worldwide.
   location: Cambridge, UK
@@ -668,6 +759,9 @@ fellowships:
   name: Pivotal Research Fellowship
   organization: Pivotal Research
   category: research-safety
+  areas:
+  - technical
+  - governance
   url: https://www.pivotal-research.org/fellowship
   description: A mentored 9-week AI safety and governance research fellowship in London (at LISA), with stipend, dedicated workspace, weekly 1-on-1 mentorship, and potential up-to-6-month extension funding for strong projects.
   location: London, UK
@@ -689,6 +783,9 @@ fellowships:
   name: IndiaAI Fellowship for PhD Students
   organization: IndiaAI Mission, MeitY (Government of India)
   category: academic-phd
+  areas:
+  - technical
+  - generalist
   url: https://indiaai.gov.in/article/indiaai-fellowship-under-the-indiaai-mission
   description: Government fellowship under the IndiaAI Mission funding newly enrolled full-time PhD scholars in AI at top 50 NIRF-ranked Indian institutes. Provides a monthly stipend, accommodation support, an annual research contingency grant, and international conference travel support.
   location: India (top 50 NIRF-ranked institutes)
@@ -710,6 +807,10 @@ fellowships:
   name: UNIDIR Women in AI Fellowship
   organization: UN Institute for Disarmament Research (UNIDIR)
   category: policy-grants
+  areas:
+  - governance
+  - security
+  - societal
   url: https://unidir.org/women-ai/
   description: A week-long, in-person Geneva fellowship equipping women diplomats with policy, legal, and technical knowledge of AI to engage in multilateral AI and international security governance discussions. Around 30 fellows selected annually, with limited funding support available.
   location: Geneva, Switzerland
@@ -732,6 +833,9 @@ fellowships:
   name: EDSAFE Women in AI Fellowship
   organization: EDSAFE AI Alliance
   category: policy-grants
+  areas:
+  - societal
+  - governance
   url: https://www.edsafeai.org/fellowship
   description: A year-long, fully funded fellowship for women technologists and education leaders, offering workshops, mentorship, cohort learning, and a capstone project to advance safe, accountable, fair, and effective (SAFE) AI in education.
   location: Remote / global (at least one in-person gathering)
@@ -756,6 +860,9 @@ fellowships:
   name: SFF-2026 S-Process Grant Round
   organization: Survival and Flourishing Fund
   category: policy-grants
+  areas:
+  - governance
+  - generalist
   url: https://survivalandflourishing.fund/2026/application
   description: S-Process grant rounds funding nonprofits and select for-profits working on AI governance, freedom, fairness, and other causes tied to humanity's long-term survival and flourishing. 2026 distributes an estimated $20M-$40M across a Main Round and themed rounds; requires a Speculation Grant to be eligible.
   location: Global
@@ -782,6 +889,8 @@ fellowships:
   name: Scaling AI Safety for a Multi-Agent World
   organization: Schmidt Sciences, Google DeepMind, ARIA & Cooperative AI Foundation
   category: research-safety
+  areas:
+  - technical
   url: https://schmidtsciences.smapply.io/prog/scaling_ai_safety_for_a_multi_agent_world/
   description: Joint funding call from Google DeepMind, Schmidt Sciences, ARIA and the Cooperative AI Foundation for technical research on the safety of large-scale multi-agent AI systems, including sandboxes and testbeds, agent network science, oversight and control, and agent infrastructure.
   location: Global / remote
@@ -803,6 +912,8 @@ fellowships:
   name: Science of Trustworthy AI
   organization: Schmidt Sciences
   category: research-safety
+  areas:
+  - technical
   url: https://www.schmidtsciences.org/trustworthy-ai/
   description: Schmidt Sciences program funding basic technical research to understand, predict and control risks from frontier AI systems, spanning misalignment characterization, generalizable evaluation and intervention methods, and oversight of superhuman AI and multi-agent risks.
   location: Global
@@ -824,6 +935,9 @@ fellowships:
   name: Technical AI Safety Research RFP
   organization: Coefficient Giving (formerly Open Philanthropy)
   category: research-safety
+  areas:
+  - technical
+  - interpretability
   url: https://coefficientgiving.org/funds/navigating-transformative-ai/request-for-proposals-technical-ai-safety-research/
   description: Request for proposals funding technical AI safety research across areas such as interpretability, adversarial robustness, and alignment. Applications begin with a 300-word expression of interest assessed on a rolling basis. Currently between rounds; the most recent RFP closed in 2025.
   location: Global / remote
@@ -847,6 +961,10 @@ fellowships:
   name: Long-Term Future Fund
   organization: Effective Altruism Funds
   category: policy-grants
+  areas:
+  - technical
+  - governance
+  - generalist
   url: https://funds.effectivealtruism.org/funds/far-future
   description: EA Funds grant program supporting individuals and organizations worldwide working to reduce existential risk, with the largest share of grants going to AI safety and alignment research, governance, and field-building. Applications accepted year-round on a rolling basis.
   location: Global / remote
@@ -867,6 +985,10 @@ fellowships:
   name: Foresight Fellowship
   organization: Foresight Institute
   category: research-safety
+  areas:
+  - technical
+  - security
+  - generalist
   url: https://foresight.org/engage/fellowship/
   description: Year-long frontier technology fellowship for early-career scientists, engineers, entrepreneurs, and innovators. Fellows receive introductions to senior researchers, mentors, and funders, paid travel to a Foresight technical workshop and Vision Weekend, seminar groups, AI Nodes access, career counseling, and a community spanning Secure AI and other frontier technologies.
   location: Global; events and AI Nodes in San Francisco and Berlin
@@ -889,6 +1011,9 @@ fellowships:
   name: Heron AI Security Research Fellowship
   organization: Heron AI Security
   category: research-safety
+  areas:
+  - security
+  - technical
   url: https://www.heronsec.ai/researchfellowship
   description: A 3-month program pairing experienced cybersecurity professionals with AI-security experts to build publishable proofs-of-concept, benchmarks, and defenses for transformative AI systems. Applications open Jun-Jul 2026; teams announced early Aug; projects run Sep-Nov 2026.
   location: Remote; London, Tel Aviv & San Francisco hubs
@@ -909,6 +1034,9 @@ fellowships:
   name: Singapore AI Safety Fellowship
   organization: SASH (Singapore AI Safety Hub)
   category: research-safety
+  areas:
+  - technical
+  - security
   url: https://www.aisafety.sg/programs/singapore-ai-safety-fellowship
   description: A 3-month fully funded fellowship for emerging researchers from around the world to conduct research on challenges related to secure AI systems, under the mentorship of experienced researchers. Fellows are hosted at SASH's hub in Chinatown, Singapore, and participate in talks, workshops, seminars, and community events to build networks with mentors and peers.
   location: Singapore (Chinatown hub)
@@ -931,6 +1059,8 @@ fellowships:
   name: GovAI U.S. AI Policy Program
   organization: GovAI
   category: policy-grants
+  areas:
+  - governance
   url: https://www.governance.ai/post/govai-u-s-ai-policy-program
   description: Free, bipartisan, part-time program for U.S. policy professionals building technically informed understanding of AI policy through weekly sessions and expert access.
   location: Washington, DC / remote
@@ -951,6 +1081,8 @@ fellowships:
   name: GovAI DC Winter Fellowship 2027
   organization: GovAI
   category: policy-grants
+  areas:
+  - governance
   url: https://www.governance.ai/post/dc-winter-fellowship-2027
   description: Three-month bipartisan fellowship for people launching or accelerating careers in American AI governance and policy through independent research, expert mentorship, and DC policy networks.
   location: Washington, DC
@@ -972,6 +1104,9 @@ fellowships:
   name: AI Accountability Fellowships 2026-2027
   organization: Pulitzer Center
   category: policy-grants
+  areas:
+  - societal
+  - governance
   url: https://pulitzercenter.org/grants-fellowships/opportunities-journalists/ai-accountability-fellowships
   description: Ten-month journalism fellowship supporting accountability reporting on artificial intelligence and its effects on communities, institutions, and public life.
   location: Global / newsroom-based
@@ -992,6 +1127,8 @@ fellowships:
   name: Google Data Center Community AI Fellowship
   organization: Watson Institute / Google
   category: policy-grants
+  areas:
+  - societal
   url: https://watson.is/google-data-center-community-ai-fellowship/
   description: Fellowship for leaders in Google data center communities using AI or technology to advance community impact, local economic mobility, education, and public-interest innovation.
   location: Google data center communities
@@ -1014,6 +1151,8 @@ fellowships:
   name: Emerging Voices in AI and Society Fellowship
   organization: Center for Humane Technology
   category: policy-grants
+  areas:
+  - societal
   url: https://www.humanetech.com/fellowship
   description: Fellowship supporting mid-career voices working at the intersection of AI, society, media, research, and public understanding.
   location: Remote / United States
@@ -1035,6 +1174,8 @@ fellowships:
   name: AGI Governance Fellowship
   organization: Johns Hopkins School of Government and Policy
   category: policy-grants
+  areas:
+  - governance
   url: https://sogp.jh.edu/agi-governance-fellowship/
   description: Full-time fellowship for early-career professionals working on AGI governance, policy analysis, institutional design, and public-sector readiness.
   location: Washington, DC
@@ -1057,6 +1198,9 @@ fellowships:
   name: Claude Corps Fellow
   organization: Anthropic / CodePath / Social Finance
   category: industry-residency
+  areas:
+  - societal
+  - technical
   url: https://www.anthropic.com/news/claude-corps
   description: Early-career fellowship placing participants with nonprofit and public-interest partners to deploy Claude on social-impact projects.
   location: United States
@@ -1077,6 +1221,9 @@ fellowships:
   name: AI Rapid Response Fellowship
   organization: Horizon Institute for Public Service
   category: policy-grants
+  areas:
+  - governance
+  - security
   url: https://horizonpublicservice.org/ai-rapid-response-fellowship/
   description: Public-service fellowship placing AI and security talent into U.S. executive branch offices for urgent AI policy and implementation needs.
   location: Washington, DC / U.S. government
@@ -1097,6 +1244,8 @@ fellowships:
   name: Law & AI Academic Fellowship
   organization: Institute for Law & AI
   category: policy-grants
+  areas:
+  - governance
   url: https://law-ai.org/career/academic-fellowship/
   description: Fellowship for aspiring legal academics researching law, governance, and policy questions raised by transformative artificial intelligence.
   location: Remote / academic
@@ -1117,6 +1266,8 @@ fellowships:
   name: IPAI Postdoctoral Fellows Program
   organization: Purdue Institute for Physical AI
   category: academic-phd
+  areas:
+  - technical
   url: https://ipai.research.purdue.edu/postdoctoral-fellows-program
   description: Postdoctoral fellowship program for researchers advancing physical AI, including AI systems connected to robotics, autonomy, engineering, and embodied scientific discovery.
   location: Purdue University, Indiana
@@ -1138,6 +1289,8 @@ fellowships:
   name: IMI AI/ML Fellowships 2026
   organization: IMI
   category: research-safety
+  areas:
+  - technical
   url: https://www.imachines.com/imi-ai-ml-fellowships-2025-2026-high-risk-research
   description: Remote AI/ML research fellowship backing high-risk research projects with flexible support, mentoring, and opportunities for independent technical work.
   location: Remote
@@ -1162,6 +1315,9 @@ fellowships:
   name: "NSF PRFB: AI + Biological Sciences"
   organization: NSF BIO
   category: academic-phd
+  areas:
+  - technical
+  - biosecurity
   url: https://www.nsf.gov/funding/opportunities/prfb-postdoctoral-research-fellowships-biology/nsf26-504/solicitation
   description: NSF postdoctoral research fellowship track for recent PhDs using artificial intelligence to advance biological sciences research.
   location: United States
@@ -1182,6 +1338,9 @@ fellowships:
   name: Schmidt AI in Science Postdocs
   organization: UC San Diego
   category: academic-phd
+  areas:
+  - technical
+  - generalist
   url: https://schmidtaiinsciencepostdocs.ucsd.edu/
   description: Postdoctoral fellowship for researchers applying artificial intelligence to scientific discovery across disciplines at UC San Diego.
   location: UC San Diego, California
@@ -1203,6 +1362,8 @@ fellowships:
   name: OpenAI Safety Fellowship
   organization: OpenAI
   category: research-safety
+  areas:
+  - technical
   url: https://openai.com/index/introducing-openai-safety-fellowship/
   description: Fellowship for external researchers, engineers, and practitioners working on AI safety, alignment, evaluations, and responsible development of advanced AI systems.
   location: Remote / global
@@ -1224,6 +1385,8 @@ fellowships:
   name: Kempner AI Fellows Program
   organization: Harvard Kempner Institute
   category: academic-phd
+  areas:
+  - technical
   url: https://kempnerinstitute.harvard.edu/kempner-ai-fellows/
   description: Research fellowship for recent bachelor's or master's graduates with strong quantitative and machine learning preparation who want to work on intelligence research.
   location: Harvard University, Massachusetts
@@ -1244,6 +1407,8 @@ fellowships:
   name: Stanford HAI Data Science Scholars
   organization: Stanford HAI / Stanford Data Science
   category: academic-phd
+  areas:
+  - technical
   url: https://datascience.stanford.edu/programs/stanford-hai-data-science-scholars-program
   description: Scholar program supporting Stanford PhD students whose work advances data science and artificial intelligence research.
   location: Stanford University, California
@@ -1265,6 +1430,9 @@ fellowships:
   name: CRA Trustworthy AI Research Fellowship
   organization: Computing Research Association
   category: research-safety
+  areas:
+  - technical
+  - societal
   url: https://cra.org/crn/2026/02/applications-open-for-the-cra-trustworthy-ai-research-fellowships-second-cohort/
   description: Research fellowship supporting early-career computing researchers who study trustworthy AI with social-science training and interdisciplinary methods.
   location: United States
@@ -1286,6 +1454,9 @@ fellowships:
   name: AI and Society Fellowship
   organization: Center for AI Safety
   category: policy-grants
+  areas:
+  - societal
+  - governance
   url: https://safe.ai/fellowship
   description: Summer fellowship for scholars from economics, law, international relations, and adjacent fields studying societal challenges from advanced AI.
   location: Remote / United States
@@ -1306,6 +1477,9 @@ fellowships:
   name: CIP Research Fellowship
   organization: Collective Intelligence Project
   category: policy-grants
+  areas:
+  - governance
+  - societal
   url: https://www.cip.org/research-fellowship
   description: Research fellowship for work on AI, public values, democratic input, collective intelligence, and governance of emerging technologies.
   location: Remote
@@ -1326,6 +1500,11 @@ fellowships:
   name: BASE Fellowship
   organization: Black in AI Safety and Ethics (BASE)
   category: research-safety
+  areas:
+  - technical
+  - governance
+  - security
+  - societal
   url: https://www.baseresearch.org/base-fellowship-f26
   description: Part-time remote fellowship developing Black researchers, practitioners, students, and leaders in AI alignment, AI security, AI governance, and responsible AI through foundations training, expert mentorship, and mentored research.
   location: Remote / global
@@ -1354,6 +1533,9 @@ fellowships:
   name: Global Majority AI Fellowship
   organization: Heinrich Boll Foundation Washington, DC
   category: policy-grants
+  areas:
+  - governance
+  - societal
   url: https://us.boell.org/en/2026/05/12/global-majority-ai-fellowship
   description: Fellowship for Global Majority civil-society experts engaging with AI governance debates and international policy processes.
   location: Global / Washington, DC policy network
@@ -1375,6 +1557,9 @@ fellowships:
   name: Emerging Leaders in Ethical AI Governance Fellowship
   organization: Globethics
   category: policy-grants
+  areas:
+  - governance
+  - societal
   url: https://globethics.net/ethical-ai-governance-fellowship
   description: Fellowship for emerging leaders working on ethical AI governance, responsible innovation, policy, and values-based technology leadership.
   location: Global / remote
@@ -1396,6 +1581,8 @@ fellowships:
   name: Responsible AI Fellowship
   organization: Computer Science Teachers Association
   category: policy-grants
+  areas:
+  - societal
   url: https://csteachers.org/become-a-responsible-ai-fellow/
   description: Fellowship for K-12 computer science educators developing responsible AI education, classroom resources, and teacher leadership.
   location: United States / remote
@@ -1417,6 +1604,8 @@ fellowships:
   name: Google Higher Ed Faculty AI Fellowship
   organization: Google for Education
   category: academic-phd
+  areas:
+  - societal
   url: https://edu.google.com/intl/ALL_us/for-educators/communities/higher-ed-faculty-ai-fellowship/
   description: Fellowship community for higher-education faculty exploring and integrating artificial intelligence into teaching, learning, and research.
   location: Higher education institutions
@@ -1437,6 +1626,8 @@ fellowships:
   name: U.S. Google Public Policy Fellowship
   organization: Google
   category: policy-grants
+  areas:
+  - governance
   url: https://www.google.com/policyfellowship/usa/faq/
   description: Summer fellowship placing students with public-interest organizations working on internet, technology, and related public policy issues.
   location: United States
@@ -1457,6 +1648,8 @@ fellowships:
   name: Just Tech Fellowship
   organization: Social Science Research Council
   category: policy-grants
+  areas:
+  - societal
   url: https://www.ssrc.org/programs/just-tech/just-tech-fellowship/
   description: Fellowship supporting researchers, artists, journalists, and practitioners examining the social, political, and justice impacts of technology.
   location: United States / remote
@@ -1478,6 +1671,9 @@ fellowships:
   name: Critical AI Policy Virtual Fellowship
   organization: Loyola CDEP / Manchester DISC
   category: policy-grants
+  areas:
+  - governance
+  - societal
   url: https://digitalsociety.mmu.ac.uk/2026/02/01/critical-ai-policy-virtual-fellowship-2026/
   description: Virtual fellowship for humanities and social-science researchers studying critical AI policy, digital ethics, and governance questions.
   location: Virtual
@@ -1498,6 +1694,9 @@ fellowships:
   name: Youth for Responsible AI Fellowship
   organization: Rule26 AI
   category: policy-grants
+  areas:
+  - governance
+  - societal
   url: https://www.youthforresponsibleai.com/
   description: Youth fellowship with tracks focused on responsible AI, governance, advocacy, education, and public-interest technology.
   location: Global / remote
@@ -1518,6 +1717,8 @@ fellowships:
   name: Factored AI Machine Learning & GenAI Residency
   organization: Factored
   category: industry-residency
+  areas:
+  - technical
   url: https://job-boards.greenhouse.io/factored/jobs/5079617008
   description: Residency-style role for machine learning and generative AI engineers working on applied AI projects with Factored teams and clients.
   location: Latin America / remote
@@ -1538,6 +1739,8 @@ fellowships:
   name: Memories.ai Research Fellowship
   organization: Memories.ai
   category: research-safety
+  areas:
+  - technical
   url: https://memories.ai/blogs/memories-ai-research-fellowship-fall-2026
   description: A 12-week intensive research program where fellows work directly with the Memories.ai research team on open problems in visual AI, including video understanding, multimodal memory, and real-time video intelligence. Provides access to GPU infrastructure, proprietary datasets, and 1:1 mentorship from senior researchers.
   location: Remote-friendly with optional in-person collaboration
@@ -1561,6 +1764,9 @@ fellowships:
   name: Women in AI/ML Doctoral Fellowship
   organization: KAIA Network, APHRC & The New School
   category: academic-phd
+  areas:
+  - technical
+  - societal
   url: https://docs.google.com/forms/d/e/1FAIpQLSe614SuXjiH7myFr6wok0ppQgxpb86iCRH8075BL4vK9wYzBA/viewform
   description: Supports women PhD candidates in Sub-Saharan Africa whose social science research integrates AI/ML methods. Fellows receive a one-time USD $5,000 research grant (tuition, computing, data acquisition, research travel), matching with an AI/ML collaborator through the KAIA Network, capacity-building workshops, and support to publish open-access research and present findings.
   location: Sub-Saharan Africa (remote)
@@ -1582,6 +1788,10 @@ fellowships:
   name: Frontier AI Security Residency
   organization: ERA, with Heron & Oxford Hardware AI Governance Lab
   category: research-safety
+  areas:
+  - security
+  - technical
+  - governance
   url: https://www.securefrontier.ai/
   description: An 8-week, fully funded, in-person research and engineering residency where participants work on concrete cybersecurity and hardware projects that mitigate frontier AI risks — verifying what AI compute is doing and keeping models and systems secure. Three tracks (cyber, hardware, field-building), with expert mentors and residents living and working alongside each other.
   location: Cambridge, UK (in-person)
@@ -1604,6 +1814,8 @@ fellowships:
   name: AIXI Labs Research Fellowship
   organization: AIXI Labs
   category: research-safety
+  areas:
+  - technical
   url: https://www.aixi.uk/team/opportunities/aixi-labs-fellowship/
   description: A roughly one-quarter fellowship at a London-based nonprofit building mathematically rigorous foundations for understanding and aligning advanced AI. Fellows pursue an independent research project grounded in algorithmic information theory — spanning AIXI theoretical models and modern LLM-based agents — mentored by Cole Wyeth, Marcus Hutter, and Aram Ebtekar. Applications are accepted on a rolling basis.
   location: Remote (worldwide) or London, UK
@@ -1626,6 +1838,9 @@ fellowships:
   name: AIAF Fellowship
   organization: AI Alignment Foundation & AE Studio
   category: research-safety
+  areas:
+  - technical
+  - interpretability
   url: https://aialignmentfoundation.org/fellowship
   description: An 8-week paid, full-time AI alignment research fellowship where fellows work on real alignment problems at industry speed with support from research managers, senior mentors, and AE Studio researchers. Research areas include model interpretability, steering and control of LLMs, self-interpretation via adapter probes, and modular pretraining with access control, ending in an optional Demo Day.
   location: Fully remote; hybrid Demo Day in Los Angeles, CA
@@ -1645,3 +1860,56 @@ fellowships:
   - cycle: 2026 Cohort
     deadline: '2026-08-17'
     opens: '2026-07-26'
+- id: laish-foundations-of-ai-safety-fellowship
+  name: Foundations of AI Safety Fellowship
+  organization: LAISH (Lisbon AI Safety Hub)
+  category: research-safety
+  areas:
+  - governance
+  - societal
+  - generalist
+  url: https://lisbonaisafetyhub.org/
+  description: An 8-week, in-person, non-technical fellowship in Lisbon introducing AI risks and practical ways to help make AI development safer. Covers why AI safety matters, alignment and interpretability fundamentals, governance and policy approaches, and helps each fellow identify a concrete next step in career, research, policy, or community action.
+  location: Lisbon, Portugal (in-person)
+  eligibility: Students and working professionals based in Lisbon; no technical knowledge or background required
+  funding: Free to participate (no stipend advertised)
+  duration: 8 weeks (cohort starts October 6, 2026)
+  tags:
+  - ai-safety
+  - governance
+  - non-technical
+  - in-person
+  - lisbon
+  - fellowship
+  source: https://lisbonaisafetyhub.org/
+  last_verified: '2026-08-09'
+  cycles:
+  - cycle: October 2026 Cohort
+    deadline: '2026-09-30'
+    opens: '2026-08-01'
+- id: prognica-research-fellows-program
+  name: Research Fellows Program
+  organization: Prognica Labs
+  category: research-safety
+  areas:
+  - technical
+  - biosecurity
+  url: https://prognica.com/fellowship/
+  description: A six-month, fully funded remote fellowship for researchers bridging computational prediction and wet-lab validation in drug discovery. Fellows get access to Prognica's AI discovery platform, advanced training, methodology and publication support; up to three fellows receive a funded bench-validation award to test their computational result in Prognica's lab.
+  location: Remote / global (wet-lab validation at Prognica's facility)
+  eligibility: PhD candidates, postdocs, MBBS students, MD residents, clinical researchers, faculty and early-career investigators; strong independent researchers case-by-case
+  funding: No fees; ~$12,000 estimated value per fellow, rising to ~$20,000 for the three bench-validation awardees
+  duration: 6 months (October 1, 2026 - March 31, 2027)
+  tags:
+  - ai-for-science
+  - drug-discovery
+  - multi-omics
+  - bioinformatics
+  - remote
+  - fellowship
+  source: https://prognica.com/fellowship/
+  last_verified: '2026-08-09'
+  cycles:
+  - cycle: Inaugural Cohort 2026-2027
+    deadline: '2026-08-31'
+    opens: '2026-08-01'

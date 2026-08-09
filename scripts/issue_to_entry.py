@@ -19,6 +19,7 @@ FIELD_HEADINGS = {
     "Name": "name",
     "Organization": "organization",
     "Category": "category",
+    "Research areas": "areas",
     "Application URL": "url",
     "Short description": "description",
     "Location": "location",
@@ -56,6 +57,15 @@ def parse_issue_form(body):
         if field == "tags":
             tags = [t.strip().lower() for t in re.split(r"[,\n]", value) if t.strip()]
             parsed["tags"] = tags[:8]
+        elif field == "areas":
+            # Multi-select dropdown: GitHub renders the picks comma-separated.
+            areas, seen = [], set()
+            for a in re.split(r"[,\n]", value):
+                a = a.strip().lower()
+                if a and a not in seen:
+                    seen.add(a)
+                    areas.append(a)
+            parsed["areas"] = areas[: validate.MAX_AREAS]
         else:
             parsed[field] = value
     return parsed
