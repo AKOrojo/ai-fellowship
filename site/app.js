@@ -171,8 +171,6 @@ function card(item, now) {
     countdownText(item, now)
   );
   c.appendChild(countdown);
-  // Re-read the item on every tick so a deadline passing mid-session updates live.
-  state.timers.push({ node: countdown, card: c, item: item });
 
   const areas = el("div", "area-tags");
   for (const a of item.areas || []) {
@@ -181,12 +179,16 @@ function card(item, now) {
   c.appendChild(areas);
 
   const meta = el("div", "meta");
-  meta.appendChild(el("span", "badge " + status, STATUS_LABELS[status] || status));
+  const badge = el("span", "badge " + status, STATUS_LABELS[status] || status);
+  meta.appendChild(badge);
   if (item.cycle) meta.appendChild(el("span", "cycle", item.cycle));
   meta.appendChild(el("span", null, "Deadline: " + (item.deadline || "Unknown")));
   meta.appendChild(el("span", null, item.location || ""));
   meta.appendChild(el("span", null, CATEGORY_TITLES[item.category] || item.category));
   c.appendChild(meta);
+
+  // Re-read the item on every tick so a deadline passing mid-session updates live.
+  state.timers.push({ node: countdown, badge: badge, card: c, item: item });
   return c;
 }
 
@@ -211,6 +213,8 @@ function tick() {
     t.node.textContent = countdownText(t.item, now);
     const status = statusOf(t.item, now);
     t.node.className = "countdown " + status + (isUrgent(t.item, now) ? " urgent" : "");
+    t.badge.textContent = STATUS_LABELS[status] || status;
+    t.badge.className = "badge " + status;
     t.card.classList.toggle("past", status === "closed");
   }
 }
