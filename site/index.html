@@ -13,11 +13,15 @@
   <header>
     <button id="theme-toggle" type="button" class="theme-toggle" aria-label="Toggle color theme">☾</button>
     <h1>AI Fellowships 2026</h1>
-    <p>Community-maintained list of AI fellowships, residencies &amp; funded programs.</p>
+    <p>Community-maintained list of AI fellowships, residencies &amp; funded programs. Open deadlines first, live countdowns, past deadlines greyed out.</p>
   </header>
+  <section class="areas" aria-labelledby="areas-label">
+    <h2 id="areas-label" class="areas-label">Research areas</h2>
+    <div id="area-chips" class="chips"></div>
+  </section>
   <section class="controls">
-    <input id="search" type="search" placeholder="Search name, org, description…" autocomplete="off">
-    <select id="category" aria-label="Filter by category"></select>
+    <input id="search" type="search" placeholder="Search name, org, area, location…" autocomplete="off">
+    <select id="category" aria-label="Filter by program type"></select>
     <select id="status" aria-label="Filter by status">
       <option value="">All statuses</option>
       <option value="open">Open</option>
@@ -26,14 +30,16 @@
       <option value="closed">Closed</option>
     </select>
     <select id="sort" aria-label="Sort">
+      <option value="smart">Sort: Active first</option>
       <option value="deadline">Sort: Deadline</option>
       <option value="name">Sort: Name</option>
     </select>
+    <button id="reset" type="button" class="reset">Reset</button>
   </section>
-  <p id="count" class="count"></p>
+  <p id="count" class="count" role="status"></p>
   <main id="list" class="list"></main>
   <footer>
-    <p>Generated from <code>data/fellowships.yaml</code>. Verify deadlines on official links.</p>
+    <p>Generated from <code>data/fellowships.yaml</code>. Countdowns run to the start of the deadline day in your local timezone — always verify on the official link.</p>
   </footer>
   <script src="app.js"></script>
 </body>

@@ -4,7 +4,7 @@ import validate
 def base_entry(**over):
     e = {
         "id": "a", "name": "A", "organization": "Org",
-        "category": "research-safety", "url": "https://a.example",
+        "category": "research-safety", "areas": ["technical"], "url": "https://a.example",
         "description": "desc", "location": "Remote",
         "last_verified": "2026-06-30",
         "cycles": [{"cycle": "2026 Cohort", "deadline": "Rolling"}],
@@ -131,3 +131,26 @@ def test_semantic_flags_duplicate_name_org():
 
 def test_cycle_accepts_closed_literal():
     assert errs(base_entry(cycles=[{"cycle": "2026", "deadline": "Closed"}])) == []
+
+
+def test_areas_required():
+    e = base_entry()
+    del e["areas"]
+    assert any("areas must be a non-empty list" in x for x in errs(e))
+
+
+def test_areas_rejects_unknown_value():
+    assert any("invalid area" in x for x in errs(base_entry(areas=["technicel"])))
+
+
+def test_areas_rejects_duplicates():
+    assert any("duplicate area" in x for x in errs(base_entry(areas=["technical", "technical"])))
+
+
+def test_areas_rejects_too_many():
+    too_many = validate.AREAS[: validate.MAX_AREAS + 1]
+    assert any("too many areas" in x for x in errs(base_entry(areas=too_many)))
+
+
+def test_areas_accepts_multiple_valid():
+    assert errs(base_entry(areas=["technical", "governance", "security"])) == []

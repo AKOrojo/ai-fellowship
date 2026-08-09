@@ -26,6 +26,7 @@ def test_generate_all_writes_outputs(tmp_path):
     data.write_text(
         "fellowships:\n"
         "  - id: a\n    name: A\n    organization: O\n    category: research-safety\n"
+        "    areas: [technical]\n"
         "    url: https://a.example\n    description: d\n    location: Remote\n"
         "    last_verified: \"2026-06-30\"\n"
         "    cycles:\n"

@@ -14,6 +14,10 @@ ML Alignment & Theory Scholars
 
 research-safety
 
+### Research areas
+
+technical, interpretability
+
 ### Application URL
 
 https://www.matsprogram.org
@@ -89,3 +93,14 @@ def test_append_entry_roundtrips(tmp_path):
     data = yaml.safe_load(f.read_text())
     assert data["fellowships"][0]["id"] == "mats"
     assert data["fellowships"][0]["cycles"][0]["cycle"] == "Summer 2026"
+
+
+def test_parse_reads_multi_select_areas():
+    parsed = i2e.parse_issue_form(FORM)
+    assert parsed["areas"] == ["technical", "interpretability"]
+
+
+def test_parse_areas_dedupes_and_caps():
+    body = "### Name\n\nX\n\n### Research areas\n\ntechnical, technical, governance, security, societal, other\n"
+    parsed = i2e.parse_issue_form(body)
+    assert parsed["areas"] == ["technical", "governance", "security", "societal"]

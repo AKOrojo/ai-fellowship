@@ -41,3 +41,25 @@ def test_theme_js_is_safe_and_referenced():
 def test_index_has_theme_toggle():
     html = (SITE / "index.html").read_text()
     assert 'id="theme-toggle"' in html
+
+
+def test_app_js_has_area_filter_and_countdown():
+    js = (SITE / "app.js").read_text()
+    # research-area chips drive the filter; every area in the taxonomy is offered
+    for area in ("technical", "interpretability", "governance", "security",
+                 "biosecurity", "societal", "generalist", "other"):
+        assert f'"{area}"' in js
+    assert "countdownText" in js
+    assert "setInterval" in js
+
+
+def test_index_has_area_chips_and_smart_sort():
+    html = (SITE / "index.html").read_text()
+    assert 'id="area-chips"' in html
+    assert 'value="smart"' in html
+
+
+def test_style_has_past_deadline_treatment():
+    css = (SITE / "style.css").read_text()
+    assert ".card.past" in css
+    assert ".countdown" in css

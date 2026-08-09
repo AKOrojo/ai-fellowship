@@ -10,7 +10,16 @@ A community-maintained, always-current list of **AI fellowships, residencies, an
 - All submissions are validated automatically and **reviewed by a maintainer before merging**. Nothing is added automatically.
 - See [CONTRIBUTING.md](CONTRIBUTING.md) for the field reference and [SECURITY.md](SECURITY.md) to report issues.
 
-🔎 **Browse & filter the full list on the website:** see the repo's GitHub Pages site.
+🔎 **Browse & filter the full list on the website:** see the repo's GitHub Pages site — filter by research area, search, live countdowns to each deadline, still-open programs sorted to the top and passed deadlines greyed out.
+
+## Research areas
+
+Every entry is tagged with one or more research areas (a program can span several). The website
+filters on these; the tables below are grouped by program type.
+
+`technical` · `interpretability` · `governance` · `security` · `biosecurity` · `societal` · `generalist` · `other`
+
+See [CONTRIBUTING.md](CONTRIBUTING.md#research-areas) for what each area covers.
 
 ## Fellowships
 
@@ -58,8 +67,10 @@ A community-maintained, always-current list of **AI fellowships, residencies, an
 | [Frontier AI Security Residency](https://www.securefrontier.ai/) | ERA, with Heron & Oxford Hardware AI Governance Lab | Autumn 2026 Cohort | 2026-08-02 | 🔴 Closed | Cambridge, UK (in-person) |
 | [Scaling AI Safety for a Multi-Agent World](https://schmidtsciences.smapply.io/prog/scaling_ai_safety_for_a_multi_agent_world/) | Schmidt Sciences, Google DeepMind, ARIA & Cooperative AI Foundation | 2026 Funding Call | 2026-08-08 | 🔴 Closed | Global / remote |
 | [AIAF Fellowship](https://aialignmentfoundation.org/fellowship) | AI Alignment Foundation & AE Studio | 2026 Cohort | 2026-08-17 | 🟢 Open | Fully remote; hybrid Demo Day in Los Angeles, CA |
+| [Research Fellows Program](https://prognica.com/fellowship/) | Prognica Labs | Inaugural Cohort 2026-2027 | 2026-08-31 | 🟢 Open | Remote / global (wet-lab validation at Prognica's facility) |
 | [IMI AI/ML Fellowships 2026](https://www.imachines.com/imi-ai-ml-fellowships-2025-2026-high-risk-research) | IMI | 2026 Fall Deadline | 2026-09-01 | 🟢 Open | Remote |
 | [Memories.ai Research Fellowship](https://memories.ai/blogs/memories-ai-research-fellowship-fall-2026) | Memories.ai | Fall 2026 Cohort | 2026-09-01 | 🟢 Open | Remote-friendly with optional in-person collaboration |
+| [Foundations of AI Safety Fellowship](https://lisbonaisafetyhub.org/) | LAISH (Lisbon AI Safety Hub) | October 2026 Cohort | 2026-09-30 | 🟢 Open | Lisbon, Portugal (in-person) |
 | [Technical AI Safety Research RFP](https://coefficientgiving.org/funds/navigating-transformative-ai/request-for-proposals-technical-ai-safety-research/) | Coefficient Giving (formerly Open Philanthropy) | 2026 (closed / invite-only, no open call) | Closed | 🔴 Closed | Global / remote |
 | [Anthropic Fellows Program](https://alignment.anthropic.com/2025/anthropic-fellows-program-2026/) | Anthropic | Future cohorts (rolling) | Rolling | 🟡 Rolling | Berkeley CA / London UK / remote (US, UK, Canada) |
 | [Apart Lab Fellowship](https://apartresearch.com/lab) | Apart Research | 2026 (rolling via monthly Sprints) | Rolling | 🟡 Rolling | Remote (global) |

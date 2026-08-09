@@ -17,6 +17,18 @@ SCHEMA_PATH = ROOT / "data" / "schema.json"
 DEFAULT_DATA_PATH = ROOT / "data" / "fellowships.yaml"
 
 CATEGORIES = {"industry-residency", "research-safety", "academic-phd", "policy-grants"}
+# Research areas — a fellowship may span several (e.g. technical + governance).
+AREAS = [
+    "technical",
+    "interpretability",
+    "governance",
+    "security",
+    "biosecurity",
+    "societal",
+    "generalist",
+    "other",
+]
+MAX_AREAS = 4
 MAX_FILE_BYTES = 1_000_000
 MAX_ENTRIES = 2000
 
@@ -118,6 +130,23 @@ def _date_field_ok(value, literals):
     return value in literals or is_iso_date(value)
 
 
+def _area_errors(eid, areas):
+    """Validate the research-area labels: 1..MAX_AREAS known, unique values."""
+    if not isinstance(areas, list) or not areas:
+        return [f"semantic: {eid}: areas must be a non-empty list of research areas"]
+    errs = []
+    if len(areas) > MAX_AREAS:
+        errs.append(f"semantic: {eid}: too many areas ({len(areas)} > {MAX_AREAS})")
+    seen = set()
+    for a in areas:
+        if a not in AREAS:
+            errs.append(f"semantic: {eid}: invalid area {a!r} (allowed: {', '.join(AREAS)})")
+        elif a in seen:
+            errs.append(f"semantic: {eid}: duplicate area '{a}'")
+        seen.add(a)
+    return errs
+
+
 def _cycle_errors(eid, cycles):
     """Validate each cohort/cycle: safe unique label, valid opens/deadline."""
     errs = []
@@ -165,6 +194,8 @@ def semantic_errors(data):
 
         if e.get("category") not in CATEGORIES:
             errors.append(f"semantic: {eid}: invalid category {e.get('category')!r}")
+
+        errors += _area_errors(eid, e.get("areas"))
 
         for field, cap in text_caps.items():
             if field in e and not is_safe_text(e[field], cap):

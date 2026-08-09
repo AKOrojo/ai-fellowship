@@ -16,7 +16,7 @@ def load_data():
 def good_entry(**over):
     e = {
         "id": "x", "name": "X", "organization": "Y",
-        "category": "research-safety", "url": "https://x.com",
+        "category": "research-safety", "areas": ["technical"], "url": "https://x.com",
         "description": "d", "location": "Remote",
         "last_verified": "2026-06-30",
         "cycles": [{"cycle": "2026 Cohort", "deadline": "Rolling"}],

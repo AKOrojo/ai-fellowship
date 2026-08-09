@@ -4,7 +4,7 @@ import validate
 
 GOOD = {"fellowships": [{
     "id": "a", "name": "A", "organization": "Org",
-    "category": "research-safety", "url": "https://a.example",
+    "category": "research-safety", "areas": ["technical"], "url": "https://a.example",
     "description": "desc", "location": "Remote",
     "cycles": [{"cycle": "2026", "deadline": "Rolling"}],
     "last_verified": "2026-06-30",
