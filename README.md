@@ -66,7 +66,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md#research-areas) for what each area covers.
 | [Foresight Fellowship](https://foresight.org/engage/fellowship/) | Foresight Institute | 2027 Cohort (applications open) | 2026-07-31 | 🔴 Closed | Global; events and AI Nodes in San Francisco and Berlin |
 | [Frontier AI Security Residency](https://www.securefrontier.ai/) | ERA, with Heron & Oxford Hardware AI Governance Lab | Autumn 2026 Cohort | 2026-08-02 | 🔴 Closed | Cambridge, UK (in-person) |
 | [Scaling AI Safety for a Multi-Agent World](https://schmidtsciences.smapply.io/prog/scaling_ai_safety_for_a_multi_agent_world/) | Schmidt Sciences, Google DeepMind, ARIA & Cooperative AI Foundation | 2026 Funding Call | 2026-08-08 | 🔴 Closed | Global / remote |
-| [AIAF Fellowship](https://aialignmentfoundation.org/fellowship) | AI Alignment Foundation & AE Studio | 2026 Cohort | 2026-08-17 | 🟢 Open | Fully remote; hybrid Demo Day in Los Angeles, CA |
+| [AIAF Fellowship](https://aialignmentfoundation.org/fellowship) | AI Alignment Foundation & AE Studio | 2026 Cohort | 2026-08-17 | 🔴 Closed | Fully remote; hybrid Demo Day in Los Angeles, CA |
 | [SPAR (Supervised Program for Alignment Research)](https://sparai.org/) | Kairos AI Project | Fall 2026 (research Sep 14 - Dec 14) | 2026-08-18 | 🟢 Open | Remote |
 | [Research Fellows Program](https://prognica.com/fellowship/) | Prognica Labs | Inaugural Cohort 2026-2027 | 2026-08-31 | 🟢 Open | Remote / global (wet-lab validation at Prognica's facility) |
 | [IMI AI/ML Fellowships 2026](https://www.imachines.com/imi-ai-ml-fellowships-2025-2026-high-risk-research) | IMI | 2026 Fall Deadline | 2026-09-01 | 🟢 Open | Remote |
