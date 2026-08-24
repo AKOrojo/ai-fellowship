@@ -70,12 +70,12 @@ fellowships:
   - interpretability
   - governance
   - generalist
-  url: https://www.matsprogram.org/program/autumn-2026
-  description: A 10-week full-time research fellowship pairing scholars with senior mentors to work on AI alignment, security, governance, and field-building, with an optional multi-month extension phase.
+  url: https://www.matsprogram.org/program/winter-2027
+  description: A 12-week full-time research fellowship pairing scholars with senior mentors across empirical, theory, strategy & forecasting, policy & governance, systems security, biosecurity, and founding & field-building tracks, with an optional funded extension phase.
   location: Berkeley, CA & London, UK
-  eligibility: Motivated researchers across empirical, theory, governance and other tracks; no formal degree required.
-  funding: Stipend + housing; extension phase ~$7,680/mo plus compute
-  duration: 10 weeks (+ optional ~6-month extension)
+  eligibility: Motivated researchers across empirical, theory, governance and other tracks; 18+ by the start date; no formal degree or prior AI safety experience required.
+  funding: $1,600/wk stipend + travel, housing and weekday meals; compute budget; funded extension
+  duration: 12 weeks (+ optional 6-12 month extension)
   tags:
   - alignment
   - interpretability
@@ -84,11 +84,14 @@ fellowships:
   - governance
   - ml
   source: community
-  last_verified: '2026-06-30'
+  last_verified: '2026-08-24'
   cycles:
   - cycle: Autumn 2026
     deadline: '2026-06-07'
     opens: '2026-05-12'
+  - cycle: Winter 2027 (Jan 19 - Apr 10)
+    deadline: '2026-09-06'
+    opens: '2026-08-18'
 - id: arena
   name: ARENA 9.0 (Alignment Research Engineer Accelerator)
   organization: ARENA
