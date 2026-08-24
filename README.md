@@ -50,7 +50,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md#research-areas) for what each area covers.
 | [SPAR (Supervised Program for Alignment Research)](https://sparai.org/) | Kairos AI Project | Spring 2026 | 2026-01-14 | 🔴 Closed | Remote |
 | [CRA Trustworthy AI Research Fellowship](https://cra.org/crn/2026/02/applications-open-for-the-cra-trustworthy-ai-research-fellowships-second-cohort/) | Computing Research Association | 2026 Second Cohort | 2026-03-31 | 🔴 Closed | United States |
 | [IMI AI/ML Fellowships 2026](https://www.imachines.com/imi-ai-ml-fellowships-2025-2026-high-risk-research) | IMI | 2026 Spring Deadline | 2026-04-01 | 🔴 Closed | Remote |
-| [Cambridge ERA:AI Fellowship](https://erafellowship.org/fellowship) | ERA, University of Cambridge | Summer 2026 | 2026-04-12 | 🔴 Closed | Cambridge, UK |
+| [Cambridge ERA:AI Fellowship](https://erafellowship.org/fellowship) | ERA, University of Cambridge | Summer 2026 (ran Jul 6 - Sep 11) | 2026-04-12 | 🔴 Closed | Cambridge, UK |
 | [Anthropic Fellows Program](https://alignment.anthropic.com/2025/anthropic-fellows-program-2026/) | Anthropic | July 2026 Cohort | 2026-04-26 | 🔴 Closed | Berkeley CA / London UK / remote (US, UK, Canada) |
 | [Astra Fellowship](https://constellation.org/programs/astra) | Constellation Institute | 2026 Cohort | 2026-05-03 | 🔴 Closed | Berkeley, CA |
 | [Pivotal Research Fellowship](https://www.pivotal-research.org/fellowship) | Pivotal Research | Q3 2026 | 2026-05-03 | 🔴 Closed | London, UK |
@@ -72,6 +72,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md#research-areas) for what each area covers.
 | [IMI AI/ML Fellowships 2026](https://www.imachines.com/imi-ai-ml-fellowships-2025-2026-high-risk-research) | IMI | 2026 Fall Deadline | 2026-09-01 | 🟢 Open | Remote |
 | [Memories.ai Research Fellowship](https://memories.ai/blogs/memories-ai-research-fellowship-fall-2026) | Memories.ai | Fall 2026 Cohort | 2026-09-01 | 🟢 Open | Remote-friendly with optional in-person collaboration |
 | [MATS (ML Alignment & Theory Scholars)](https://www.matsprogram.org/program/winter-2027) | MATS Research | Winter 2027 (Jan 19 - Apr 10) | 2026-09-06 | 🟢 Open | Berkeley, CA & London, UK |
+| [Cambridge ERA:AI Fellowship](https://erafellowship.org/fellowship) | ERA, University of Cambridge | Winter 2027 (starts Jan 18) | 2026-09-13 | 🟢 Open | Cambridge, UK |
 | [Foundations of AI Safety Fellowship](https://lisbonaisafetyhub.org/) | LAISH (Lisbon AI Safety Hub) | October 2026 Cohort | 2026-09-30 | 🟢 Open | Lisbon, Portugal (in-person) |
 | [Technical AI Safety Research RFP](https://coefficientgiving.org/funds/navigating-transformative-ai/request-for-proposals-technical-ai-safety-research/) | Coefficient Giving (formerly Open Philanthropy) | 2026 (closed / invite-only, no open call) | Closed | 🔴 Closed | Global / remote |
 | [Anthropic Fellows Program](https://alignment.anthropic.com/2025/anthropic-fellows-program-2026/) | Anthropic | Future cohorts (rolling) | Rolling | 🟡 Rolling | Berkeley CA / London UK / remote (US, UK, Canada) |

@@ -745,10 +745,10 @@ fellowships:
   - governance
   - security
   url: https://erafellowship.org/fellowship
-  description: A fully funded 10-week summer research fellowship in Cambridge where fellows develop projects on technical and/or governance measures to mitigate risks posed by frontier AI systems. Open to applicants at any career stage worldwide.
+  description: A fully funded 10-week research fellowship in Cambridge where fellows develop projects on technical and/or governance measures to mitigate risks posed by frontier AI systems, across technical, governance and security streams. Open to applicants at any career stage worldwide; top fellows are offered 6mo+ funded Research Scholars positions.
   location: Cambridge, UK
   eligibility: Any career stage worldwide (18+); motivated to work on AI safety/governance research
-  funding: Salary equiv. £34,125/yr prorated + accommodation, meals, travel, visa support
+  funding: Winter 2027 stipend £10,000 + meals during working hours, travel expenses, visa support
   duration: 10 weeks
   tags:
   - ai-safety
@@ -757,10 +757,12 @@ fellowships:
   - uk
   - cambridge
   source: community
-  last_verified: '2026-06-30'
+  last_verified: '2026-08-24'
   cycles:
-  - cycle: Summer 2026
+  - cycle: Summer 2026 (ran Jul 6 - Sep 11)
     deadline: '2026-04-12'
+  - cycle: Winter 2027 (starts Jan 18)
+    deadline: '2026-09-13'
 - id: pivotal-research-fellowship
   name: Pivotal Research Fellowship
   organization: Pivotal Research
