@@ -1919,3 +1919,30 @@ fellowships:
   - cycle: Inaugural Cohort 2026-2027
     deadline: '2026-08-31'
     opens: '2026-08-01'
+- id: polymarket-science-fellowship
+  name: Polymarket Science Fellowship
+  organization: Polymarket Institute
+  category: policy-grants
+  areas:
+  - technical
+  - governance
+  - societal
+  url: https://institute.polymarket.com/fellowship
+  description: A one-year grant program supporting 12 early-career PhD researchers per year to do independent frontier research on prediction markets, with access to Polymarket data. Each fellow works within one of the Institute's five research verticals - market structure, market integrity, AI, policy and economics, and crypto and decentralization - and keeps full rights to publish, with no embargo or pre-publication review.
+  location: Remote / global (Institute workshops in New York)
+  eligibility: Early-career PhD researchers working on prediction markets, forecasting, information economics, market design and related fields; open across institutions and disciplines.
+  funding: $10,000 award per fellow; 12 fellows per year
+  duration: 1 year
+  tags:
+  - prediction-markets
+  - forecasting
+  - economics
+  - policy
+  - research
+  - grant
+  - remote
+  source: https://institute.polymarket.com/fellowship
+  last_verified: '2026-08-24'
+  cycles:
+  - cycle: 2026-2027 Cohort
+    deadline: '2026-09-30'
