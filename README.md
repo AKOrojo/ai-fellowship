@@ -33,7 +33,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md#research-areas) for what each area covers.
 | [AIML Residency Program](https://machinelearning.apple.com/updates/aiml-residency-program-application-2026) | Apple | 2026 Cohort | 2025-12-15 | 🔴 Closed | United States (on-site) |
 | [Google PhD Fellowship Program](https://research.google/programs-and-events/phd-fellowship/) | Google Research | 2026 Cohort | 2026-04-30 | 🔴 Closed | Global (region-specific) |
 | [Claude Corps Fellow](https://www.anthropic.com/news/claude-corps) | Anthropic / CodePath / Social Finance | 2026 First Cohort | 2026-07-17 | 🔴 Closed | United States |
-| [Google Africa Applied AI Lab](https://labs.google/aifuturesfund/africaailab) | Google AI Futures Fund / Accra AI Community Centre | 2026 Applied AI Lab | 2026-08-31 | 🟢 Open | Africa / Accra, Ghana demo day |
+| [Google Africa Applied AI Lab](https://labs.google/aifuturesfund/africaailab) | Google AI Futures Fund / Accra AI Community Centre | 2026 Applied AI Lab | 2026-08-31 | 🔴 Closed | Africa / Accra, Ghana demo day |
 | [OpenAI Residency](https://openai.com/residency/) | OpenAI | 2026 Cohort | Rolling | 🟡 Rolling | San Francisco, CA (3+ days/week in office) |
 | [OpenAI Residency](https://openai.com/residency/) | OpenAI | Future postings (rolling) | Rolling | 🟡 Rolling | San Francisco, CA (3+ days/week in office) |
 | [Microsoft Research AI Residency Program](https://www.microsoft.com/en-us/research/academic-program/cambridge-residency/) | Microsoft Research | 2026 Cycle | Rolling | 🟡 Rolling | Redmond, WA / Cambridge, UK |
@@ -68,7 +68,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md#research-areas) for what each area covers.
 | [Scaling AI Safety for a Multi-Agent World](https://schmidtsciences.smapply.io/prog/scaling_ai_safety_for_a_multi_agent_world/) | Schmidt Sciences, Google DeepMind, ARIA & Cooperative AI Foundation | 2026 Funding Call | 2026-08-08 | 🔴 Closed | Global / remote |
 | [AIAF Fellowship](https://aialignmentfoundation.org/fellowship) | AI Alignment Foundation & AE Studio | 2026 Cohort | 2026-08-17 | 🔴 Closed | Fully remote; hybrid Demo Day in Los Angeles, CA |
 | [SPAR (Supervised Program for Alignment Research)](https://sparai.org/) | Kairos AI Project | Fall 2026 (research Sep 14 - Dec 14) | 2026-08-18 | 🔴 Closed | Remote |
-| [Research Fellows Program](https://prognica.com/fellowship/) | Prognica Labs | Inaugural Cohort 2026-2027 | 2026-08-31 | 🟢 Open | Remote / global (wet-lab validation at Prognica's facility) |
+| [Research Fellows Program](https://prognica.com/fellowship/) | Prognica Labs | Inaugural Cohort 2026-2027 | 2026-08-31 | 🔴 Closed | Remote / global (wet-lab validation at Prognica's facility) |
 | [IMI AI/ML Fellowships 2026](https://www.imachines.com/imi-ai-ml-fellowships-2025-2026-high-risk-research) | IMI | 2026 Fall Deadline | 2026-09-01 | 🟢 Open | Remote |
 | [Memories.ai Research Fellowship](https://memories.ai/blogs/memories-ai-research-fellowship-fall-2026) | Memories.ai | Fall 2026 Cohort | 2026-09-01 | 🟢 Open | Remote-friendly with optional in-person collaboration |
 | [Foundations of AI Safety Fellowship](https://lisbonaisafetyhub.org/) | LAISH (Lisbon AI Safety Hub) | October 2026 Cohort | 2026-09-30 | 🟢 Open | Lisbon, Portugal (in-person) |
