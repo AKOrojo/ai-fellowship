@@ -69,8 +69,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md#research-areas) for what each area covers.
 | [AIAF Fellowship](https://aialignmentfoundation.org/fellowship) | AI Alignment Foundation & AE Studio | 2026 Cohort | 2026-08-17 | 🔴 Closed | Fully remote; hybrid Demo Day in Los Angeles, CA |
 | [SPAR (Supervised Program for Alignment Research)](https://sparai.org/) | Kairos AI Project | Fall 2026 (research Sep 14 - Dec 14) | 2026-08-18 | 🔴 Closed | Remote |
 | [Research Fellows Program](https://prognica.com/fellowship/) | Prognica Labs | Inaugural Cohort 2026-2027 | 2026-08-31 | 🔴 Closed | Remote / global (wet-lab validation at Prognica's facility) |
-| [IMI AI/ML Fellowships 2026](https://www.imachines.com/imi-ai-ml-fellowships-2025-2026-high-risk-research) | IMI | 2026 Fall Deadline | 2026-09-01 | 🟢 Open | Remote |
-| [Memories.ai Research Fellowship](https://memories.ai/blogs/memories-ai-research-fellowship-fall-2026) | Memories.ai | Fall 2026 Cohort | 2026-09-01 | 🟢 Open | Remote-friendly with optional in-person collaboration |
+| [IMI AI/ML Fellowships 2026](https://www.imachines.com/imi-ai-ml-fellowships-2025-2026-high-risk-research) | IMI | 2026 Fall Deadline | 2026-09-01 | 🔴 Closed | Remote |
+| [Memories.ai Research Fellowship](https://memories.ai/blogs/memories-ai-research-fellowship-fall-2026) | Memories.ai | Fall 2026 Cohort | 2026-09-01 | 🔴 Closed | Remote-friendly with optional in-person collaboration |
 | [Foundations of AI Safety Fellowship](https://lisbonaisafetyhub.org/) | LAISH (Lisbon AI Safety Hub) | October 2026 Cohort | 2026-09-30 | 🟢 Open | Lisbon, Portugal (in-person) |
 | [Technical AI Safety Research RFP](https://coefficientgiving.org/funds/navigating-transformative-ai/request-for-proposals-technical-ai-safety-research/) | Coefficient Giving (formerly Open Philanthropy) | 2026 (closed / invite-only, no open call) | Closed | 🔴 Closed | Global / remote |
 | [Anthropic Fellows Program](https://alignment.anthropic.com/2025/anthropic-fellows-program-2026/) | Anthropic | Future cohorts (rolling) | Rolling | 🟡 Rolling | Berkeley CA / London UK / remote (US, UK, Canada) |
@@ -96,7 +96,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md#research-areas) for what each area covers.
 | [Women in AI/ML Doctoral Fellowship](https://docs.google.com/forms/d/e/1FAIpQLSe614SuXjiH7myFr6wok0ppQgxpb86iCRH8075BL4vK9wYzBA/viewform) | KAIA Network, APHRC & The New School | 2026 | 2026-07-31 | 🔴 Closed | Sub-Saharan Africa (remote) |
 | [Meta Research PhD Fellowship](https://metaresearchphdfellowship.smapply.io/) | Meta | 2026 Cycle | 2026-09-20 | 🟢 Open | Global |
 | [NSF PRFB: AI + Biological Sciences](https://www.nsf.gov/funding/opportunities/prfb-postdoctoral-research-fellowships-biology/nsf26-504/solicitation) | NSF BIO | 2026 Solicitation | 2026-09-29 | 🟢 Open | United States |
-| [Schmidt AI in Science Postdocs](https://schmidtaiinsciencepostdocs.ucsd.edu/) | UC San Diego | 2027 Cohort | 2026-10-05 | 🔵 Upcoming | UC San Diego, California |
+| [Schmidt AI in Science Postdocs](https://schmidtaiinsciencepostdocs.ucsd.edu/) | UC San Diego | 2027 Cohort | 2026-10-05 | 🟢 Open | UC San Diego, California |
 | [Google Higher Ed Faculty AI Fellowship](https://edu.google.com/intl/ALL_us/for-educators/communities/higher-ed-faculty-ai-fellowship/) | Google for Education | 2026 Inaugural Cohort | Rolling | 🟡 Rolling | Higher education institutions |
 
 ### Policy, Nonprofit & Grants
