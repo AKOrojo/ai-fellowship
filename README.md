@@ -71,7 +71,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md#research-areas) for what each area covers.
 | [Research Fellows Program](https://prognica.com/fellowship/) | Prognica Labs | Inaugural Cohort 2026-2027 | 2026-08-31 | 🔴 Closed | Remote / global (wet-lab validation at Prognica's facility) |
 | [IMI AI/ML Fellowships 2026](https://www.imachines.com/imi-ai-ml-fellowships-2025-2026-high-risk-research) | IMI | 2026 Fall Deadline | 2026-09-01 | 🔴 Closed | Remote |
 | [Memories.ai Research Fellowship](https://memories.ai/blogs/memories-ai-research-fellowship-fall-2026) | Memories.ai | Fall 2026 Cohort | 2026-09-01 | 🔴 Closed | Remote-friendly with optional in-person collaboration |
-| [Foundations of AI Safety Fellowship](https://lisbonaisafetyhub.org/) | LAISH (Lisbon AI Safety Hub) | October 2026 Cohort | 2026-09-30 | 🟢 Open | Lisbon, Portugal (in-person) |
+| [Foundations of AI Safety Fellowship](https://lisbonaisafetyhub.org/) | LAISH (Lisbon AI Safety Hub) | October 2026 Cohort | 2026-09-30 | 🔴 Closed | Lisbon, Portugal (in-person) |
 | [Technical AI Safety Research RFP](https://coefficientgiving.org/funds/navigating-transformative-ai/request-for-proposals-technical-ai-safety-research/) | Coefficient Giving (formerly Open Philanthropy) | 2026 (closed / invite-only, no open call) | Closed | 🔴 Closed | Global / remote |
 | [Anthropic Fellows Program](https://alignment.anthropic.com/2025/anthropic-fellows-program-2026/) | Anthropic | Future cohorts (rolling) | Rolling | 🟡 Rolling | Berkeley CA / London UK / remote (US, UK, Canada) |
 | [Apart Lab Fellowship](https://apartresearch.com/lab) | Apart Research | 2026 (rolling via monthly Sprints) | Rolling | 🟡 Rolling | Remote (global) |
